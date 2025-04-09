@@ -1,0 +1,246 @@
+2025-04-01 22:53:35,436 - INFO - Script started
+2025-04-01 22:53:35,438 - INFO - Starting the main function
+2025-04-01 22:53:36,091 - INFO - Launching the browser
+2025-04-01 22:53:36,788 - INFO - Browser launched and new page created
+2025-04-01 22:53:36,794 - INFO - Output directory created at D:\code\cj_carter_all\demographics_data
+2025-04-01 22:53:36,796 - INFO - CSV file path set to D:\code\cj_carter_all\demographics_data\data.csv
+2025-04-01 22:53:36,818 - INFO - Loaded 1904 counties from file
+2025-04-01 22:53:36,821 - INFO - Loaded 115 already processed counties
+2025-04-01 22:53:36,822 - INFO - Skipping already processed county: Accomack County, Virginia
+2025-04-01 22:53:36,822 - INFO - Skipping already processed county: Ada County, Idaho
+2025-04-01 22:53:36,823 - INFO - Skipping already processed county: Adams County, Idaho
+2025-04-01 22:53:36,823 - INFO - Skipping already processed county: Adams County, Indiana
+2025-04-01 22:53:36,824 - INFO - Skipping already processed county: Adams County, North Dakota
+2025-04-01 22:53:36,826 - INFO - Skipping already processed county: Adams County, Ohio
+2025-04-01 22:53:36,831 - INFO - Skipping already processed county: Adams County, Pennsylvania
+2025-04-01 22:53:36,832 - INFO - Skipping already processed county: Adams County, Washington
+2025-04-01 22:53:36,833 - INFO - Skipping already processed county: Adams County, Wisconsin
+2025-04-01 22:53:36,833 - INFO - Skipping already processed county: Aitkin County, Minnesota
+2025-04-01 22:53:36,834 - INFO - Skipping already processed county: Alamance County, North Carolina
+2025-04-01 22:53:36,835 - INFO - Skipping already processed county: Alameda County, California
+2025-04-01 22:53:36,835 - INFO - Skipping already processed county: Albany County, New York
+2025-04-01 22:53:36,836 - INFO - Skipping already processed county: Albemarle County, Virginia
+2025-04-01 22:53:36,837 - INFO - Skipping already processed county: Alcona County, Michigan
+2025-04-01 22:53:36,837 - INFO - Skipping already processed county: Aleutians East Borough, Alaska
+2025-04-01 22:53:36,838 - INFO - Skipping already processed county: Aleutians West Census Area, Alaska
+2025-04-01 22:53:36,839 - INFO - Skipping already processed county: Alexander County, North Carolina
+2025-04-01 22:53:36,841 - INFO - Skipping already processed county: Alger County, Michigan
+2025-04-01 22:53:36,844 - INFO - Skipping already processed county: Allegan County, Michigan
+2025-04-01 22:53:36,845 - INFO - Skipping already processed county: Allegany County, New York
+2025-04-01 22:53:36,846 - INFO - Skipping already processed county: Alleghany County, North Carolina
+2025-04-01 22:53:36,851 - INFO - Skipping already processed county: Alleghany County, Virginia
+2025-04-01 22:53:36,852 - INFO - Skipping already processed county: Allegheny County, Pennsylvania
+2025-04-01 22:53:36,853 - INFO - Skipping already processed county: Allen County, Indiana
+2025-04-01 22:53:36,854 - INFO - Skipping already processed county: Allen County, Kansas
+2025-04-01 22:53:36,856 - INFO - Skipping already processed county: Allen County, Ohio
+2025-04-01 22:53:36,857 - INFO - Skipping already processed county: Alpena County, Michigan
+2025-04-01 22:53:36,861 - INFO - Skipping already processed county: Alpine County, California
+2025-04-01 22:53:36,867 - INFO - Skipping already processed county: Amador County, California
+2025-04-01 22:53:36,868 - INFO - Skipping already processed county: Amelia County, Virginia
+2025-04-01 22:53:36,869 - INFO - Skipping already processed county: Amherst County, Virginia
+2025-04-01 22:53:36,869 - INFO - Skipping already processed county: Municipality of Anchorage, Alaska (a consolidated city-borough under Alaska law)
+2025-04-01 22:53:36,871 - INFO - Skipping already processed county: Anderson County, Kansas
+2025-04-01 22:53:36,871 - INFO - Skipping already processed county: Anderson County, Tennessee
+2025-04-01 22:53:36,872 - INFO - Skipping already processed county: Anderson County, Texas
+2025-04-01 22:53:36,875 - INFO - Skipping already processed county: Andrews County, Texas
+2025-04-01 22:53:36,877 - INFO - Skipping already processed county: Androscoggin County, Maine
+2025-04-01 22:53:36,879 - INFO - Skipping already processed county: Angelina County, Texas
+2025-04-01 22:53:36,880 - INFO - Skipping already processed county: Anoka County, Minnesota
+2025-04-01 22:53:36,882 - INFO - Skipping already processed county: Anson County, North Carolina
+2025-04-01 22:53:36,885 - INFO - Skipping already processed county: Antrim County, Michigan
+2025-04-01 22:53:36,886 - INFO - Skipping already processed county: Appling County, Georgia
+2025-04-01 22:53:36,887 - INFO - Skipping already processed county: Appomattox County, Virginia
+2025-04-01 22:53:36,887 - INFO - Skipping already processed county: Aransas County, Texas
+2025-04-01 22:53:36,887 - INFO - Skipping already processed county: Archer County, Texas
+2025-04-01 22:53:36,888 - INFO - Skipping already processed county: Arenac County, Michigan
+2025-04-01 22:53:36,888 - INFO - Skipping already processed county: Arkansas County, Arkansas
+2025-04-01 22:53:36,889 - INFO - Skipping already processed county: Arlington County, Virginia
+2025-04-01 22:53:36,889 - INFO - Skipping already processed county: Armstrong County, Pennsylvania
+2025-04-01 22:53:36,890 - INFO - Skipping already processed county: Armstrong County, Texas
+2025-04-01 22:53:36,891 - INFO - Skipping already processed county: Aroostook County, Maine
+2025-04-01 22:53:36,893 - INFO - Skipping already processed county: Ashe County, North Carolina
+2025-04-01 22:53:36,893 - INFO - Skipping already processed county: Ashland County, Ohio
+2025-04-01 22:53:36,894 - INFO - Skipping already processed county: Ashland County, Wisconsin
+2025-04-01 22:53:36,895 - INFO - Skipping already processed county: Ashley County, Arkansas
+2025-04-01 22:53:36,896 - INFO - Skipping already processed county: Ashtabula County, Ohio
+2025-04-01 22:53:36,898 - INFO - Skipping already processed county: Asotin County, Washington
+2025-04-01 22:53:36,899 - INFO - Skipping already processed county: Atascosa County, Texas
+2025-04-01 22:53:36,900 - INFO - Skipping already processed county: Atchison County, Kansas
+2025-04-01 22:53:36,900 - INFO - Skipping already processed county: Athens County, Ohio
+2025-04-01 22:53:36,901 - INFO - Skipping already processed county: Atkinson County, Georgia
+2025-04-01 22:53:36,902 - INFO - Skipping already processed county: Auglaize County, Ohio
+2025-04-01 22:53:36,902 - INFO - Skipping already processed county: Augusta County, Virginia
+2025-04-01 22:53:36,902 - INFO - Skipping already processed county: Austin County, Texas
+2025-04-01 22:53:36,903 - INFO - Skipping already processed county: Avery County, North Carolina
+2025-04-01 22:53:36,903 - INFO - Skipping already processed county: Bacon County, Georgia
+2025-04-01 22:53:36,904 - INFO - Skipping already processed county: Bailey County, Texas
+2025-04-01 22:53:36,905 - INFO - Skipping already processed county: Baker County, Georgia
+2025-04-01 22:53:36,905 - INFO - Skipping already processed county: Baker County, Oregon
+2025-04-01 22:53:36,906 - INFO - Skipping already processed county: Baldwin County, Georgia
+2025-04-01 22:53:36,907 - INFO - Skipping already processed county: Bandera County, Texas
+2025-04-01 22:53:36,909 - INFO - Skipping already processed county: Banks County, Georgia
+2025-04-01 22:53:36,910 - INFO - Skipping already processed county: Bannock County, Idaho
+2025-04-01 22:53:36,911 - INFO - Skipping already processed county: Baraga County, Michigan
+2025-04-01 22:53:36,912 - INFO - Skipping already processed county: Barber County, Kansas
+2025-04-01 22:53:36,913 - INFO - Skipping already processed county: Barbour County, West Virginia
+2025-04-01 22:53:36,917 - INFO - Skipping already processed county: Barnes County, North Dakota
+2025-04-01 22:53:36,919 - INFO - Skipping already processed county: Barnstable County, Massachusetts
+2025-04-01 22:53:36,920 - INFO - Skipping already processed county: Barron County, Wisconsin
+2025-04-01 22:53:36,920 - INFO - Skipping already processed county: Barrow County, Georgia
+2025-04-01 22:53:36,921 - INFO - Skipping already processed county: Barry County, Michigan
+2025-04-01 22:53:36,922 - INFO - Skipping already processed county: Bartholomew County, Indiana
+2025-04-01 22:53:36,923 - INFO - Skipping already processed county: Barton County, Kansas
+2025-04-01 22:53:36,923 - INFO - Skipping already processed county: Bartow County, Georgia
+2025-04-01 22:53:36,926 - INFO - Skipping already processed county: Bastrop County, Texas
+2025-04-01 22:53:36,927 - INFO - Skipping already processed county: Bath County, Virginia
+2025-04-01 22:53:36,929 - INFO - Skipping already processed county: Baxter County, Arkansas
+2025-04-01 22:53:36,932 - INFO - Skipping already processed county: Bay County, Michigan
+2025-04-01 22:53:36,933 - INFO - Skipping already processed county: Bayfield County, Wisconsin
+2025-04-01 22:53:36,934 - INFO - Skipping already processed county: Baylor County, Texas
+2025-04-01 22:53:36,934 - INFO - Skipping already processed county: Bear Lake County, Idaho
+2025-04-01 22:53:36,935 - INFO - Skipping already processed county: Beaufort County, North Carolina
+2025-04-01 22:53:36,936 - INFO - Skipping already processed county: Beaver County, Pennsylvania
+2025-04-01 22:53:36,936 - INFO - Skipping already processed county: Beaver County, Utah
+2025-04-01 22:53:36,936 - INFO - Skipping already processed county: Becker County, Minnesota
+2025-04-01 22:53:36,937 - INFO - Skipping already processed county: Bedford County, Pennsylvania
+2025-04-01 22:53:36,937 - INFO - Skipping already processed county: Bedford County, Tennessee
+2025-04-01 22:53:36,938 - INFO - Skipping already processed county: Bedford County, Virginia
+2025-04-01 22:53:36,939 - INFO - Skipping already processed county: Bee County, Texas
+2025-04-01 22:53:36,940 - INFO - Skipping already processed county: Belknap County, New Hampshire
+2025-04-01 22:53:36,942 - INFO - Skipping already processed county: Bell County, Texas
+2025-04-01 22:53:36,944 - INFO - Skipping already processed county: Belmont County, Ohio
+2025-04-01 22:53:36,945 - INFO - Skipping already processed county: Beltrami County, Minnesota
+2025-04-01 22:53:36,946 - INFO - Skipping already processed county: Ben Hill County, Georgia
+2025-04-01 22:53:36,951 - INFO - Skipping already processed county: Benewah County, Idaho
+2025-04-01 22:53:36,952 - INFO - Skipping already processed county: Benson County, North Dakota
+2025-04-01 22:53:36,953 - INFO - Skipping already processed county: Benton County, Arkansas
+2025-04-01 22:53:36,953 - INFO - Skipping already processed county: Benton County, Indiana
+2025-04-01 22:53:36,954 - INFO - Skipping already processed county: Benton County, Minnesota
+2025-04-01 22:53:36,954 - INFO - Skipping already processed county: Benton County, Oregon
+2025-04-01 22:53:36,954 - INFO - Skipping already processed county: Benton County, Tennessee
+2025-04-01 22:53:36,955 - INFO - Skipping already processed county: Benton County, Washington
+2025-04-01 22:53:36,955 - INFO - Skipping already processed county: Benzie County, Michigan
+2025-04-01 22:53:36,956 - INFO - Processing county: Berkeley County, state: West Virginia
+2025-04-01 22:53:43,962 - INFO - Navigating to: https://data.census.gov/all?q=Berkeley+County%2C+West+Virginia (Attempt 1/3)
+2025-04-01 22:53:56,735 - INFO - Scraping demographics for Berkeley County, West Virginia...
+2025-04-01 22:53:56,926 - INFO - Population: Total Population:122,076
+2025-04-01 22:53:56,977 - INFO - Income: Median Household Income:$79,625
+2025-04-01 22:53:57,007 - INFO - Employment Rate: Employment Rate:62.2%
+2025-04-01 22:54:01,337 - INFO - Navigating to: https://www.bing.com/search?q=Berkeley+County%2C+West+Virginia+population+growth+rate (Attempt 1/3)
+2025-04-01 22:54:02,854 - INFO - Searching Bing for population growth rate: Berkeley County, West Virginia population growth rate
+2025-04-01 22:54:02,937 - INFO - Population growth rate result: N/A
+2025-04-01 22:54:02,955 - INFO - --------------------------------------------------------------------------------
+2025-04-01 22:54:02,956 - INFO - Processing county: Berks County, state: Pennsylvania
+2025-04-01 22:54:06,671 - INFO - Navigating to: https://data.census.gov/all?q=Berks+County%2C+Pennsylvania (Attempt 1/3)
+2025-04-01 22:54:10,081 - INFO - Scraping demographics for Berks County, Pennsylvania...
+2025-04-01 22:54:13,619 - INFO - Population: Total Population:428,849
+2025-04-01 22:54:13,639 - INFO - Income: Median Household Income:$75,675
+2025-04-01 22:54:13,689 - INFO - Employment Rate: Employment Rate:60.7%
+2025-04-01 22:54:17,628 - INFO - Navigating to: https://www.bing.com/search?q=Berks+County%2C+Pennsylvania+population+growth+rate (Attempt 1/3)
+2025-04-01 22:54:19,006 - INFO - Searching Bing for population growth rate: Berks County, Pennsylvania population growth rate
+2025-04-01 22:54:19,231 - INFO - Population growth rate result: N/A
+2025-04-01 22:54:19,239 - INFO - --------------------------------------------------------------------------------
+2025-04-01 22:54:19,240 - INFO - Processing county: Berkshire County, state: Massachusetts
+2025-04-01 22:54:22,370 - INFO - Navigating to: https://data.census.gov/all?q=Berkshire+County%2C+Massachusetts (Attempt 1/3)
+2025-04-01 22:54:25,420 - INFO - Scraping demographics for Berkshire County, Massachusetts...
+2025-04-01 22:54:29,054 - INFO - Population: Total Population:129,026
+2025-04-01 22:54:29,119 - INFO - Income: Median Household Income:$77,498
+2025-04-01 22:54:29,204 - INFO - Employment Rate: Employment Rate:57.7%
+2025-04-01 22:54:32,739 - INFO - Navigating to: https://www.bing.com/search?q=Berkshire+County%2C+Massachusetts+population+growth+rate (Attempt 1/3)
+2025-04-01 22:54:34,122 - INFO - Searching Bing for population growth rate: Berkshire County, Massachusetts population growth rate
+2025-04-01 22:54:34,305 - INFO - Population growth rate result: N/A
+2025-04-01 22:54:34,308 - INFO - --------------------------------------------------------------------------------
+2025-04-01 22:54:34,308 - INFO - Processing county: Bernalillo County, state: New Mexico
+2025-04-01 22:54:38,616 - INFO - Navigating to: https://data.census.gov/all?q=Bernalillo+County%2C+New+Mexico (Attempt 1/3)
+2025-04-01 22:54:41,667 - INFO - Scraping demographics for Bernalillo County, New Mexico...
+2025-04-01 22:54:42,983 - INFO - Population: Total Population:676,444
+2025-04-01 22:54:43,070 - INFO - Income: Median Household Income:$68,372
+2025-04-01 22:54:43,088 - INFO - Employment Rate: Employment Rate:59.9%
+2025-04-01 22:54:46,687 - INFO - Navigating to: https://www.bing.com/search?q=Bernalillo+County%2C+New+Mexico+population+growth+rate (Attempt 1/3)
+2025-04-01 22:54:47,837 - INFO - Searching Bing for population growth rate: Bernalillo County, New Mexico population growth rate
+2025-04-01 22:54:48,089 - INFO - Population growth rate result: N/A
+2025-04-01 22:54:48,091 - INFO - --------------------------------------------------------------------------------
+2025-04-01 22:54:48,092 - INFO - Processing county: Berrien County, state: Georgia
+2025-04-01 22:54:55,060 - INFO - Navigating to: https://data.census.gov/all?q=Berrien+County%2C+Georgia (Attempt 1/3)
+2025-04-01 22:54:59,692 - INFO - Scraping demographics for Berrien County, Georgia...
+2025-04-01 22:55:02,738 - INFO - Population: Total Population:18,160
+2025-04-01 22:55:02,762 - INFO - Income: Median Household Income:$50,414
+2025-04-01 22:55:02,798 - INFO - Employment Rate: Employment Rate:52.9%
+2025-04-01 22:55:07,778 - INFO - Navigating to: https://www.bing.com/search?q=Berrien+County%2C+Georgia+population+growth+rate (Attempt 1/3)
+2025-04-01 22:55:08,838 - INFO - Searching Bing for population growth rate: Berrien County, Georgia population growth rate
+2025-04-01 22:55:09,042 - INFO - Population growth rate result: N/A
+2025-04-01 22:55:09,044 - INFO - --------------------------------------------------------------------------------
+2025-04-01 22:55:09,044 - INFO - Processing county: Berrien County, state: Michigan
+2025-04-01 22:55:15,412 - INFO - Navigating to: https://data.census.gov/all?q=Berrien+County%2C+Michigan (Attempt 1/3)
+2025-04-01 22:55:20,701 - INFO - Scraping demographics for Berrien County, Michigan...
+2025-04-01 22:55:21,065 - INFO - Population: Total Population:154,316
+2025-04-01 22:55:21,187 - INFO - Income: Median Household Income:$62,460
+2025-04-01 22:55:21,252 - INFO - Employment Rate: Employment Rate:56.5%
+2025-04-01 22:55:27,044 - INFO - Navigating to: https://www.bing.com/search?q=Berrien+County%2C+Michigan+population+growth+rate (Attempt 1/3)
+2025-04-01 22:55:28,530 - INFO - Searching Bing for population growth rate: Berrien County, Michigan population growth rate
+2025-04-01 22:55:28,706 - INFO - Population growth rate result: N/A
+2025-04-01 22:55:28,709 - INFO - --------------------------------------------------------------------------------
+2025-04-01 22:55:28,710 - INFO - Processing county: Bertie County, state: North Carolina
+2025-04-01 22:55:33,126 - INFO - Navigating to: https://data.census.gov/all?q=Bertie+County%2C+North+Carolina (Attempt 1/3)
+2025-04-01 22:55:37,842 - INFO - Scraping demographics for Bertie County, North Carolina...
+2025-04-01 22:55:39,729 - INFO - Population: Total Population:17,934
+2025-04-01 22:55:39,753 - INFO - Income: Median Household Income:$45,931
+2025-04-01 22:55:39,783 - INFO - Employment Rate: Employment Rate:39.7%
+2025-04-01 22:55:43,414 - INFO - Navigating to: https://www.bing.com/search?q=Bertie+County%2C+North+Carolina+population+growth+rate (Attempt 1/3)
+2025-04-01 22:55:44,689 - INFO - Searching Bing for population growth rate: Bertie County, North Carolina population growth rate
+2025-04-01 22:55:44,874 - INFO - Population growth rate result: N/A
+2025-04-01 22:55:44,876 - INFO - --------------------------------------------------------------------------------
+2025-04-01 22:55:44,876 - INFO - Processing county: Bethel Census Area, state: Alaska
+2025-04-01 22:55:48,745 - INFO - Navigating to: https://data.census.gov/all?q=Bethel+Census+Area%2C+Alaska (Attempt 1/3)
+2025-04-01 22:55:52,797 - INFO - Scraping demographics for Bethel Census Area, Alaska...
+2025-04-01 22:55:53,770 - INFO - Population: Total Population:18,666
+2025-04-01 22:55:53,848 - INFO - Income: Median Household Income:$70,616
+2025-04-01 22:55:53,891 - INFO - Employment Rate: Employment Rate:51.9%
+2025-04-01 22:55:58,351 - INFO - Navigating to: https://www.bing.com/search?q=Bethel+Census+Area%2C+Alaska+population+growth+rate (Attempt 1/3)
+2025-04-01 22:55:59,577 - INFO - Searching Bing for population growth rate: Bethel Census Area, Alaska population growth rate
+2025-04-01 22:55:59,759 - INFO - Population growth rate result: N/A
+2025-04-01 22:55:59,762 - INFO - --------------------------------------------------------------------------------
+2025-04-01 22:55:59,764 - INFO - Processing county: Bexar County, state: Texas
+2025-04-01 22:56:05,709 - INFO - Navigating to: https://data.census.gov/all?q=Bexar+County%2C+Texas (Attempt 1/3)
+2025-04-01 22:56:09,569 - INFO - Scraping demographics for Bexar County, Texas...
+2025-04-01 22:56:10,571 - INFO - Population: Total Population:2,009,324
+2025-04-01 22:56:10,710 - INFO - Income: Median Household Income:$69,807
+2025-04-01 22:56:10,828 - INFO - Employment Rate: Employment Rate:61.6%
+2025-04-01 22:56:15,615 - INFO - Navigating to: https://www.bing.com/search?q=Bexar+County%2C+Texas+population+growth+rate (Attempt 1/3)
+2025-04-01 22:56:16,856 - INFO - Searching Bing for population growth rate: Bexar County, Texas population growth rate
+2025-04-01 22:56:17,077 - INFO - Population growth rate result: N/A
+2025-04-01 22:56:17,079 - INFO - --------------------------------------------------------------------------------
+2025-04-01 22:56:17,080 - INFO - Processing county: Bibb County, state: Georgia
+2025-04-01 22:56:22,800 - INFO - Navigating to: https://data.census.gov/all?q=Bibb+County%2C+Georgia (Attempt 1/3)
+2025-04-01 22:56:27,042 - INFO - Scraping demographics for Bibb County, Georgia...
+2025-04-01 22:56:59,286 - INFO - Population: Total Population:157,346
+2025-04-01 22:56:59,298 - INFO - Income: Median Household Income:$51,254
+2025-04-01 22:56:59,311 - INFO - Employment Rate: Employment Rate:53.4%
+2025-04-01 22:57:02,672 - INFO - Navigating to: https://www.bing.com/search?q=Bibb+County%2C+Georgia+population+growth+rate (Attempt 1/3)
+2025-04-01 22:57:04,045 - INFO - Searching Bing for population growth rate: Bibb County, Georgia population growth rate
+2025-04-01 22:57:04,235 - INFO - Population growth rate result: N/A
+2025-04-01 22:57:04,239 - INFO - --------------------------------------------------------------------------------
+2025-04-01 22:57:04,240 - INFO - Processing county: Big Stone County, state: Minnesota
+2025-04-01 22:57:07,662 - INFO - Navigating to: https://data.census.gov/all?q=Big+Stone+County%2C+Minnesota (Attempt 1/3)
+2025-04-01 22:57:10,537 - INFO - Scraping demographics for Big Stone County, Minnesota...
+2025-04-01 22:57:12,452 - ERROR - Error scraping demographics for Big Stone County, Minnesota: Page.wait_for_selector: Target page, context or browser has been closed
+Call log:
+  - waiting for locator(".highlight-description") to be visible
+
+2025-04-01 22:57:12,455 - INFO - --------------------------------------------------------------------------------
+2025-04-01 22:57:12,456 - INFO - Processing county: Billings County, state: North Dakota
+2025-04-01 22:57:15,849 - ERROR - Error scraping demographics for Billings County, North Dakota: Mouse.move: Target page, context or browser has been closed
+2025-04-01 22:57:15,851 - INFO - --------------------------------------------------------------------------------
+2025-04-01 22:57:15,851 - INFO - Processing county: Bingham County, state: Idaho
+2025-04-01 22:57:19,177 - ERROR - Error scraping demographics for Bingham County, Idaho: Mouse.move: Target page, context or browser has been closed
+2025-04-01 22:57:19,183 - INFO - --------------------------------------------------------------------------------
+2025-04-01 22:57:19,184 - INFO - Processing county: Blackford County, state: Indiana
+2025-04-01 22:57:24,270 - ERROR - Error scraping demographics for Blackford County, Indiana: Mouse.move: Target page, context or browser has been closed
+2025-04-01 22:57:24,278 - INFO - --------------------------------------------------------------------------------
+2025-04-01 22:57:24,279 - INFO - Processing county: Bladen County, state: North Carolina
+2025-04-01 22:57:28,633 - ERROR - Error scraping demographics for Bladen County, North Carolina: Mouse.move: Target page, context or browser has been closed
+2025-04-01 22:57:28,635 - INFO - --------------------------------------------------------------------------------
+2025-04-01 22:57:28,635 - INFO - Processing county: Blaine County, state: Idaho
+2025-04-01 22:57:33,541 - ERROR - Error scraping demographics for Blaine County, Idaho: Mouse.move: Target page, context or browser has been closed
+2025-04-01 22:57:33,543 - INFO - --------------------------------------------------------------------------------
+2025-04-01 22:57:33,544 - INFO - Processing county: Blair County, state: Pennsylvania

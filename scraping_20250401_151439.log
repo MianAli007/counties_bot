@@ -1,0 +1,39 @@
+2025-04-01 15:14:39,213 - INFO - Script started
+2025-04-01 15:14:39,216 - INFO - Starting the main function
+2025-04-01 15:14:39,824 - INFO - Launching the browser
+2025-04-01 15:14:40,348 - INFO - Browser launched and new page created
+2025-04-01 15:14:40,364 - INFO - Output directory created at D:\code\cj_carter_all\demographics_data
+2025-04-01 15:14:40,372 - INFO - CSV file path set to D:\code\cj_carter_all\demographics_data\data.csv
+2025-04-01 15:14:40,399 - INFO - CSV file initialized with headers
+2025-04-01 15:14:40,420 - INFO - Loaded 1904 counties from file
+2025-04-01 15:14:40,421 - INFO - Loaded 0 already processed counties
+2025-04-01 15:14:40,421 - INFO - Processing county: Accomack County, state: Virginia
+2025-04-01 15:14:44,887 - INFO - Navigating to: https://data.census.gov/all?q=Accomack+County%2C+Virginia (Attempt 1/3)
+2025-04-01 15:14:53,743 - INFO - Scraping demographics for Accomack County, Virginia...
+2025-04-01 15:14:53,881 - INFO - Population: Total Population:33,413
+2025-04-01 15:14:53,900 - INFO - Income: Median Household Income:$57,500
+2025-04-01 15:14:53,921 - INFO - Employment Rate: Employment Rate:53.3%
+2025-04-01 15:14:53,924 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:14:53,924 - INFO - Processing county: Ada County, state: Idaho
+2025-04-01 15:14:58,035 - INFO - Navigating to: https://data.census.gov/all?q=Ada+County%2C+Idaho (Attempt 1/3)
+2025-04-01 15:14:59,096 - INFO - Scraping demographics for Ada County, Idaho...
+2025-04-01 15:15:09,886 - INFO - Population: Total Population:494,967
+2025-04-01 15:15:09,899 - INFO - Income: Median Household Income:$90,526
+2025-04-01 15:15:09,919 - INFO - Employment Rate: Employment Rate:63.3%
+2025-04-01 15:15:09,921 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:15:09,922 - INFO - Processing county: Adams County, state: Idaho
+2025-04-01 15:15:13,667 - INFO - Navigating to: https://data.census.gov/all?q=Adams+County%2C+Idaho (Attempt 1/3)
+2025-04-01 15:15:14,797 - INFO - Scraping demographics for Adams County, Idaho...
+2025-04-01 15:15:26,838 - INFO - Population: Total Population:4,379
+2025-04-01 15:15:26,850 - INFO - Income: Median Household Income:$59,286
+2025-04-01 15:15:26,864 - INFO - Employment Rate: Employment Rate:45.6%
+2025-04-01 15:15:26,866 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:15:26,867 - INFO - Processing county: Adams County, state: Indiana
+2025-04-01 15:15:33,126 - INFO - Navigating to: https://data.census.gov/all?q=Adams+County%2C+Indiana (Attempt 1/3)
+2025-04-01 15:15:34,387 - INFO - Scraping demographics for Adams County, Indiana...
+2025-04-01 15:15:40,456 - ERROR - Error scraping demographics for Adams County, Indiana: Page.wait_for_selector: Target page, context or browser has been closed
+Call log:
+  - waiting for locator(".highlight-description") to be visible
+
+2025-04-01 15:15:40,460 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:15:40,461 - INFO - Processing county: Adams County, state: North Dakota

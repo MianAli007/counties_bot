@@ -1,0 +1,74 @@
+2025-04-01 15:12:41,056 - INFO - Script started
+2025-04-01 15:12:41,057 - INFO - Starting the main function
+2025-04-01 15:12:41,634 - INFO - Launching the browser
+2025-04-01 15:12:42,306 - INFO - Browser launched and new page created
+2025-04-01 15:12:42,312 - INFO - Output directory created at D:\code\cj_carter_all\demographics_data
+2025-04-01 15:12:42,314 - INFO - CSV file path set to D:\code\cj_carter_all\demographics_data\data_20250401_151242.csv
+2025-04-01 15:12:42,326 - INFO - CSV file initialized with headers
+2025-04-01 15:12:42,342 - INFO - Loaded 1904 counties from file
+2025-04-01 15:12:42,372 - INFO - Loaded 40 already processed counties
+2025-04-01 15:12:42,372 - INFO - Skipping already processed county: Accomack County, Virginia
+2025-04-01 15:12:42,372 - INFO - Skipping already processed county: Ada County, Idaho
+2025-04-01 15:12:42,373 - INFO - Skipping already processed county: Adams County, Idaho
+2025-04-01 15:12:42,373 - INFO - Skipping already processed county: Adams County, Indiana
+2025-04-01 15:12:42,373 - INFO - Skipping already processed county: Adams County, North Dakota
+2025-04-01 15:12:42,374 - INFO - Skipping already processed county: Adams County, Ohio
+2025-04-01 15:12:42,374 - INFO - Skipping already processed county: Adams County, Pennsylvania
+2025-04-01 15:12:42,375 - INFO - Skipping already processed county: Adams County, Washington
+2025-04-01 15:12:42,376 - INFO - Skipping already processed county: Adams County, Wisconsin
+2025-04-01 15:12:42,377 - INFO - Skipping already processed county: Aitkin County, Minnesota
+2025-04-01 15:12:42,378 - INFO - Skipping already processed county: Alamance County, North Carolina
+2025-04-01 15:12:42,380 - INFO - Skipping already processed county: Alameda County, California
+2025-04-01 15:12:42,382 - INFO - Skipping already processed county: Albany County, New York
+2025-04-01 15:12:42,382 - INFO - Skipping already processed county: Albemarle County, Virginia
+2025-04-01 15:12:42,383 - INFO - Skipping already processed county: Alcona County, Michigan
+2025-04-01 15:12:42,383 - INFO - Skipping already processed county: Aleutians East Borough, Alaska
+2025-04-01 15:12:42,383 - INFO - Skipping already processed county: Aleutians West Census Area, Alaska
+2025-04-01 15:12:42,384 - INFO - Skipping already processed county: Alexander County, North Carolina
+2025-04-01 15:12:42,384 - INFO - Skipping already processed county: Alger County, Michigan
+2025-04-01 15:12:42,384 - INFO - Skipping already processed county: Allegan County, Michigan
+2025-04-01 15:12:42,385 - INFO - Skipping already processed county: Allegany County, New York
+2025-04-01 15:12:42,385 - INFO - Skipping already processed county: Alleghany County, North Carolina
+2025-04-01 15:12:42,386 - INFO - Skipping already processed county: Alleghany County, Virginia
+2025-04-01 15:12:42,386 - INFO - Skipping already processed county: Allegheny County, Pennsylvania
+2025-04-01 15:12:42,387 - INFO - Skipping already processed county: Allen County, Indiana
+2025-04-01 15:12:42,387 - INFO - Skipping already processed county: Allen County, Kansas
+2025-04-01 15:12:42,388 - INFO - Skipping already processed county: Allen County, Ohio
+2025-04-01 15:12:42,388 - INFO - Skipping already processed county: Alpena County, Michigan
+2025-04-01 15:12:42,388 - INFO - Skipping already processed county: Alpine County, California
+2025-04-01 15:12:42,389 - INFO - Skipping already processed county: Amador County, California
+2025-04-01 15:12:42,389 - INFO - Skipping already processed county: Amelia County, Virginia
+2025-04-01 15:12:42,389 - INFO - Skipping already processed county: Amherst County, Virginia
+2025-04-01 15:12:42,389 - INFO - Skipping already processed county: Municipality of Anchorage, Alaska (a consolidated city-borough under Alaska law)
+2025-04-01 15:12:42,390 - INFO - Skipping already processed county: Anderson County, Kansas
+2025-04-01 15:12:42,390 - INFO - Skipping already processed county: Anderson County, Tennessee
+2025-04-01 15:12:42,391 - INFO - Skipping already processed county: Anderson County, Texas
+2025-04-01 15:12:42,394 - INFO - Skipping already processed county: Andrews County, Texas
+2025-04-01 15:12:42,394 - INFO - Skipping already processed county: Androscoggin County, Maine
+2025-04-01 15:12:42,395 - INFO - Skipping already processed county: Angelina County, Texas
+2025-04-01 15:12:42,396 - INFO - Skipping already processed county: Anoka County, Minnesota
+2025-04-01 15:12:42,396 - INFO - Processing county: Anson County, state: North Carolina
+2025-04-01 15:12:48,758 - INFO - Navigating to: https://data.census.gov/all?q=Anson+County%2C+North+Carolina (Attempt 1/3)
+2025-04-01 15:12:56,599 - INFO - Scraping demographics for Anson County, North Carolina...
+2025-04-01 15:13:04,851 - INFO - Population: Total Population:22,055
+2025-04-01 15:13:04,866 - INFO - Income: Median Household Income:$44,245
+2025-04-01 15:13:04,882 - INFO - Employment Rate: Employment Rate:46.7%
+2025-04-01 15:13:04,886 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:13:04,886 - INFO - Processing county: Antrim County, state: Michigan
+2025-04-01 15:13:10,294 - INFO - Navigating to: https://data.census.gov/all?q=Antrim+County%2C+Michigan (Attempt 1/3)
+2025-04-01 15:13:11,320 - INFO - Scraping demographics for Antrim County, Michigan...
+2025-04-01 15:13:23,261 - INFO - Population: Total Population:23,431
+2025-04-01 15:13:23,278 - INFO - Income: Median Household Income:$71,421
+2025-04-01 15:13:23,293 - INFO - Employment Rate: Employment Rate:53.2%
+2025-04-01 15:13:23,295 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:13:23,295 - INFO - Processing county: Appling County, state: Georgia
+2025-04-01 15:13:27,491 - INFO - Navigating to: https://data.census.gov/all?q=Appling+County%2C+Georgia (Attempt 1/3)
+2025-04-01 15:13:28,528 - INFO - Scraping demographics for Appling County, Georgia...
+2025-04-01 15:13:38,879 - INFO - Population: Total Population:18,444
+2025-04-01 15:13:38,894 - INFO - Income: Median Household Income:$43,728
+2025-04-01 15:13:38,913 - INFO - Employment Rate: Employment Rate:50.5%
+2025-04-01 15:13:38,915 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:13:38,916 - INFO - Processing county: Appomattox County, state: Virginia
+2025-04-01 15:13:42,797 - ERROR - Error scraping demographics for Appomattox County, Virginia: Mouse.move: Target page, context or browser has been closed
+2025-04-01 15:13:42,801 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:13:42,802 - INFO - Processing county: Aransas County, state: Texas

@@ -1,0 +1,295 @@
+2025-04-01 23:09:46,073 - INFO - Script started
+2025-04-01 23:09:46,074 - INFO - Starting the main function
+2025-04-01 23:09:46,632 - INFO - Launching the browser
+2025-04-01 23:09:47,174 - INFO - Browser launched and new page created
+2025-04-01 23:09:47,204 - INFO - Output directory created at D:\code\cj_carter_all\demographics_data
+2025-04-01 23:09:47,204 - INFO - CSV file path set to D:\code\cj_carter_all\demographics_data\data.csv
+2025-04-01 23:09:47,229 - INFO - Loaded 1904 counties from file
+2025-04-01 23:09:47,231 - INFO - Loaded 0 already processed counties
+2025-04-01 23:09:47,233 - INFO - Processing county: Accomack County, state: Virginia
+2025-04-01 23:09:50,626 - INFO - Navigating to: https://data.census.gov/all?q=Accomack+County%2C+Virginia (Attempt 1/3)
+2025-04-01 23:10:01,993 - INFO - Scraping demographics for Accomack County, Virginia...
+2025-04-01 23:10:02,217 - INFO - Population: Total Population:33,413
+2025-04-01 23:10:02,256 - INFO - Income: Median Household Income:$57,500
+2025-04-01 23:10:02,278 - INFO - Employment Rate: Employment Rate:53.3%
+2025-04-01 23:10:05,347 - INFO - Navigating to: https://www.bing.com/search?q=Accomack+County%2C+Virginia+population+growth+rate (Attempt 1/3)
+2025-04-01 23:10:06,855 - INFO - Searching Bing for population growth rate: Accomack County, Virginia population growth rate
+2025-04-01 23:10:06,924 - INFO - Page content loaded for Accomack County, Virginia
+2025-04-01 23:10:06,925 - INFO - Population growth rate result: 0.05%
+2025-04-01 23:10:06,936 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:10:06,938 - INFO - Processing county: Ada County, state: Idaho
+2025-04-01 23:10:12,416 - INFO - Navigating to: https://data.census.gov/all?q=Ada+County%2C+Idaho (Attempt 1/3)
+2025-04-01 23:10:14,453 - INFO - Scraping demographics for Ada County, Idaho...
+2025-04-01 23:10:24,644 - INFO - Population: Total Population:494,967
+2025-04-01 23:10:24,660 - INFO - Income: Median Household Income:$90,526
+2025-04-01 23:10:24,681 - INFO - Employment Rate: Employment Rate:63.3%
+2025-04-01 23:10:28,032 - INFO - Navigating to: https://www.bing.com/search?q=Ada+County%2C+Idaho+population+growth+rate (Attempt 1/3)
+2025-04-01 23:10:29,390 - INFO - Searching Bing for population growth rate: Ada County, Idaho population growth rate
+2025-04-01 23:10:29,578 - INFO - Page content loaded for Ada County, Idaho
+2025-04-01 23:10:29,579 - INFO - Population growth rate result: 1.07%
+2025-04-01 23:10:29,586 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:10:29,588 - INFO - Processing county: Adams County, state: Idaho
+2025-04-01 23:10:36,367 - INFO - Navigating to: https://data.census.gov/all?q=Adams+County%2C+Idaho (Attempt 1/3)
+2025-04-01 23:10:38,420 - INFO - Scraping demographics for Adams County, Idaho...
+2025-04-01 23:10:49,440 - INFO - Population: Total Population:4,379
+2025-04-01 23:10:49,453 - INFO - Income: Median Household Income:$59,286
+2025-04-01 23:10:49,475 - INFO - Employment Rate: Employment Rate:45.6%
+2025-04-01 23:10:53,981 - INFO - Navigating to: https://www.bing.com/search?q=Adams+County%2C+Idaho+population+growth+rate (Attempt 1/3)
+2025-04-01 23:10:55,452 - INFO - Searching Bing for population growth rate: Adams County, Idaho population growth rate
+2025-04-01 23:10:55,663 - INFO - Page content loaded for Adams County, Idaho
+2025-04-01 23:10:55,664 - INFO - Population growth rate result: 2.23%
+2025-04-01 23:10:55,669 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:10:55,669 - INFO - Processing county: Adams County, state: Indiana
+2025-04-01 23:10:59,943 - INFO - Navigating to: https://data.census.gov/all?q=Adams+County%2C+Indiana (Attempt 1/3)
+2025-04-01 23:11:02,125 - INFO - Scraping demographics for Adams County, Indiana...
+2025-04-01 23:11:14,548 - INFO - Population: Total Population:35,809
+2025-04-01 23:11:14,561 - INFO - Income: Median Household Income:$63,128
+2025-04-01 23:11:14,586 - INFO - Employment Rate: Employment Rate:59.6%
+2025-04-01 23:11:19,788 - INFO - Navigating to: https://www.bing.com/search?q=Adams+County%2C+Indiana+population+growth+rate (Attempt 1/3)
+2025-04-01 23:11:21,209 - INFO - Searching Bing for population growth rate: Adams County, Indiana population growth rate
+2025-04-01 23:11:21,381 - INFO - Page content loaded for Adams County, Indiana
+2025-04-01 23:11:21,382 - INFO - Population growth rate result: 0.38%
+2025-04-01 23:11:21,390 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:11:21,391 - INFO - Processing county: Adams County, state: North Dakota
+2025-04-01 23:11:27,578 - INFO - Navigating to: https://data.census.gov/all?q=Adams+County%2C+North+Dakota (Attempt 1/3)
+2025-04-01 23:11:29,603 - INFO - Scraping demographics for Adams County, North Dakota...
+2025-04-01 23:11:41,159 - INFO - Population: Total Population:2,200
+2025-04-01 23:11:41,173 - INFO - Income: Median Household Income:$55,417
+2025-04-01 23:11:41,191 - INFO - Employment Rate: Employment Rate:55.7%
+2025-04-01 23:11:47,983 - INFO - Navigating to: https://www.bing.com/search?q=Adams+County%2C+North+Dakota+population+growth+rate (Attempt 1/3)
+2025-04-01 23:11:49,116 - INFO - Searching Bing for population growth rate: Adams County, North Dakota population growth rate
+2025-04-01 23:11:49,322 - INFO - Page content loaded for Adams County, North Dakota
+2025-04-01 23:11:49,323 - INFO - Population growth rate result: 1.37%
+2025-04-01 23:11:49,332 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:11:49,333 - INFO - Processing county: Adams County, state: Ohio
+2025-04-01 23:11:56,192 - INFO - Navigating to: https://data.census.gov/all?q=Adams+County%2C+Ohio (Attempt 1/3)
+2025-04-01 23:11:58,123 - INFO - Scraping demographics for Adams County, Ohio...
+2025-04-01 23:12:09,848 - INFO - Population: Total Population:27,477
+2025-04-01 23:12:09,866 - INFO - Income: Median Household Income:$49,521
+2025-04-01 23:12:09,886 - INFO - Employment Rate: Employment Rate:47.7%
+2025-04-01 23:12:15,988 - INFO - Navigating to: https://www.bing.com/search?q=Adams+County%2C+Ohio+population+growth+rate (Attempt 1/3)
+2025-04-01 23:12:17,673 - INFO - Searching Bing for population growth rate: Adams County, Ohio population growth rate
+2025-04-01 23:12:17,841 - INFO - Page content loaded for Adams County, Ohio
+2025-04-01 23:12:17,842 - INFO - Population growth rate result: 0.22%
+2025-04-01 23:12:17,848 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:12:17,849 - INFO - Processing county: Adams County, state: Pennsylvania
+2025-04-01 23:12:22,444 - INFO - Navigating to: https://data.census.gov/all?q=Adams+County%2C+Pennsylvania (Attempt 1/3)
+2025-04-01 23:12:25,426 - INFO - Scraping demographics for Adams County, Pennsylvania...
+2025-04-01 23:12:26,034 - INFO - Population: Total Population:103,852
+2025-04-01 23:12:26,217 - INFO - Income: Median Household Income:$76,725
+2025-04-01 23:12:26,309 - INFO - Employment Rate: Employment Rate:62.0%
+2025-04-01 23:12:32,287 - INFO - Navigating to: https://www.bing.com/search?q=Adams+County%2C+Pennsylvania+population+growth+rate (Attempt 1/3)
+2025-04-01 23:12:33,679 - INFO - Searching Bing for population growth rate: Adams County, Pennsylvania population growth rate
+2025-04-01 23:12:33,958 - INFO - Page content loaded for Adams County, Pennsylvania
+2025-04-01 23:12:33,959 - INFO - Population growth rate result: 0.73%
+2025-04-01 23:12:33,967 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:12:33,969 - INFO - Processing county: Adams County, state: Washington
+2025-04-01 23:12:38,789 - INFO - Navigating to: https://data.census.gov/all?q=Adams+County%2C+Washington (Attempt 1/3)
+2025-04-01 23:12:40,815 - INFO - Scraping demographics for Adams County, Washington...
+2025-04-01 23:12:51,774 - INFO - Population: Total Population:20,613
+2025-04-01 23:12:51,787 - INFO - Income: Median Household Income:$65,042
+2025-04-01 23:12:51,806 - INFO - Employment Rate: Employment Rate:59.0%
+2025-04-01 23:12:58,287 - INFO - Navigating to: https://www.bing.com/search?q=Adams+County%2C+Washington+population+growth+rate (Attempt 1/3)
+2025-04-01 23:12:59,573 - INFO - Searching Bing for population growth rate: Adams County, Washington population growth rate
+2025-04-01 23:12:59,781 - INFO - Page content loaded for Adams County, Washington
+2025-04-01 23:12:59,782 - INFO - Population growth rate result: -0.38%
+2025-04-01 23:12:59,787 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:12:59,787 - INFO - Processing county: Adams County, state: Wisconsin
+2025-04-01 23:13:04,147 - INFO - Navigating to: https://data.census.gov/all?q=Adams+County%2C+Wisconsin (Attempt 1/3)
+2025-04-01 23:13:05,992 - INFO - Scraping demographics for Adams County, Wisconsin...
+2025-04-01 23:13:18,285 - INFO - Population: Total Population:20,654
+2025-04-01 23:13:18,299 - INFO - Income: Median Household Income:$59,153
+2025-04-01 23:13:18,315 - INFO - Employment Rate: Employment Rate:45.6%
+2025-04-01 23:13:23,162 - INFO - Navigating to: https://www.bing.com/search?q=Adams+County%2C+Wisconsin+population+growth+rate (Attempt 1/3)
+2025-04-01 23:13:24,560 - INFO - Searching Bing for population growth rate: Adams County, Wisconsin population growth rate
+2025-04-01 23:13:24,739 - INFO - Page content loaded for Adams County, Wisconsin
+2025-04-01 23:13:24,740 - INFO - Population growth rate result: 0.92%
+2025-04-01 23:13:24,750 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:13:24,752 - INFO - Processing county: Aitkin County, state: Minnesota
+2025-04-01 23:13:31,115 - INFO - Navigating to: https://data.census.gov/all?q=Aitkin+County%2C+Minnesota (Attempt 1/3)
+2025-04-01 23:13:33,266 - INFO - Scraping demographics for Aitkin County, Minnesota...
+2025-04-01 23:13:46,056 - INFO - Population: Total Population:15,697
+2025-04-01 23:13:46,068 - INFO - Income: Median Household Income:$59,498
+2025-04-01 23:13:46,084 - INFO - Employment Rate: Employment Rate:45.4%
+2025-04-01 23:13:51,378 - INFO - Navigating to: https://www.bing.com/search?q=Aitkin+County%2C+Minnesota+population+growth+rate (Attempt 1/3)
+2025-04-01 23:13:52,786 - INFO - Searching Bing for population growth rate: Aitkin County, Minnesota population growth rate
+2025-04-01 23:13:53,006 - INFO - Page content loaded for Aitkin County, Minnesota
+2025-04-01 23:13:53,007 - INFO - Population growth rate result: -0.25%
+2025-04-01 23:13:53,017 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:13:53,018 - INFO - Processing county: Alamance County, state: North Carolina
+2025-04-01 23:13:58,474 - INFO - Navigating to: https://data.census.gov/all?q=Alamance+County%2C+North+Carolina (Attempt 1/3)
+2025-04-01 23:14:00,233 - INFO - Scraping demographics for Alamance County, North Carolina...
+2025-04-01 23:14:09,848 - INFO - Population: Total Population:171,415
+2025-04-01 23:14:09,865 - INFO - Income: Median Household Income:$65,633
+2025-04-01 23:14:09,890 - INFO - Employment Rate: Employment Rate:62.5%
+2025-04-01 23:14:16,894 - INFO - Navigating to: https://www.bing.com/search?q=Alamance+County%2C+North+Carolina+population+growth+rate (Attempt 1/3)
+2025-04-01 23:14:18,467 - INFO - Searching Bing for population growth rate: Alamance County, North Carolina population growth rate
+2025-04-01 23:14:18,718 - INFO - Page content loaded for Alamance County, North Carolina
+2025-04-01 23:14:18,719 - INFO - Population growth rate result: 1.4%
+2025-04-01 23:14:18,728 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:14:18,729 - INFO - Processing county: Alameda County, state: California
+2025-04-01 23:14:22,505 - INFO - Navigating to: https://data.census.gov/all?q=Alameda+County%2C+California (Attempt 1/3)
+2025-04-01 23:14:24,428 - INFO - Scraping demographics for Alameda County, California...
+2025-04-01 23:14:32,546 - INFO - Population: Total Population:1,682,353
+2025-04-01 23:14:32,631 - INFO - Income: Median Household Income:$119,931
+2025-04-01 23:14:32,666 - INFO - Employment Rate: Employment Rate:63.3%
+2025-04-01 23:14:37,284 - INFO - Navigating to: https://www.bing.com/search?q=Alameda+County%2C+California+population+growth+rate (Attempt 1/3)
+2025-04-01 23:14:38,708 - INFO - Searching Bing for population growth rate: Alameda County, California population growth rate
+2025-04-01 23:14:38,897 - INFO - Page content loaded for Alameda County, California
+2025-04-01 23:14:38,898 - INFO - Population growth rate result: -0.38%
+2025-04-01 23:14:38,906 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:14:38,907 - INFO - Processing county: Albany County, state: New York
+2025-04-01 23:14:42,098 - INFO - Navigating to: https://data.census.gov/all?q=Albany+County%2C+New+York (Attempt 1/3)
+2025-04-01 23:14:43,927 - INFO - Scraping demographics for Albany County, New York...
+2025-04-01 23:14:50,936 - INFO - Population: Total Population:314,848
+2025-04-01 23:14:50,958 - INFO - Income: Median Household Income:$81,335
+2025-04-01 23:14:51,022 - INFO - Employment Rate: Employment Rate:61.1%
+2025-04-01 23:14:56,093 - INFO - Navigating to: https://www.bing.com/search?q=Albany+County%2C+New+York+population+growth+rate (Attempt 1/3)
+2025-04-01 23:14:57,477 - INFO - Searching Bing for population growth rate: Albany County, New York population growth rate
+2025-04-01 23:14:57,693 - INFO - Page content loaded for Albany County, New York
+2025-04-01 23:14:57,694 - INFO - Population growth rate result: 0.23%
+2025-04-01 23:14:57,703 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:14:57,704 - INFO - Processing county: Albemarle County, state: Virginia
+2025-04-01 23:15:01,145 - INFO - Navigating to: https://data.census.gov/all?q=Albemarle+County%2C+Virginia (Attempt 1/3)
+2025-04-01 23:15:03,126 - INFO - Scraping demographics for Albemarle County, Virginia...
+2025-04-01 23:15:36,102 - INFO - Population: Total Population:112,395
+2025-04-01 23:15:36,116 - INFO - Income: Median Household Income:$103,413
+2025-04-01 23:15:36,134 - INFO - Employment Rate: Employment Rate:60.7%
+2025-04-01 23:15:41,664 - INFO - Navigating to: https://www.bing.com/search?q=Albemarle+County%2C+Virginia+population+growth+rate (Attempt 1/3)
+2025-04-01 23:15:43,286 - INFO - Searching Bing for population growth rate: Albemarle County, Virginia population growth rate
+2025-04-01 23:15:43,523 - INFO - Page content loaded for Albemarle County, Virginia
+2025-04-01 23:15:43,524 - INFO - Population growth rate result: 0.71%
+2025-04-01 23:15:43,531 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:15:43,534 - INFO - Processing county: Alcona County, state: Michigan
+2025-04-01 23:15:46,870 - INFO - Navigating to: https://data.census.gov/all?q=Alcona+County%2C+Michigan (Attempt 1/3)
+2025-04-01 23:15:49,037 - INFO - Scraping demographics for Alcona County, Michigan...
+2025-04-01 23:15:59,682 - INFO - Population: Total Population:10,167
+2025-04-01 23:15:59,695 - INFO - Income: Median Household Income:$53,568
+2025-04-01 23:15:59,712 - INFO - Employment Rate: Employment Rate:39.7%
+2025-04-01 23:16:04,674 - INFO - Navigating to: https://www.bing.com/search?q=Alcona+County%2C+Michigan+population+growth+rate (Attempt 1/3)
+2025-04-01 23:16:06,163 - INFO - Searching Bing for population growth rate: Alcona County, Michigan population growth rate
+2025-04-01 23:16:06,422 - INFO - Page content loaded for Alcona County, Michigan
+2025-04-01 23:16:06,423 - INFO - Population growth rate result: 0.87%
+2025-04-01 23:16:06,431 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:16:06,432 - INFO - Processing county: Aleutians East Borough, state: Alaska
+2025-04-01 23:16:11,605 - INFO - Navigating to: https://data.census.gov/all?q=Aleutians+East+Borough%2C+Alaska (Attempt 1/3)
+2025-04-01 23:16:13,356 - INFO - Scraping demographics for Aleutians East Borough, Alaska...
+2025-04-01 23:16:33,481 - INFO - Population: Total Population:3,420
+2025-04-01 23:16:33,496 - INFO - Income: Median Household Income:$72,692
+2025-04-01 23:16:33,517 - INFO - Employment Rate: Employment Rate:75.5%
+2025-04-01 23:16:39,638 - INFO - Navigating to: https://www.bing.com/search?q=Aleutians+East+Borough%2C+Alaska+population+growth+rate (Attempt 1/3)
+2025-04-01 23:16:41,164 - INFO - Searching Bing for population growth rate: Aleutians East Borough, Alaska population growth rate
+2025-04-01 23:16:41,361 - INFO - Page content loaded for Aleutians East Borough, Alaska
+2025-04-01 23:16:41,362 - INFO - Population growth rate result: 2.9%
+2025-04-01 23:16:41,373 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:16:41,374 - INFO - Processing county: Aleutians West Census Area, state: Alaska
+2025-04-01 23:16:45,536 - INFO - Navigating to: https://data.census.gov/all?q=Aleutians+West+Census+Area%2C+Alaska (Attempt 1/3)
+2025-04-01 23:16:47,817 - INFO - Scraping demographics for Aleutians West Census Area, Alaska...
+2025-04-01 23:16:58,424 - INFO - Population: Total Population:5,232
+2025-04-01 23:16:58,438 - INFO - Income: Median Household Income:$107,344
+2025-04-01 23:16:58,453 - INFO - Employment Rate: Employment Rate:79.6%
+2025-04-01 23:17:02,459 - INFO - Navigating to: https://www.bing.com/search?q=Aleutians+West+Census+Area%2C+Alaska+population+growth+rate (Attempt 1/3)
+2025-04-01 23:17:03,920 - INFO - Searching Bing for population growth rate: Aleutians West Census Area, Alaska population growth rate
+2025-04-01 23:17:04,135 - INFO - Page content loaded for Aleutians West Census Area, Alaska
+2025-04-01 23:17:04,136 - INFO - Population growth rate result: 1.34%
+2025-04-01 23:17:04,146 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:17:04,147 - INFO - Processing county: Alexander County, state: North Carolina
+2025-04-01 23:17:08,486 - INFO - Navigating to: https://data.census.gov/all?q=Alexander+County%2C+North+Carolina (Attempt 1/3)
+2025-04-01 23:17:10,379 - INFO - Scraping demographics for Alexander County, North Carolina...
+2025-04-01 23:17:26,901 - INFO - Population: Total Population:36,444
+2025-04-01 23:17:26,913 - INFO - Income: Median Household Income:$65,268
+2025-04-01 23:17:26,931 - INFO - Employment Rate: Employment Rate:53.0%
+2025-04-01 23:17:31,786 - INFO - Navigating to: https://www.bing.com/search?q=Alexander+County%2C+North+Carolina+population+growth+rate (Attempt 1/3)
+2025-04-01 23:17:33,362 - INFO - Searching Bing for population growth rate: Alexander County, North Carolina population growth rate
+2025-04-01 23:17:33,615 - INFO - Page content loaded for Alexander County, North Carolina
+2025-04-01 23:17:33,616 - INFO - Population growth rate result: 0.43%
+2025-04-01 23:17:33,624 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:17:33,625 - INFO - Processing county: Alger County, state: Michigan
+2025-04-01 23:17:38,319 - INFO - Navigating to: https://data.census.gov/all?q=Alger+County%2C+Michigan (Attempt 1/3)
+2025-04-01 23:17:40,345 - INFO - Scraping demographics for Alger County, Michigan...
+2025-04-01 23:17:50,824 - INFO - Population: Total Population:8,842
+2025-04-01 23:17:50,837 - INFO - Income: Median Household Income:$59,406
+2025-04-01 23:17:50,856 - INFO - Employment Rate: Employment Rate:38.1%
+2025-04-01 23:17:54,821 - INFO - Navigating to: https://www.bing.com/search?q=Alger+County%2C+Michigan+population+growth+rate (Attempt 1/3)
+2025-04-01 23:17:55,935 - INFO - Searching Bing for population growth rate: Alger County, Michigan population growth rate
+2025-04-01 23:17:56,100 - INFO - Page content loaded for Alger County, Michigan
+2025-04-01 23:17:56,100 - INFO - Population growth rate result: -0.18%
+2025-04-01 23:17:56,105 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:17:56,105 - INFO - Processing county: Allegan County, state: Michigan
+2025-04-01 23:18:00,586 - INFO - Navigating to: https://data.census.gov/all?q=Allegan+County%2C+Michigan (Attempt 1/3)
+2025-04-01 23:18:03,060 - INFO - Scraping demographics for Allegan County, Michigan...
+2025-04-01 23:18:35,365 - INFO - Population: Total Population:120,502
+2025-04-01 23:18:35,378 - INFO - Income: Median Household Income:$78,779
+2025-04-01 23:18:35,396 - INFO - Employment Rate: Employment Rate:61.7%
+2025-04-01 23:18:41,977 - INFO - Navigating to: https://www.bing.com/search?q=Allegan+County%2C+Michigan+population+growth+rate (Attempt 1/3)
+2025-04-01 23:18:43,536 - INFO - Searching Bing for population growth rate: Allegan County, Michigan population growth rate
+2025-04-01 23:18:43,776 - INFO - Page content loaded for Allegan County, Michigan
+2025-04-01 23:18:43,777 - INFO - Population growth rate result: 0.53%
+2025-04-01 23:18:43,785 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:18:43,786 - INFO - Processing county: Allegany County, state: New York
+2025-04-01 23:18:49,453 - INFO - Navigating to: https://data.census.gov/all?q=Allegany+County%2C+New+York (Attempt 1/3)
+2025-04-01 23:18:51,618 - INFO - Scraping demographics for Allegany County, New York...
+2025-04-01 23:18:55,360 - INFO - Population: Total Population:46,456
+2025-04-01 23:18:55,420 - INFO - Income: Median Household Income:$61,233
+2025-04-01 23:18:55,483 - INFO - Employment Rate: Employment Rate:50.1%
+2025-04-01 23:19:00,926 - INFO - Navigating to: https://www.bing.com/search?q=Allegany+County%2C+New+York+population+growth+rate (Attempt 1/3)
+2025-04-01 23:19:02,398 - INFO - Searching Bing for population growth rate: Allegany County, New York population growth rate
+2025-04-01 23:19:02,633 - INFO - Page content loaded for Allegany County, New York
+2025-04-01 23:19:02,634 - INFO - Population growth rate result: -0.16%
+2025-04-01 23:19:02,651 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:19:02,653 - INFO - Processing county: Alleghany County, state: North Carolina
+2025-04-01 23:19:08,793 - INFO - Navigating to: https://data.census.gov/all?q=Alleghany+County%2C+North+Carolina (Attempt 1/3)
+2025-04-01 23:19:11,204 - INFO - Scraping demographics for Alleghany County, North Carolina...
+2025-04-01 23:19:21,872 - INFO - Population: Total Population:10,888
+2025-04-01 23:19:21,889 - INFO - Income: Median Household Income:$44,272
+2025-04-01 23:19:21,904 - INFO - Employment Rate: Employment Rate:45.2%
+2025-04-01 23:19:28,905 - INFO - Navigating to: https://www.bing.com/search?q=Alleghany+County%2C+North+Carolina+population+growth+rate (Attempt 1/3)
+2025-04-01 23:19:30,571 - INFO - Searching Bing for population growth rate: Alleghany County, North Carolina population growth rate
+2025-04-01 23:19:30,789 - INFO - Page content loaded for Alleghany County, North Carolina
+2025-04-01 23:19:30,790 - INFO - Population growth rate result: 1.3%
+2025-04-01 23:19:30,797 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:19:30,797 - INFO - Processing county: Alleghany County, state: Virginia
+2025-04-01 23:19:35,063 - INFO - Navigating to: https://data.census.gov/all?q=Alleghany+County%2C+Virginia (Attempt 1/3)
+2025-04-01 23:19:37,245 - INFO - Scraping demographics for Alleghany County, Virginia...
+2025-04-01 23:19:47,311 - INFO - Population: Total Population:15,223
+2025-04-01 23:19:47,324 - INFO - Income: Median Household Income:$55,160
+2025-04-01 23:19:47,340 - INFO - Employment Rate: Employment Rate:48.3%
+2025-04-01 23:19:52,294 - INFO - Navigating to: https://www.bing.com/search?q=Alleghany+County%2C+Virginia+population+growth+rate (Attempt 1/3)
+2025-04-01 23:19:53,641 - INFO - Searching Bing for population growth rate: Alleghany County, Virginia population growth rate
+2025-04-01 23:19:53,795 - INFO - Page content loaded for Alleghany County, Virginia
+2025-04-01 23:19:53,797 - INFO - Population growth rate result: -0.83%
+2025-04-01 23:19:53,808 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:19:53,809 - INFO - Processing county: Allegheny County, state: Pennsylvania
+2025-04-01 23:19:59,545 - INFO - Navigating to: https://data.census.gov/all?q=Allegheny+County%2C+Pennsylvania (Attempt 1/3)
+2025-04-01 23:20:02,336 - INFO - Scraping demographics for Allegheny County, Pennsylvania...
+2025-04-01 23:20:02,902 - INFO - Population: Total Population:1,250,578
+2025-04-01 23:20:03,013 - INFO - Income: Median Household Income:$76,615
+2025-04-01 23:20:03,092 - INFO - Employment Rate: Employment Rate:62.5%
+2025-04-01 23:20:08,971 - INFO - Navigating to: https://www.bing.com/search?q=Allegheny+County%2C+Pennsylvania+population+growth+rate (Attempt 1/3)
+2025-04-01 23:20:10,706 - INFO - Searching Bing for population growth rate: Allegheny County, Pennsylvania population growth rate
+2025-04-01 23:20:10,882 - INFO - Page content loaded for Allegheny County, Pennsylvania
+2025-04-01 23:20:10,882 - INFO - Population growth rate result: -0.64%
+2025-04-01 23:20:10,889 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:20:10,890 - INFO - Processing county: Allen County, state: Indiana
+2025-04-01 23:20:16,518 - INFO - Navigating to: https://data.census.gov/all?q=Allen+County%2C+Indiana (Attempt 1/3)
+2025-04-01 23:20:18,395 - INFO - Scraping demographics for Allen County, Indiana...
+2025-04-01 23:21:04,004 - INFO - Population: Total Population:385,410
+2025-04-01 23:21:04,017 - INFO - Income: Median Household Income:$65,704
+2025-04-01 23:21:04,035 - INFO - Employment Rate: Employment Rate:63.6%
+2025-04-01 23:21:10,062 - INFO - Navigating to: https://www.bing.com/search?q=Allen+County%2C+Indiana+population+growth+rate (Attempt 1/3)
+2025-04-01 23:21:11,545 - INFO - Searching Bing for population growth rate: Allen County, Indiana population growth rate
+2025-04-01 23:21:11,753 - INFO - Page content loaded for Allen County, Indiana
+2025-04-01 23:21:11,754 - INFO - Population growth rate result: 0.74%
+2025-04-01 23:21:11,759 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:21:11,761 - INFO - Processing county: Allen County, state: Kansas
+2025-04-01 23:21:17,371 - INFO - Navigating to: https://data.census.gov/all?q=Allen+County%2C+Kansas (Attempt 1/3)
+2025-04-01 23:21:19,532 - INFO - Scraping demographics for Allen County, Kansas...
+2025-04-01 23:21:30,494 - INFO - Population: Total Population:12,526
+2025-04-01 23:21:30,507 - INFO - Income: Median Household Income:$57,618
+2025-04-01 23:21:30,526 - INFO - Employment Rate: Employment Rate:56.0%
+2025-04-01 23:21:36,612 - INFO - Navigating to: https://www.bing.com/search?q=Allen+County%2C+Kansas+population+growth+rate (Attempt 1/3)
+2025-04-01 23:21:37,845 - INFO - Searching Bing for population growth rate: Allen County, Kansas population growth rate
+2025-04-01 23:21:38,004 - INFO - Page content loaded for Allen County, Kansas
+2025-04-01 23:21:38,005 - INFO - Population growth rate result: -0.62%
+2025-04-01 23:21:38,008 - INFO - --------------------------------------------------------------------------------
+2025-04-01 23:21:38,009 - INFO - Processing county: Allen County, state: Ohio

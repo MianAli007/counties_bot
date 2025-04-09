@@ -1,0 +1,1488 @@
+2025-04-03 13:20:25,535 - INFO - Script started
+2025-04-03 13:20:25,537 - INFO - Starting the main function
+2025-04-03 13:20:31,248 - INFO - Launching the browser
+2025-04-03 13:20:32,348 - INFO - Browser launched and new page created
+2025-04-03 13:20:32,375 - INFO - Output directory created at D:\code\cj_carter_all\demographics_data
+2025-04-03 13:20:32,376 - INFO - CSV file path set to D:\code\cj_carter_all\demographics_data\data.csv
+2025-04-03 13:20:32,413 - INFO - Loaded 1904 counties from file
+2025-04-03 13:20:32,414 - INFO - Loaded 364 already processed counties
+2025-04-03 13:20:32,414 - INFO - Skipping already processed county: Accomack County, Virginia
+2025-04-03 13:20:32,415 - INFO - Skipping already processed county: Ada County, Idaho
+2025-04-03 13:20:32,415 - INFO - Skipping already processed county: Adams County, Idaho
+2025-04-03 13:20:32,416 - INFO - Skipping already processed county: Adams County, Indiana
+2025-04-03 13:20:32,416 - INFO - Skipping already processed county: Adams County, North Dakota
+2025-04-03 13:20:32,416 - INFO - Skipping already processed county: Adams County, Ohio
+2025-04-03 13:20:32,417 - INFO - Skipping already processed county: Adams County, Pennsylvania
+2025-04-03 13:20:32,417 - INFO - Skipping already processed county: Adams County, Washington
+2025-04-03 13:20:32,417 - INFO - Skipping already processed county: Adams County, Wisconsin
+2025-04-03 13:20:32,418 - INFO - Skipping already processed county: Aitkin County, Minnesota
+2025-04-03 13:20:32,418 - INFO - Skipping already processed county: Alamance County, North Carolina
+2025-04-03 13:20:32,418 - INFO - Skipping already processed county: Alameda County, California
+2025-04-03 13:20:32,418 - INFO - Skipping already processed county: Albany County, New York
+2025-04-03 13:20:32,419 - INFO - Skipping already processed county: Albemarle County, Virginia
+2025-04-03 13:20:32,419 - INFO - Skipping already processed county: Alcona County, Michigan
+2025-04-03 13:20:32,419 - INFO - Skipping already processed county: Aleutians East Borough, Alaska
+2025-04-03 13:20:32,420 - INFO - Skipping already processed county: Aleutians West Census Area, Alaska
+2025-04-03 13:20:32,422 - INFO - Skipping already processed county: Alexander County, North Carolina
+2025-04-03 13:20:32,422 - INFO - Skipping already processed county: Alger County, Michigan
+2025-04-03 13:20:32,424 - INFO - Skipping already processed county: Allegan County, Michigan
+2025-04-03 13:20:32,426 - INFO - Skipping already processed county: Allegany County, New York
+2025-04-03 13:20:32,427 - INFO - Skipping already processed county: Alleghany County, North Carolina
+2025-04-03 13:20:32,427 - INFO - Skipping already processed county: Alleghany County, Virginia
+2025-04-03 13:20:32,428 - INFO - Skipping already processed county: Allegheny County, Pennsylvania
+2025-04-03 13:20:32,428 - INFO - Skipping already processed county: Allen County, Indiana
+2025-04-03 13:20:32,429 - INFO - Skipping already processed county: Allen County, Kansas
+2025-04-03 13:20:32,429 - INFO - Skipping already processed county: Allen County, Ohio
+2025-04-03 13:20:32,430 - INFO - Skipping already processed county: Alpena County, Michigan
+2025-04-03 13:20:32,430 - INFO - Skipping already processed county: Alpine County, California
+2025-04-03 13:20:32,431 - INFO - Skipping already processed county: Amador County, California
+2025-04-03 13:20:32,431 - INFO - Skipping already processed county: Amelia County, Virginia
+2025-04-03 13:20:32,432 - INFO - Skipping already processed county: Amherst County, Virginia
+2025-04-03 13:20:32,432 - INFO - Skipping already processed county: Municipality of Anchorage, Alaska (a consolidated city-borough under Alaska law)
+2025-04-03 13:20:32,433 - INFO - Skipping already processed county: Anderson County, Kansas
+2025-04-03 13:20:32,433 - INFO - Skipping already processed county: Anderson County, Tennessee
+2025-04-03 13:20:32,434 - INFO - Skipping already processed county: Anderson County, Texas
+2025-04-03 13:20:32,434 - INFO - Skipping already processed county: Andrews County, Texas
+2025-04-03 13:20:32,434 - INFO - Skipping already processed county: Androscoggin County, Maine
+2025-04-03 13:20:32,435 - INFO - Skipping already processed county: Angelina County, Texas
+2025-04-03 13:20:32,435 - INFO - Skipping already processed county: Anoka County, Minnesota
+2025-04-03 13:20:32,436 - INFO - Skipping already processed county: Anson County, North Carolina
+2025-04-03 13:20:32,436 - INFO - Skipping already processed county: Antrim County, Michigan
+2025-04-03 13:20:32,436 - INFO - Skipping already processed county: Appling County, Georgia
+2025-04-03 13:20:32,437 - INFO - Skipping already processed county: Appomattox County, Virginia
+2025-04-03 13:20:32,437 - INFO - Skipping already processed county: Aransas County, Texas
+2025-04-03 13:20:32,438 - INFO - Skipping already processed county: Archer County, Texas
+2025-04-03 13:20:32,438 - INFO - Skipping already processed county: Arenac County, Michigan
+2025-04-03 13:20:32,439 - INFO - Skipping already processed county: Arkansas County, Arkansas
+2025-04-03 13:20:32,443 - INFO - Skipping already processed county: Arlington County, Virginia
+2025-04-03 13:20:32,445 - INFO - Skipping already processed county: Armstrong County, Pennsylvania
+2025-04-03 13:20:32,446 - INFO - Skipping already processed county: Armstrong County, Texas
+2025-04-03 13:20:32,447 - INFO - Skipping already processed county: Aroostook County, Maine
+2025-04-03 13:20:32,448 - INFO - Skipping already processed county: Ashe County, North Carolina
+2025-04-03 13:20:32,448 - INFO - Skipping already processed county: Ashland County, Ohio
+2025-04-03 13:20:32,448 - INFO - Skipping already processed county: Ashland County, Wisconsin
+2025-04-03 13:20:32,449 - INFO - Skipping already processed county: Ashley County, Arkansas
+2025-04-03 13:20:32,449 - INFO - Skipping already processed county: Ashtabula County, Ohio
+2025-04-03 13:20:32,449 - INFO - Skipping already processed county: Asotin County, Washington
+2025-04-03 13:20:32,450 - INFO - Skipping already processed county: Atascosa County, Texas
+2025-04-03 13:20:32,450 - INFO - Skipping already processed county: Atchison County, Kansas
+2025-04-03 13:20:32,451 - INFO - Skipping already processed county: Athens County, Ohio
+2025-04-03 13:20:32,452 - INFO - Skipping already processed county: Atkinson County, Georgia
+2025-04-03 13:20:32,453 - INFO - Skipping already processed county: Auglaize County, Ohio
+2025-04-03 13:20:32,453 - INFO - Skipping already processed county: Augusta County, Virginia
+2025-04-03 13:20:32,454 - INFO - Skipping already processed county: Austin County, Texas
+2025-04-03 13:20:32,456 - INFO - Skipping already processed county: Avery County, North Carolina
+2025-04-03 13:20:32,459 - INFO - Skipping already processed county: Bacon County, Georgia
+2025-04-03 13:20:32,460 - INFO - Skipping already processed county: Bailey County, Texas
+2025-04-03 13:20:32,463 - INFO - Skipping already processed county: Baker County, Georgia
+2025-04-03 13:20:32,464 - INFO - Skipping already processed county: Baker County, Oregon
+2025-04-03 13:20:32,464 - INFO - Skipping already processed county: Baldwin County, Georgia
+2025-04-03 13:20:32,465 - INFO - Skipping already processed county: Bandera County, Texas
+2025-04-03 13:20:32,465 - INFO - Skipping already processed county: Banks County, Georgia
+2025-04-03 13:20:32,465 - INFO - Skipping already processed county: Bannock County, Idaho
+2025-04-03 13:20:32,466 - INFO - Skipping already processed county: Baraga County, Michigan
+2025-04-03 13:20:32,466 - INFO - Skipping already processed county: Barber County, Kansas
+2025-04-03 13:20:32,467 - INFO - Skipping already processed county: Barbour County, West Virginia
+2025-04-03 13:20:32,467 - INFO - Skipping already processed county: Barnes County, North Dakota
+2025-04-03 13:20:32,467 - INFO - Skipping already processed county: Barnstable County, Massachusetts
+2025-04-03 13:20:32,468 - INFO - Skipping already processed county: Barron County, Wisconsin
+2025-04-03 13:20:32,468 - INFO - Skipping already processed county: Barrow County, Georgia
+2025-04-03 13:20:32,469 - INFO - Skipping already processed county: Barry County, Michigan
+2025-04-03 13:20:32,469 - INFO - Skipping already processed county: Bartholomew County, Indiana
+2025-04-03 13:20:32,470 - INFO - Skipping already processed county: Barton County, Kansas
+2025-04-03 13:20:32,470 - INFO - Skipping already processed county: Bartow County, Georgia
+2025-04-03 13:20:32,471 - INFO - Skipping already processed county: Bastrop County, Texas
+2025-04-03 13:20:32,472 - INFO - Skipping already processed county: Bath County, Virginia
+2025-04-03 13:20:32,473 - INFO - Skipping already processed county: Baxter County, Arkansas
+2025-04-03 13:20:32,476 - INFO - Skipping already processed county: Bay County, Michigan
+2025-04-03 13:20:32,477 - INFO - Skipping already processed county: Bayfield County, Wisconsin
+2025-04-03 13:20:32,478 - INFO - Skipping already processed county: Baylor County, Texas
+2025-04-03 13:20:32,478 - INFO - Skipping already processed county: Bear Lake County, Idaho
+2025-04-03 13:20:32,479 - INFO - Skipping already processed county: Beaufort County, North Carolina
+2025-04-03 13:20:32,480 - INFO - Skipping already processed county: Beaver County, Pennsylvania
+2025-04-03 13:20:32,484 - INFO - Skipping already processed county: Beaver County, Utah
+2025-04-03 13:20:32,485 - INFO - Skipping already processed county: Becker County, Minnesota
+2025-04-03 13:20:32,487 - INFO - Skipping already processed county: Bedford County, Pennsylvania
+2025-04-03 13:20:32,488 - INFO - Skipping already processed county: Bedford County, Tennessee
+2025-04-03 13:20:32,490 - INFO - Skipping already processed county: Bedford County, Virginia
+2025-04-03 13:20:32,493 - INFO - Skipping already processed county: Bee County, Texas
+2025-04-03 13:20:32,493 - INFO - Skipping already processed county: Belknap County, New Hampshire
+2025-04-03 13:20:32,493 - INFO - Skipping already processed county: Bell County, Texas
+2025-04-03 13:20:32,494 - INFO - Skipping already processed county: Belmont County, Ohio
+2025-04-03 13:20:32,494 - INFO - Skipping already processed county: Beltrami County, Minnesota
+2025-04-03 13:20:32,495 - INFO - Skipping already processed county: Ben Hill County, Georgia
+2025-04-03 13:20:32,495 - INFO - Skipping already processed county: Benewah County, Idaho
+2025-04-03 13:20:32,495 - INFO - Skipping already processed county: Benson County, North Dakota
+2025-04-03 13:20:32,496 - INFO - Skipping already processed county: Benton County, Arkansas
+2025-04-03 13:20:32,496 - INFO - Skipping already processed county: Benton County, Indiana
+2025-04-03 13:20:32,497 - INFO - Skipping already processed county: Benton County, Minnesota
+2025-04-03 13:20:32,497 - INFO - Skipping already processed county: Benton County, Oregon
+2025-04-03 13:20:32,499 - INFO - Skipping already processed county: Benton County, Tennessee
+2025-04-03 13:20:32,500 - INFO - Skipping already processed county: Benton County, Washington
+2025-04-03 13:20:32,500 - INFO - Skipping already processed county: Benzie County, Michigan
+2025-04-03 13:20:32,501 - INFO - Skipping already processed county: Berkeley County, West Virginia
+2025-04-03 13:20:32,501 - INFO - Skipping already processed county: Berks County, Pennsylvania
+2025-04-03 13:20:32,502 - INFO - Skipping already processed county: Berkshire County, Massachusetts
+2025-04-03 13:20:32,502 - INFO - Skipping already processed county: Bernalillo County, New Mexico
+2025-04-03 13:20:32,502 - INFO - Skipping already processed county: Berrien County, Georgia
+2025-04-03 13:20:32,503 - INFO - Skipping already processed county: Berrien County, Michigan
+2025-04-03 13:20:32,503 - INFO - Skipping already processed county: Bertie County, North Carolina
+2025-04-03 13:20:32,504 - INFO - Skipping already processed county: Bethel Census Area, Alaska
+2025-04-03 13:20:32,505 - INFO - Skipping already processed county: Bexar County, Texas
+2025-04-03 13:20:32,505 - INFO - Skipping already processed county: Bibb County, Georgia
+2025-04-03 13:20:32,507 - INFO - Skipping already processed county: Big Stone County, Minnesota
+2025-04-03 13:20:32,510 - INFO - Skipping already processed county: Billings County, North Dakota
+2025-04-03 13:20:32,510 - INFO - Skipping already processed county: Bingham County, Idaho
+2025-04-03 13:20:32,510 - INFO - Skipping already processed county: Blackford County, Indiana
+2025-04-03 13:20:32,511 - INFO - Skipping already processed county: Bladen County, North Carolina
+2025-04-03 13:20:32,511 - INFO - Skipping already processed county: Blaine County, Idaho
+2025-04-03 13:20:32,512 - INFO - Skipping already processed county: Blair County, Pennsylvania
+2025-04-03 13:20:32,513 - INFO - Skipping already processed county: Blanco County, Texas
+2025-04-03 13:20:32,513 - INFO - Skipping already processed county: Bland County, Virginia
+2025-04-03 13:20:32,514 - INFO - Skipping already processed county: Bleckley County, Georgia
+2025-04-03 13:20:32,515 - INFO - Skipping already processed county: Bledsoe County, Tennessee
+2025-04-03 13:20:32,516 - INFO - Skipping already processed county: Blount County, Tennessee
+2025-04-03 13:20:32,517 - INFO - Skipping already processed county: Blue Earth County, Minnesota
+2025-04-03 13:20:32,517 - INFO - Skipping already processed county: Boise County, Idaho
+2025-04-03 13:20:32,517 - INFO - Skipping already processed county: Bonner County, Idaho
+2025-04-03 13:20:32,518 - INFO - Skipping already processed county: Bonneville County, Idaho
+2025-04-03 13:20:32,518 - INFO - Skipping already processed county: Boone County, Arkansas
+2025-04-03 13:20:32,519 - INFO - Skipping already processed county: Boone County, Indiana
+2025-04-03 13:20:32,519 - INFO - Skipping already processed county: Boone County, West Virginia
+2025-04-03 13:20:32,519 - INFO - Skipping already processed county: Borden County, Texas
+2025-04-03 13:20:32,520 - INFO - Skipping already processed county: Bosque County, Texas
+2025-04-03 13:20:32,520 - INFO - Skipping already processed county: Botetourt County, Virginia
+2025-04-03 13:20:32,521 - INFO - Skipping already processed county: Bottineau County, North Dakota
+2025-04-03 13:20:32,521 - INFO - Skipping already processed county: Boundary County, Idaho
+2025-04-03 13:20:32,522 - INFO - Skipping already processed county: Bourbon County, Kansas
+2025-04-03 13:20:32,524 - INFO - Skipping already processed county: Bowie County, Texas
+2025-04-03 13:20:32,526 - INFO - Skipping already processed county: Bowman County, North Dakota
+2025-04-03 13:20:32,527 - INFO - Skipping already processed county: Box Elder County, Utah
+2025-04-03 13:20:32,527 - INFO - Skipping already processed county: Bradford County, Pennsylvania
+2025-04-03 13:20:32,527 - INFO - Skipping already processed county: Bradley County, Arkansas
+2025-04-03 13:20:32,528 - INFO - Skipping already processed county: Bradley County, Tennessee
+2025-04-03 13:20:32,528 - INFO - Skipping already processed county: Branch County, Michigan
+2025-04-03 13:20:32,528 - INFO - Skipping already processed county: Brantley County, Georgia
+2025-04-03 13:20:32,529 - INFO - Skipping already processed county: Braxton County, West Virginia
+2025-04-03 13:20:32,529 - INFO - Skipping already processed county: Brazoria County, Texas
+2025-04-03 13:20:32,530 - INFO - Skipping already processed county: Brazos County, Texas
+2025-04-03 13:20:32,530 - INFO - Skipping already processed county: Brewster County, Texas
+2025-04-03 13:20:32,531 - INFO - Skipping already processed county: Briscoe County, Texas
+2025-04-03 13:20:32,531 - INFO - Skipping already processed county: Bristol Bay Borough, Alaska
+2025-04-03 13:20:32,532 - INFO - Skipping already processed county: Bristol County, Massachusetts
+2025-04-03 13:20:32,533 - INFO - Skipping already processed county: Bristol County, Rhode Island
+2025-04-03 13:20:32,534 - INFO - Skipping already processed county: Bronx County, New York
+2025-04-03 13:20:32,535 - INFO - Skipping already processed county: Brooke County, West Virginia
+2025-04-03 13:20:32,535 - INFO - Skipping already processed county: Brooks County, Georgia
+2025-04-03 13:20:32,536 - INFO - Skipping already processed county: Brooks County, Texas
+2025-04-03 13:20:32,536 - INFO - Skipping already processed county: Broome County, New York
+2025-04-03 13:20:32,537 - INFO - Skipping already processed county: Brown County, Indiana
+2025-04-03 13:20:32,537 - INFO - Skipping already processed county: Brown County, Kansas
+2025-04-03 13:20:32,540 - INFO - Skipping already processed county: Brown County, Minnesota
+2025-04-03 13:20:32,541 - INFO - Skipping already processed county: Brown County, Ohio
+2025-04-03 13:20:32,542 - INFO - Skipping already processed county: Brown County, Texas
+2025-04-03 13:20:32,542 - INFO - Skipping already processed county: Brown County, Wisconsin
+2025-04-03 13:20:32,543 - INFO - Skipping already processed county: Brunswick County, North Carolina
+2025-04-03 13:20:32,543 - INFO - Skipping already processed county: Brunswick County, Virginia
+2025-04-03 13:20:32,544 - INFO - Skipping already processed county: Bryan County, Georgia
+2025-04-03 13:20:32,544 - INFO - Skipping already processed county: Buchanan County, Virginia
+2025-04-03 13:20:32,545 - INFO - Skipping already processed county: Buckingham County, Virginia
+2025-04-03 13:20:32,546 - INFO - Skipping already processed county: Bucks County, Pennsylvania
+2025-04-03 13:20:32,546 - INFO - Skipping already processed county: Buffalo County, Wisconsin
+2025-04-03 13:20:32,547 - INFO - Skipping already processed county: Bulloch County, Georgia
+2025-04-03 13:20:32,547 - INFO - Skipping already processed county: Buncombe County, North Carolina
+2025-04-03 13:20:32,548 - INFO - Skipping already processed county: Burke County, Georgia
+2025-04-03 13:20:32,549 - INFO - Skipping already processed county: Burke County, North Carolina
+2025-04-03 13:20:32,549 - INFO - Skipping already processed county: Burke County, North Dakota
+2025-04-03 13:20:32,550 - INFO - Skipping already processed county: Burleigh County, North Dakota
+2025-04-03 13:20:32,550 - INFO - Skipping already processed county: Burleson County, Texas
+2025-04-03 13:20:32,551 - INFO - Skipping already processed county: Burnet County, Texas
+2025-04-03 13:20:32,551 - INFO - Skipping already processed county: Burnett County, Wisconsin
+2025-04-03 13:20:32,552 - INFO - Skipping already processed county: Butler County, Kansas
+2025-04-03 13:20:32,552 - INFO - Skipping already processed county: Butler County, Ohio
+2025-04-03 13:20:32,553 - INFO - Skipping already processed county: Butler County, Pennsylvania
+2025-04-03 13:20:32,553 - INFO - Skipping already processed county: Butte County, California
+2025-04-03 13:20:32,554 - INFO - Skipping already processed county: Butte County, Idaho
+2025-04-03 13:20:32,554 - INFO - Skipping already processed county: Butts County, Georgia
+2025-04-03 13:20:32,555 - INFO - Skipping already processed county: Cabarrus County, North Carolina
+2025-04-03 13:20:32,556 - INFO - Skipping already processed county: Cabell County, West Virginia
+2025-04-03 13:20:32,558 - INFO - Skipping already processed county: Cache County, Utah
+2025-04-03 13:20:32,558 - INFO - Skipping already processed county: Calaveras County, California
+2025-04-03 13:20:32,559 - INFO - Skipping already processed county: Caldwell County, North Carolina
+2025-04-03 13:20:32,559 - INFO - Skipping already processed county: Caldwell County, Texas
+2025-04-03 13:20:32,560 - INFO - Skipping already processed county: Calhoun County, Arkansas
+2025-04-03 13:20:32,560 - INFO - Skipping already processed county: Calhoun County, Georgia
+2025-04-03 13:20:32,560 - INFO - Skipping already processed county: Calhoun County, Michigan
+2025-04-03 13:20:32,561 - INFO - Skipping already processed county: Calhoun County, Texas
+2025-04-03 13:20:32,561 - INFO - Skipping already processed county: Calhoun County, West Virginia
+2025-04-03 13:20:32,562 - INFO - Skipping already processed county: Callahan County, Texas
+2025-04-03 13:20:32,562 - INFO - Skipping already processed county: Calumet County, Wisconsin
+2025-04-03 13:20:32,562 - INFO - Skipping already processed county: Camas County, Idaho
+2025-04-03 13:20:32,563 - INFO - Skipping already processed county: Cambria County, Pennsylvania
+2025-04-03 13:20:32,563 - INFO - Skipping already processed county: Camden County, Georgia
+2025-04-03 13:20:32,563 - INFO - Skipping already processed county: Camden County, North Carolina
+2025-04-03 13:20:32,564 - INFO - Skipping already processed county: Cameron County, Pennsylvania
+2025-04-03 13:20:32,564 - INFO - Skipping already processed county: Cameron County, Texas
+2025-04-03 13:20:32,565 - INFO - Skipping already processed county: Camp County, Texas
+2025-04-03 13:20:32,565 - INFO - Skipping already processed county: Campbell County, Tennessee
+2025-04-03 13:20:32,565 - INFO - Skipping already processed county: Campbell County, Virginia
+2025-04-03 13:20:32,566 - INFO - Skipping already processed county: Candler County, Georgia
+2025-04-03 13:20:32,566 - INFO - Skipping already processed county: Cannon County, Tennessee
+2025-04-03 13:20:32,566 - INFO - Skipping already processed county: Canyon County, Idaho
+2025-04-03 13:20:32,566 - INFO - Skipping already processed county: Carbon County, Pennsylvania
+2025-04-03 13:20:32,567 - INFO - Skipping already processed county: Carbon County, Utah
+2025-04-03 13:20:32,567 - INFO - Skipping already processed county: Caribou County, Idaho
+2025-04-03 13:20:32,567 - INFO - Skipping already processed county: Carlton County, Minnesota
+2025-04-03 13:20:32,567 - INFO - Skipping already processed county: Caroline County, Virginia
+2025-04-03 13:20:32,568 - INFO - Skipping already processed county: Carroll County, Arkansas
+2025-04-03 13:20:32,568 - INFO - Skipping already processed county: Carroll County, Georgia
+2025-04-03 13:20:32,569 - INFO - Skipping already processed county: Carroll County, Indiana
+2025-04-03 13:20:32,569 - INFO - Skipping already processed county: Carroll County, New Hampshire
+2025-04-03 13:20:32,569 - INFO - Skipping already processed county: Carroll County, Ohio
+2025-04-03 13:20:32,570 - INFO - Skipping already processed county: Carroll County, Tennessee
+2025-04-03 13:20:32,570 - INFO - Skipping already processed county: Carroll County, Virginia
+2025-04-03 13:20:32,571 - INFO - Skipping already processed county: Carson County, Texas
+2025-04-03 13:20:32,572 - INFO - Skipping already processed county: Carter County, Tennessee
+2025-04-03 13:20:32,574 - INFO - Skipping already processed county: Carteret County, North Carolina
+2025-04-03 13:20:32,575 - INFO - Skipping already processed county: Carver County, Minnesota
+2025-04-03 13:20:32,575 - INFO - Skipping already processed county: Cass County, Indiana
+2025-04-03 13:20:32,575 - INFO - Skipping already processed county: Cass County, Michigan
+2025-04-03 13:20:32,576 - INFO - Skipping already processed county: Cass County, Minnesota
+2025-04-03 13:20:32,576 - INFO - Skipping already processed county: Cass County, North Dakota
+2025-04-03 13:20:32,576 - INFO - Skipping already processed county: Cass County, Texas
+2025-04-03 13:20:32,577 - INFO - Skipping already processed county: Cassia County, Idaho
+2025-04-03 13:20:32,577 - INFO - Skipping already processed county: Castro County, Texas
+2025-04-03 13:20:32,578 - INFO - Skipping already processed county: Caswell County, North Carolina
+2025-04-03 13:20:32,578 - INFO - Skipping already processed county: Catawba County, North Carolina
+2025-04-03 13:20:32,579 - INFO - Skipping already processed county: Catoosa County, Georgia
+2025-04-03 13:20:32,580 - INFO - Skipping already processed county: Catron County, New Mexico
+2025-04-03 13:20:32,580 - INFO - Skipping already processed county: Cattaraugus County, New York
+2025-04-03 13:20:32,581 - INFO - Skipping already processed county: Cavalier County, North Dakota
+2025-04-03 13:20:32,581 - INFO - Skipping already processed county: Cayuga County, New York
+2025-04-03 13:20:32,581 - INFO - Skipping already processed county: Centre County, Pennsylvania
+2025-04-03 13:20:32,582 - INFO - Skipping already processed county: Chambers County, Texas
+2025-04-03 13:20:32,582 - INFO - Skipping already processed county: Champaign County, Ohio
+2025-04-03 13:20:32,582 - INFO - Skipping already processed county: Charles City County, Virginia
+2025-04-03 13:20:32,583 - INFO - Skipping already processed county: Charlevoix County, Michigan
+2025-04-03 13:20:32,583 - INFO - Skipping already processed county: Charlotte County, Virginia
+2025-04-03 13:20:32,583 - INFO - Skipping already processed county: Charlton County, Georgia
+2025-04-03 13:20:32,584 - INFO - Skipping already processed county: Chase County, Kansas
+2025-04-03 13:20:32,584 - INFO - Skipping already processed county: Chatham County, Georgia
+2025-04-03 13:20:32,584 - INFO - Skipping already processed county: Chatham County, North Carolina
+2025-04-03 13:20:32,585 - INFO - Skipping already processed county: Chattahoochee County, Georgia
+2025-04-03 13:20:32,585 - INFO - Skipping already processed county: Chattooga County, Georgia
+2025-04-03 13:20:32,585 - INFO - Skipping already processed county: Chautauqua County, Kansas
+2025-04-03 13:20:32,585 - INFO - Skipping already processed county: Chautauqua County, New York
+2025-04-03 13:20:32,586 - INFO - Skipping already processed county: Chaves County, New Mexico
+2025-04-03 13:20:32,586 - INFO - Skipping already processed county: Cheatham County, Tennessee
+2025-04-03 13:20:32,586 - INFO - Skipping already processed county: Cheboygan County, Michigan
+2025-04-03 13:20:32,587 - INFO - Skipping already processed county: Chelan County, Washington
+2025-04-03 13:20:32,588 - INFO - Skipping already processed county: Chemung County, New York
+2025-04-03 13:20:32,588 - INFO - Skipping already processed county: Chenango County, New York
+2025-04-03 13:20:32,589 - INFO - Skipping already processed county: Cherokee County, Georgia
+2025-04-03 13:20:32,591 - INFO - Skipping already processed county: Cherokee County, Kansas
+2025-04-03 13:20:32,592 - INFO - Skipping already processed county: Cherokee County, North Carolina
+2025-04-03 13:20:32,592 - INFO - Skipping already processed county: Cherokee County, Texas
+2025-04-03 13:20:32,593 - INFO - Skipping already processed county: Cheshire County, New Hampshire
+2025-04-03 13:20:32,593 - INFO - Skipping already processed county: Chester County, Pennsylvania
+2025-04-03 13:20:32,594 - INFO - Skipping already processed county: Chester County, Tennessee
+2025-04-03 13:20:32,594 - INFO - Skipping already processed county: Chesterfield County, Virginia
+2025-04-03 13:20:32,595 - INFO - Skipping already processed county: Cheyenne County, Kansas
+2025-04-03 13:20:32,595 - INFO - Skipping already processed county: Chicot County, Arkansas
+2025-04-03 13:20:32,596 - INFO - Skipping already processed county: Childress County, Texas
+2025-04-03 13:20:32,596 - INFO - Skipping already processed county: Chippewa County, Michigan
+2025-04-03 13:20:32,596 - INFO - Skipping already processed county: Chippewa County, Minnesota
+2025-04-03 13:20:32,597 - INFO - Skipping already processed county: Chippewa County, Wisconsin
+2025-04-03 13:20:32,597 - INFO - Skipping already processed county: Chisago County, Minnesota
+2025-04-03 13:20:32,598 - INFO - Skipping already processed county: Chowan County, North Carolina
+2025-04-03 13:20:32,598 - INFO - Skipping already processed county: Chugach Census Area, Alaska
+2025-04-03 13:20:32,599 - INFO - Skipping already processed county: Churchill County, Nevada
+2025-04-03 13:20:32,599 - INFO - Skipping already processed county: Cibola County, New Mexico
+2025-04-03 13:20:32,599 - INFO - Skipping already processed county: Clackamas County, Oregon
+2025-04-03 13:20:32,600 - INFO - Skipping already processed county: Claiborne County, Tennessee
+2025-04-03 13:20:32,600 - INFO - Skipping already processed county: Clallam County, Washington
+2025-04-03 13:20:32,600 - INFO - Skipping already processed county: Clare County, Michigan
+2025-04-03 13:20:32,601 - INFO - Skipping already processed county: Clarion County, Pennsylvania
+2025-04-03 13:20:32,601 - INFO - Skipping already processed county: Clark County, Arkansas
+2025-04-03 13:20:32,601 - INFO - Skipping already processed county: Clark County, Idaho
+2025-04-03 13:20:32,602 - INFO - Skipping already processed county: Clark County, Indiana
+2025-04-03 13:20:32,602 - INFO - Skipping already processed county: Clark County, Kansas
+2025-04-03 13:20:32,602 - INFO - Skipping already processed county: Clark County, Nevada
+2025-04-03 13:20:32,603 - INFO - Skipping already processed county: Clark County, Ohio
+2025-04-03 13:20:32,604 - INFO - Skipping already processed county: Clark County, Washington
+2025-04-03 13:20:32,604 - INFO - Skipping already processed county: Clark County, Wisconsin
+2025-04-03 13:20:32,605 - INFO - Skipping already processed county: Clarke County, Georgia
+2025-04-03 13:20:32,605 - INFO - Skipping already processed county: Clarke County, Virginia
+2025-04-03 13:20:32,606 - INFO - Skipping already processed county: Clatsop County, Oregon
+2025-04-03 13:20:32,607 - INFO - Skipping already processed county: Clay County, Arkansas
+2025-04-03 13:20:32,607 - INFO - Skipping already processed county: Clay County, Georgia
+2025-04-03 13:20:32,608 - INFO - Skipping already processed county: Clay County, Indiana
+2025-04-03 13:20:32,609 - INFO - Skipping already processed county: Clay County, Kansas
+2025-04-03 13:20:32,609 - INFO - Skipping already processed county: Clay County, Minnesota
+2025-04-03 13:20:32,609 - INFO - Skipping already processed county: Clay County, North Carolina
+2025-04-03 13:20:32,610 - INFO - Skipping already processed county: Clay County, Tennessee
+2025-04-03 13:20:32,610 - INFO - Skipping already processed county: Clay County, Texas
+2025-04-03 13:20:32,610 - INFO - Skipping already processed county: Clay County, West Virginia
+2025-04-03 13:20:32,610 - INFO - Skipping already processed county: Clayton County, Georgia
+2025-04-03 13:20:32,611 - INFO - Skipping already processed county: Clearfield County, Pennsylvania
+2025-04-03 13:20:32,611 - INFO - Skipping already processed county: Clearwater County, Idaho
+2025-04-03 13:20:32,611 - INFO - Skipping already processed county: Clearwater County, Minnesota
+2025-04-03 13:20:32,612 - INFO - Skipping already processed county: Cleburne County, Arkansas
+2025-04-03 13:20:32,612 - INFO - Skipping already processed county: Clermont County, Ohio
+2025-04-03 13:20:32,612 - INFO - Skipping already processed county: Cleveland County, Arkansas
+2025-04-03 13:20:32,612 - INFO - Skipping already processed county: Cleveland County, North Carolina
+2025-04-03 13:20:32,613 - INFO - Skipping already processed county: Clinch County, Georgia
+2025-04-03 13:20:32,613 - INFO - Skipping already processed county: Clinton County, Indiana
+2025-04-03 13:20:32,613 - INFO - Skipping already processed county: Clinton County, Michigan
+2025-04-03 13:20:32,614 - INFO - Skipping already processed county: Clinton County, New York
+2025-04-03 13:20:32,614 - INFO - Skipping already processed county: Clinton County, Ohio
+2025-04-03 13:20:32,615 - INFO - Skipping already processed county: Clinton County, Pennsylvania
+2025-04-03 13:20:32,615 - INFO - Skipping already processed county: Cloud County, Kansas
+2025-04-03 13:20:32,615 - INFO - Skipping already processed county: Cobb County, Georgia
+2025-04-03 13:20:32,616 - INFO - Skipping already processed county: Cochran County, Texas
+2025-04-03 13:20:32,616 - INFO - Skipping already processed county: Cocke County, Tennessee
+2025-04-03 13:20:32,616 - INFO - Skipping already processed county: Coffee County, Georgia
+2025-04-03 13:20:32,617 - INFO - Skipping already processed county: Coffee County, Tennessee
+2025-04-03 13:20:32,617 - INFO - Skipping already processed county: Coffey County, Kansas
+2025-04-03 13:20:32,617 - INFO - Skipping already processed county: Coke County, Texas
+2025-04-03 13:20:32,618 - INFO - Skipping already processed county: Coleman County, Texas
+2025-04-03 13:20:32,618 - INFO - Skipping already processed county: Colfax County, New Mexico
+2025-04-03 13:20:32,618 - INFO - Skipping already processed county: Collin County, Texas
+2025-04-03 13:20:32,619 - INFO - Skipping already processed county: Collingsworth County, Texas
+2025-04-03 13:20:32,619 - INFO - Skipping already processed county: Colorado County, Texas
+2025-04-03 13:20:32,620 - INFO - Skipping already processed county: Colquitt County, Georgia
+2025-04-03 13:20:32,620 - INFO - Skipping already processed county: Columbia County, Arkansas
+2025-04-03 13:20:32,621 - INFO - Skipping already processed county: Columbia County, Georgia
+2025-04-03 13:20:32,621 - INFO - Skipping already processed county: Columbia County, New York
+2025-04-03 13:20:32,622 - INFO - Skipping already processed county: Columbia County, Oregon
+2025-04-03 13:20:32,623 - INFO - Skipping already processed county: Columbia County, Pennsylvania
+2025-04-03 13:20:32,623 - INFO - Skipping already processed county: Columbia County, Washington
+2025-04-03 13:20:32,624 - INFO - Skipping already processed county: Columbia County, Wisconsin
+2025-04-03 13:20:32,625 - INFO - Skipping already processed county: Columbiana County, Ohio
+2025-04-03 13:20:32,625 - INFO - Skipping already processed county: Columbus County, North Carolina
+2025-04-03 13:20:32,625 - INFO - Skipping already processed county: Colusa County, California
+2025-04-03 13:20:32,626 - INFO - Skipping already processed county: Comal County, Texas
+2025-04-03 13:20:32,626 - INFO - Skipping already processed county: Comanche County, Kansas
+2025-04-03 13:20:32,627 - INFO - Skipping already processed county: Comanche County, Texas
+2025-04-03 13:20:32,627 - INFO - Skipping already processed county: Concho County, Texas
+2025-04-03 13:20:32,627 - INFO - Skipping already processed county: Contra Costa County, California
+2025-04-03 13:20:32,628 - INFO - Skipping already processed county: Conway County, Arkansas
+2025-04-03 13:20:32,628 - INFO - Skipping already processed county: Cook County, Georgia
+2025-04-03 13:20:32,628 - INFO - Skipping already processed county: Cook County, Minnesota
+2025-04-03 13:20:32,629 - INFO - Processing county: Cooke County, state: Texas
+2025-04-03 13:20:35,929 - INFO - Navigating to: https://data.census.gov/all?q=Cooke+County%2C+Texas (Attempt 1/3)
+2025-04-03 13:21:29,398 - INFO - Scraping demographics for Cooke County, Texas...
+2025-04-03 13:21:29,590 - INFO - Population: Total Population:41,668
+2025-04-03 13:21:29,633 - INFO - Income: Median Household Income:$72,472
+2025-04-03 13:21:29,657 - INFO - Employment Rate: Employment Rate:61.1%
+2025-04-03 13:21:35,577 - INFO - Navigating to: https://www.bing.com/search?q=Cooke+County%2C+Texas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:21:37,889 - INFO - Searching Bing for population growth rate: Cooke County, Texas population growth rate
+2025-04-03 13:21:37,952 - INFO - Page content loaded for Cooke County, Texas
+2025-04-03 13:21:37,953 - INFO - Population growth rate result: 1.65%
+2025-04-03 13:21:38,011 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:21:38,012 - INFO - Processing county: Coos County, state: Oregon
+2025-04-03 13:21:42,839 - INFO - Navigating to: https://data.census.gov/all?q=Coos+County%2C+Oregon (Attempt 1/3)
+2025-04-03 13:21:44,861 - INFO - Scraping demographics for Coos County, Oregon...
+2025-04-03 13:21:58,203 - INFO - Population: Total Population:64,929
+2025-04-03 13:21:58,230 - INFO - Income: Median Household Income:$60,313
+2025-04-03 13:21:58,287 - INFO - Employment Rate: Employment Rate:47.4%
+2025-04-03 13:22:05,043 - INFO - Navigating to: https://www.bing.com/search?q=Coos+County%2C+Oregon+population+growth+rate (Attempt 1/3)
+2025-04-03 13:22:06,746 - INFO - Searching Bing for population growth rate: Coos County, Oregon population growth rate
+2025-04-03 13:22:06,933 - INFO - Page content loaded for Coos County, Oregon
+2025-04-03 13:22:06,935 - INFO - Population growth rate result: -1.12%
+2025-04-03 13:22:06,939 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:22:06,940 - INFO - Processing county: Coös County, state: New Hampshire
+2025-04-03 13:22:10,500 - INFO - Navigating to: https://data.census.gov/all?q=Co%C3%B6s+County%2C+New+Hampshire (Attempt 1/3)
+2025-04-03 13:22:12,716 - INFO - Scraping demographics for Coös County, New Hampshire...
+2025-04-03 13:22:21,232 - INFO - Population: Total Population:31,268
+2025-04-03 13:22:21,320 - INFO - Income: Median Household Income:$58,439
+2025-04-03 13:22:21,435 - INFO - Employment Rate: Employment Rate:52.4%
+2025-04-03 13:22:27,061 - INFO - Navigating to: https://www.bing.com/search?q=Co%C3%B6s+County%2C+New+Hampshire+population+growth+rate (Attempt 1/3)
+2025-04-03 13:22:28,669 - INFO - Searching Bing for population growth rate: Coös County, New Hampshire population growth rate
+2025-04-03 13:22:28,794 - INFO - Page content loaded for Coös County, New Hampshire
+2025-04-03 13:22:28,795 - INFO - Population growth rate result: -0.33%
+2025-04-03 13:22:28,796 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:22:28,797 - INFO - Processing county: Copper River Census Area, state: Alaska
+2025-04-03 13:22:32,295 - INFO - Navigating to: https://data.census.gov/all?q=Copper+River+Census+Area%2C+Alaska (Attempt 1/3)
+2025-04-03 13:22:34,364 - INFO - Scraping demographics for Copper River Census Area, Alaska...
+2025-04-03 13:24:34,384 - ERROR - Error scraping demographics for Copper River Census Area, Alaska: Page.wait_for_selector: Timeout 120000ms exceeded.
+Call log:
+  - waiting for locator(".highlight-description") to be visible
+
+2025-04-03 13:24:34,386 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:24:34,387 - INFO - Processing county: Cortland County, state: New York
+2025-04-03 13:24:40,189 - INFO - Navigating to: https://data.census.gov/all?q=Cortland+County%2C+New+York (Attempt 1/3)
+2025-04-03 13:24:42,246 - INFO - Scraping demographics for Cortland County, New York...
+2025-04-03 13:24:57,891 - INFO - Population: Total Population:46,809
+2025-04-03 13:24:57,904 - INFO - Income: Median Household Income:$67,527
+2025-04-03 13:24:57,952 - INFO - Employment Rate: Employment Rate:59.6%
+2025-04-03 13:25:04,364 - INFO - Navigating to: https://www.bing.com/search?q=Cortland+County%2C+New+York+population+growth+rate (Attempt 1/3)
+2025-04-03 13:25:05,654 - INFO - Searching Bing for population growth rate: Cortland County, New York population growth rate
+2025-04-03 13:25:05,877 - INFO - Page content loaded for Cortland County, New York
+2025-04-03 13:25:05,877 - INFO - Population growth rate result: -0.72%
+2025-04-03 13:25:05,880 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:25:05,880 - INFO - Processing county: Coryell County, state: Texas
+2025-04-03 13:25:12,194 - INFO - Navigating to: https://data.census.gov/all?q=Coryell+County%2C+Texas (Attempt 1/3)
+2025-04-03 13:25:14,932 - INFO - Scraping demographics for Coryell County, Texas...
+2025-04-03 13:25:46,762 - INFO - Population: Total Population:83,093
+2025-04-03 13:25:46,780 - INFO - Income: Median Household Income:$75,559
+2025-04-03 13:25:46,797 - INFO - Employment Rate: Employment Rate:41.1%
+2025-04-03 13:25:51,038 - INFO - Navigating to: https://www.bing.com/search?q=Coryell+County%2C+Texas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:25:52,628 - INFO - Searching Bing for population growth rate: Coryell County, Texas population growth rate
+2025-04-03 13:25:52,855 - INFO - Page content loaded for Coryell County, Texas
+2025-04-03 13:25:52,856 - INFO - Population growth rate result: 0.79%
+2025-04-03 13:25:52,865 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:25:52,865 - INFO - Processing county: Coshocton County, state: Ohio
+2025-04-03 13:25:58,182 - INFO - Navigating to: https://data.census.gov/all?q=Coshocton+County%2C+Ohio (Attempt 1/3)
+2025-04-03 13:26:00,403 - INFO - Scraping demographics for Coshocton County, Ohio...
+2025-04-03 13:26:14,248 - INFO - Population: Total Population:36,612
+2025-04-03 13:26:14,267 - INFO - Income: Median Household Income:$54,687
+2025-04-03 13:26:14,292 - INFO - Employment Rate: Employment Rate:53.7%
+2025-04-03 13:26:21,027 - INFO - Navigating to: https://www.bing.com/search?q=Coshocton+County%2C+Ohio+population+growth+rate (Attempt 1/3)
+2025-04-03 13:26:22,538 - INFO - Searching Bing for population growth rate: Coshocton County, Ohio population growth rate
+2025-04-03 13:26:22,686 - INFO - Page content loaded for Coshocton County, Ohio
+2025-04-03 13:26:22,688 - INFO - Population growth rate result: 0.68%
+2025-04-03 13:26:22,690 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:26:22,691 - INFO - Processing county: Cottle County, state: Texas
+2025-04-03 13:26:28,283 - INFO - Navigating to: https://data.census.gov/all?q=Cottle+County%2C+Texas (Attempt 1/3)
+2025-04-03 13:26:30,073 - INFO - Scraping demographics for Cottle County, Texas...
+2025-04-03 13:26:41,987 - INFO - Population: Total Population:1,380
+2025-04-03 13:26:41,999 - INFO - Income: Median Household Income:$58,819
+2025-04-03 13:26:42,016 - INFO - Employment Rate: Employment Rate:55.0%
+2025-04-03 13:26:47,545 - INFO - Navigating to: https://www.bing.com/search?q=Cottle+County%2C+Texas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:26:49,687 - INFO - Searching Bing for population growth rate: Cottle County, Texas population growth rate
+2025-04-03 13:26:49,913 - INFO - Page content loaded for Cottle County, Texas
+2025-04-03 13:26:49,913 - INFO - Population growth rate result: -1.81%
+2025-04-03 13:26:49,917 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:26:49,918 - INFO - Processing county: Cottonwood County, state: Minnesota
+2025-04-03 13:26:56,340 - INFO - Navigating to: https://data.census.gov/all?q=Cottonwood+County%2C+Minnesota (Attempt 1/3)
+2025-04-03 13:26:58,005 - INFO - Scraping demographics for Cottonwood County, Minnesota...
+2025-04-03 13:27:12,790 - INFO - Population: Total Population:11,517
+2025-04-03 13:27:12,808 - INFO - Income: Median Household Income:$68,239
+2025-04-03 13:27:12,829 - INFO - Employment Rate: Employment Rate:61.0%
+2025-04-03 13:27:16,785 - INFO - Navigating to: https://www.bing.com/search?q=Cottonwood+County%2C+Minnesota+population+growth+rate (Attempt 1/3)
+2025-04-03 13:27:18,212 - INFO - Searching Bing for population growth rate: Cottonwood County, Minnesota population growth rate
+2025-04-03 13:27:18,349 - INFO - Page content loaded for Cottonwood County, Minnesota
+2025-04-03 13:27:18,350 - INFO - Population growth rate result: -0.56%
+2025-04-03 13:27:18,351 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:27:18,352 - INFO - Processing county: Coweta County, state: Georgia
+2025-04-03 13:27:24,626 - INFO - Navigating to: https://data.census.gov/all?q=Coweta+County%2C+Georgia (Attempt 1/3)
+2025-04-03 13:27:26,434 - INFO - Scraping demographics for Coweta County, Georgia...
+2025-04-03 13:27:35,028 - INFO - Population: Total Population:146,158
+2025-04-03 13:27:35,078 - INFO - Income: Median Household Income:$92,150
+2025-04-03 13:27:35,100 - INFO - Employment Rate: Employment Rate:61.7%
+2025-04-03 13:27:38,378 - INFO - Navigating to: https://www.bing.com/search?q=Coweta+County%2C+Georgia+population+growth+rate (Attempt 1/3)
+2025-04-03 13:27:40,067 - INFO - Searching Bing for population growth rate: Coweta County, Georgia population growth rate
+2025-04-03 13:27:40,293 - INFO - Page content loaded for Coweta County, Georgia
+2025-04-03 13:27:40,294 - INFO - Population growth rate result: 1.9%
+2025-04-03 13:27:40,296 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:27:40,297 - INFO - Processing county: Cowley County, state: Kansas
+2025-04-03 13:27:45,632 - INFO - Navigating to: https://data.census.gov/all?q=Cowley+County%2C+Kansas (Attempt 1/3)
+2025-04-03 13:27:47,840 - INFO - Scraping demographics for Cowley County, Kansas...
+2025-04-03 13:28:01,669 - INFO - Population: Total Population:34,549
+2025-04-03 13:28:01,683 - INFO - Income: Median Household Income:$58,263
+2025-04-03 13:28:01,698 - INFO - Employment Rate: Employment Rate:55.9%
+2025-04-03 13:28:08,135 - INFO - Navigating to: https://www.bing.com/search?q=Cowley+County%2C+Kansas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:28:10,022 - INFO - Searching Bing for population growth rate: Cowley County, Kansas population growth rate
+2025-04-03 13:28:10,243 - INFO - Page content loaded for Cowley County, Kansas
+2025-04-03 13:28:10,244 - INFO - Population growth rate result: -0.78%
+2025-04-03 13:28:10,248 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:28:10,249 - INFO - Processing county: Cowlitz County, state: Washington
+2025-04-03 13:28:16,467 - INFO - Navigating to: https://data.census.gov/all?q=Cowlitz+County%2C+Washington (Attempt 1/3)
+2025-04-03 13:28:18,327 - INFO - Scraping demographics for Cowlitz County, Washington...
+2025-04-03 13:28:52,036 - INFO - Population: Total Population:110,730
+2025-04-03 13:28:52,050 - INFO - Income: Median Household Income:$70,959
+2025-04-03 13:28:52,071 - INFO - Employment Rate: Employment Rate:54.2%
+2025-04-03 13:28:57,355 - INFO - Navigating to: https://www.bing.com/search?q=Cowlitz+County%2C+Washington+population+growth+rate (Attempt 1/3)
+2025-04-03 13:28:58,997 - INFO - Searching Bing for population growth rate: Cowlitz County, Washington population growth rate
+2025-04-03 13:28:59,226 - INFO - Page content loaded for Cowlitz County, Washington
+2025-04-03 13:28:59,227 - INFO - Population growth rate result: 0.7%
+2025-04-03 13:28:59,229 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:28:59,229 - INFO - Processing county: Craig County, state: Virginia
+2025-04-03 13:29:06,199 - INFO - Navigating to: https://data.census.gov/all?q=Craig+County%2C+Virginia (Attempt 1/3)
+2025-04-03 13:29:07,889 - INFO - Scraping demographics for Craig County, Virginia...
+2025-04-03 13:29:24,123 - INFO - Population: Total Population:4,892
+2025-04-03 13:29:24,136 - INFO - Income: Median Household Income:$67,778
+2025-04-03 13:29:24,151 - INFO - Employment Rate: Employment Rate:51.6%
+2025-04-03 13:29:31,168 - INFO - Navigating to: https://www.bing.com/search?q=Craig+County%2C+Virginia+population+growth+rate (Attempt 1/3)
+2025-04-03 13:29:32,900 - INFO - Searching Bing for population growth rate: Craig County, Virginia population growth rate
+2025-04-03 13:29:33,037 - INFO - Page content loaded for Craig County, Virginia
+2025-04-03 13:29:33,038 - INFO - Population growth rate result: -0.31%
+2025-04-03 13:29:33,040 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:29:33,040 - INFO - Processing county: Craighead County, state: Arkansas
+2025-04-03 13:29:37,973 - INFO - Navigating to: https://data.census.gov/all?q=Craighead+County%2C+Arkansas (Attempt 1/3)
+2025-04-03 13:29:39,657 - INFO - Scraping demographics for Craighead County, Arkansas...
+2025-04-03 13:30:11,321 - INFO - Population: Total Population:111,231
+2025-04-03 13:30:11,334 - INFO - Income: Median Household Income:$59,776
+2025-04-03 13:30:11,354 - INFO - Employment Rate: Employment Rate:60.5%
+2025-04-03 13:30:16,309 - INFO - Navigating to: https://www.bing.com/search?q=Craighead+County%2C+Arkansas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:30:18,403 - INFO - Searching Bing for population growth rate: Craighead County, Arkansas population growth rate
+2025-04-03 13:30:18,606 - INFO - Page content loaded for Craighead County, Arkansas
+2025-04-03 13:30:18,607 - INFO - Population growth rate result: 0.99%
+2025-04-03 13:30:18,608 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:30:18,609 - INFO - Processing county: Crane County, state: Texas
+2025-04-03 13:30:22,219 - INFO - Navigating to: https://data.census.gov/all?q=Crane+County%2C+Texas (Attempt 1/3)
+2025-04-03 13:30:24,289 - INFO - Scraping demographics for Crane County, Texas...
+2025-04-03 13:30:34,927 - INFO - Population: Total Population:4,675
+2025-04-03 13:30:34,939 - INFO - Income: Median Household Income:$59,915
+2025-04-03 13:30:34,960 - INFO - Employment Rate: Employment Rate:59.8%
+2025-04-03 13:30:40,212 - INFO - Navigating to: https://www.bing.com/search?q=Crane+County%2C+Texas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:30:41,708 - INFO - Searching Bing for population growth rate: Crane County, Texas population growth rate
+2025-04-03 13:30:41,890 - INFO - Page content loaded for Crane County, Texas
+2025-04-03 13:30:41,891 - INFO - Population growth rate result: 0.5%
+2025-04-03 13:30:41,894 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:30:41,895 - INFO - Processing county: Craven County, state: North Carolina
+2025-04-03 13:30:46,803 - INFO - Navigating to: https://data.census.gov/all?q=Craven+County%2C+North+Carolina (Attempt 1/3)
+2025-04-03 13:30:48,954 - INFO - Scraping demographics for Craven County, North Carolina...
+2025-04-03 13:31:22,223 - INFO - Population: Total Population:100,720
+2025-04-03 13:31:22,236 - INFO - Income: Median Household Income:$59,399
+2025-04-03 13:31:22,256 - INFO - Employment Rate: Employment Rate:48.8%
+2025-04-03 13:31:26,558 - INFO - Navigating to: https://www.bing.com/search?q=Craven+County%2C+North+Carolina+population+growth+rate (Attempt 1/3)
+2025-04-03 13:31:28,207 - INFO - Searching Bing for population growth rate: Craven County, North Carolina population growth rate
+2025-04-03 13:31:28,335 - INFO - Page content loaded for Craven County, North Carolina
+2025-04-03 13:31:28,335 - INFO - Population growth rate result: 1.26%
+2025-04-03 13:31:28,337 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:31:28,338 - INFO - Processing county: Crawford County, state: Arkansas
+2025-04-03 13:31:35,242 - INFO - Navigating to: https://data.census.gov/all?q=Crawford+County%2C+Arkansas (Attempt 1/3)
+2025-04-03 13:31:41,760 - INFO - Scraping demographics for Crawford County, Arkansas...
+2025-04-03 13:31:56,475 - INFO - Population: Total Population:60,133
+2025-04-03 13:31:56,489 - INFO - Income: Median Household Income:$60,362
+2025-04-03 13:31:56,505 - INFO - Employment Rate: Employment Rate:52.5%
+2025-04-03 13:32:01,279 - INFO - Navigating to: https://www.bing.com/search?q=Crawford+County%2C+Arkansas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:32:02,751 - INFO - Searching Bing for population growth rate: Crawford County, Arkansas population growth rate
+2025-04-03 13:32:02,928 - INFO - Page content loaded for Crawford County, Arkansas
+2025-04-03 13:32:02,929 - INFO - Population growth rate result: 1.37%
+2025-04-03 13:32:02,932 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:32:02,932 - INFO - Processing county: Crawford County, state: Georgia
+2025-04-03 13:32:08,280 - INFO - Navigating to: https://data.census.gov/all?q=Crawford+County%2C+Georgia (Attempt 1/3)
+2025-04-03 13:32:09,934 - INFO - Scraping demographics for Crawford County, Georgia...
+2025-04-03 13:32:21,628 - INFO - Population: Total Population:12,130
+2025-04-03 13:32:21,642 - INFO - Income: Median Household Income:$60,905
+2025-04-03 13:32:21,655 - INFO - Employment Rate: Employment Rate:53.0%
+2025-04-03 13:32:26,703 - INFO - Navigating to: https://www.bing.com/search?q=Crawford+County%2C+Georgia+population+growth+rate (Attempt 1/3)
+2025-04-03 13:32:28,166 - INFO - Searching Bing for population growth rate: Crawford County, Georgia population growth rate
+2025-04-03 13:32:28,328 - INFO - Page content loaded for Crawford County, Georgia
+2025-04-03 13:32:28,329 - INFO - Population growth rate result: 0.88%
+2025-04-03 13:32:28,331 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:32:28,331 - INFO - Processing county: Crawford County, state: Indiana
+2025-04-03 13:32:35,260 - INFO - Navigating to: https://data.census.gov/all?q=Crawford+County%2C+Indiana (Attempt 1/3)
+2025-04-03 13:32:36,993 - INFO - Scraping demographics for Crawford County, Indiana...
+2025-04-03 13:32:48,726 - INFO - Population: Total Population:10,526
+2025-04-03 13:32:48,738 - INFO - Income: Median Household Income:$48,993
+2025-04-03 13:32:48,755 - INFO - Employment Rate: Employment Rate:51.0%
+2025-04-03 13:32:54,472 - INFO - Navigating to: https://www.bing.com/search?q=Crawford+County%2C+Indiana+population+growth+rate (Attempt 1/3)
+2025-04-03 13:32:56,186 - INFO - Searching Bing for population growth rate: Crawford County, Indiana population growth rate
+2025-04-03 13:32:56,363 - INFO - Page content loaded for Crawford County, Indiana
+2025-04-03 13:32:56,364 - INFO - Population growth rate result: -0.76%
+2025-04-03 13:32:56,367 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:32:56,368 - INFO - Processing county: Crawford County, state: Kansas
+2025-04-03 13:32:59,688 - INFO - Navigating to: https://data.census.gov/all?q=Crawford+County%2C+Kansas (Attempt 1/3)
+2025-04-03 13:33:01,393 - INFO - Scraping demographics for Crawford County, Kansas...
+2025-04-03 13:33:15,480 - INFO - Population: Total Population:38,972
+2025-04-03 13:33:15,493 - INFO - Income: Median Household Income:$50,311
+2025-04-03 13:33:15,510 - INFO - Employment Rate: Employment Rate:62.8%
+2025-04-03 13:33:21,478 - INFO - Navigating to: https://www.bing.com/search?q=Crawford+County%2C+Kansas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:33:23,182 - INFO - Searching Bing for population growth rate: Crawford County, Kansas population growth rate
+2025-04-03 13:33:23,372 - INFO - Page content loaded for Crawford County, Kansas
+2025-04-03 13:33:23,373 - INFO - Population growth rate result: -0.99%
+2025-04-03 13:33:23,374 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:33:23,375 - INFO - Processing county: Crawford County, state: Michigan
+2025-04-03 13:33:30,358 - INFO - Navigating to: https://data.census.gov/all?q=Crawford+County%2C+Michigan (Attempt 1/3)
+2025-04-03 13:33:33,767 - INFO - Scraping demographics for Crawford County, Michigan...
+2025-04-03 13:33:46,036 - INFO - Population: Total Population:12,988
+2025-04-03 13:33:46,049 - INFO - Income: Median Household Income:$58,614
+2025-04-03 13:33:46,063 - INFO - Employment Rate: Employment Rate:45.7%
+2025-04-03 13:33:49,671 - INFO - Navigating to: https://www.bing.com/search?q=Crawford+County%2C+Michigan+population+growth+rate (Attempt 1/3)
+2025-04-03 13:33:51,152 - INFO - Searching Bing for population growth rate: Crawford County, Michigan population growth rate
+2025-04-03 13:33:51,360 - INFO - Page content loaded for Crawford County, Michigan
+2025-04-03 13:33:51,362 - INFO - Population growth rate result: 0.77%
+2025-04-03 13:33:51,364 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:33:51,364 - INFO - Processing county: Crawford County, state: Ohio
+2025-04-03 13:33:56,701 - INFO - Navigating to: https://data.census.gov/all?q=Crawford+County%2C+Ohio (Attempt 1/3)
+2025-04-03 13:33:58,674 - INFO - Scraping demographics for Crawford County, Ohio...
+2025-04-03 13:34:11,994 - INFO - Population: Total Population:42,025
+2025-04-03 13:34:12,012 - INFO - Income: Median Household Income:$55,477
+2025-04-03 13:34:12,036 - INFO - Employment Rate: Employment Rate:57.0%
+2025-04-03 13:34:18,926 - INFO - Navigating to: https://www.bing.com/search?q=Crawford+County%2C+Ohio+population+growth+rate (Attempt 1/3)
+2025-04-03 13:34:20,303 - INFO - Searching Bing for population growth rate: Crawford County, Ohio population growth rate
+2025-04-03 13:34:20,519 - INFO - Page content loaded for Crawford County, Ohio
+2025-04-03 13:34:20,521 - INFO - Population growth rate result: 0.05%
+2025-04-03 13:34:20,533 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:34:20,533 - INFO - Processing county: Crawford County, state: Pennsylvania
+2025-04-03 13:34:25,156 - INFO - Navigating to: https://data.census.gov/all?q=Crawford+County%2C+Pennsylvania (Attempt 1/3)
+2025-04-03 13:34:28,385 - INFO - Scraping demographics for Crawford County, Pennsylvania...
+2025-04-03 13:35:03,666 - INFO - Population: Total Population:83,938
+2025-04-03 13:35:03,679 - INFO - Income: Median Household Income:$60,797
+2025-04-03 13:35:03,697 - INFO - Employment Rate: Employment Rate:55.1%
+2025-04-03 13:35:09,974 - INFO - Navigating to: https://www.bing.com/search?q=Crawford+County%2C+Pennsylvania+population+growth+rate (Attempt 1/3)
+2025-04-03 13:35:11,785 - INFO - Searching Bing for population growth rate: Crawford County, Pennsylvania population growth rate
+2025-04-03 13:35:11,995 - INFO - Page content loaded for Crawford County, Pennsylvania
+2025-04-03 13:35:11,995 - INFO - Population growth rate result: -0.5%
+2025-04-03 13:35:11,998 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:35:11,999 - INFO - Processing county: Crawford County, state: Wisconsin
+2025-04-03 13:35:15,303 - INFO - Navigating to: https://data.census.gov/all?q=Crawford+County%2C+Wisconsin (Attempt 1/3)
+2025-04-03 13:35:19,907 - INFO - Scraping demographics for Crawford County, Wisconsin...
+2025-04-03 13:35:31,405 - INFO - Population: Total Population:16,113
+2025-04-03 13:35:31,418 - INFO - Income: Median Household Income:$63,496
+2025-04-03 13:35:31,440 - INFO - Employment Rate: Employment Rate:51.7%
+2025-04-03 13:35:37,758 - INFO - Navigating to: https://www.bing.com/search?q=Crawford+County%2C+Wisconsin+population+growth+rate (Attempt 1/3)
+2025-04-03 13:35:39,908 - INFO - Searching Bing for population growth rate: Crawford County, Wisconsin population growth rate
+2025-04-03 13:35:40,132 - INFO - Page content loaded for Crawford County, Wisconsin
+2025-04-03 13:35:40,132 - INFO - Population growth rate result: -0.45%
+2025-04-03 13:35:40,134 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:35:40,135 - INFO - Processing county: Crisp County, state: Georgia
+2025-04-03 13:35:47,111 - INFO - Navigating to: https://data.census.gov/all?q=Crisp+County%2C+Georgia (Attempt 1/3)
+2025-04-03 13:35:50,645 - INFO - Scraping demographics for Crisp County, Georgia...
+2025-04-03 13:36:03,674 - INFO - Population: Total Population:20,128
+2025-04-03 13:36:03,687 - INFO - Income: Median Household Income:$42,745
+2025-04-03 13:36:03,703 - INFO - Employment Rate: Employment Rate:51.6%
+2025-04-03 13:36:09,885 - INFO - Navigating to: https://www.bing.com/search?q=Crisp+County%2C+Georgia+population+growth+rate (Attempt 1/3)
+2025-04-03 13:36:11,316 - INFO - Searching Bing for population growth rate: Crisp County, Georgia population growth rate
+2025-04-03 13:36:11,486 - INFO - Page content loaded for Crisp County, Georgia
+2025-04-03 13:36:11,487 - INFO - Population growth rate result: -0.5%
+2025-04-03 13:36:11,489 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:36:11,489 - INFO - Processing county: Crittenden County, state: Arkansas
+2025-04-03 13:36:14,989 - INFO - Navigating to: https://data.census.gov/all?q=Crittenden+County%2C+Arkansas (Attempt 1/3)
+2025-04-03 13:36:19,149 - INFO - Scraping demographics for Crittenden County, Arkansas...
+2025-04-03 13:36:24,130 - INFO - Population: Total Population:48,163
+2025-04-03 13:36:24,181 - INFO - Income: Median Household Income:$54,271
+2025-04-03 13:36:24,248 - INFO - Employment Rate: Employment Rate:55.9%
+2025-04-03 13:36:30,477 - INFO - Navigating to: https://www.bing.com/search?q=Crittenden+County%2C+Arkansas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:36:32,038 - INFO - Searching Bing for population growth rate: Crittenden County, Arkansas population growth rate
+2025-04-03 13:36:32,178 - INFO - Page content loaded for Crittenden County, Arkansas
+2025-04-03 13:36:32,178 - INFO - Population growth rate result: 0.19%
+2025-04-03 13:36:32,181 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:36:32,182 - INFO - Processing county: Crockett County, state: Tennessee
+2025-04-03 13:36:37,102 - INFO - Navigating to: https://data.census.gov/all?q=Crockett+County%2C+Tennessee (Attempt 1/3)
+2025-04-03 13:36:40,518 - INFO - Scraping demographics for Crockett County, Tennessee...
+2025-04-03 13:36:53,588 - INFO - Population: Total Population:13,911
+2025-04-03 13:36:53,603 - INFO - Income: Median Household Income:$59,049
+2025-04-03 13:36:53,623 - INFO - Employment Rate: Employment Rate:58.7%
+2025-04-03 13:36:57,743 - INFO - Navigating to: https://www.bing.com/search?q=Crockett+County%2C+Tennessee+population+growth+rate (Attempt 1/3)
+2025-04-03 13:37:02,000 - INFO - Searching Bing for population growth rate: Crockett County, Tennessee population growth rate
+2025-04-03 13:37:02,116 - INFO - Page content loaded for Crockett County, Tennessee
+2025-04-03 13:37:02,117 - INFO - Population growth rate result: 0.85%
+2025-04-03 13:37:02,119 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:37:02,120 - INFO - Processing county: Crockett County, state: Texas
+2025-04-03 13:37:07,271 - INFO - Navigating to: https://data.census.gov/all?q=Crockett+County%2C+Texas (Attempt 1/3)
+2025-04-03 13:37:10,432 - INFO - Scraping demographics for Crockett County, Texas...
+2025-04-03 13:37:22,324 - INFO - Population: Total Population:3,098
+2025-04-03 13:37:22,339 - INFO - Income: Median Household Income:$81,739
+2025-04-03 13:37:22,358 - INFO - Employment Rate: Employment Rate:60.2%
+2025-04-03 13:37:27,168 - INFO - Navigating to: https://www.bing.com/search?q=Crockett+County%2C+Texas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:37:29,185 - INFO - Searching Bing for population growth rate: Crockett County, Texas population growth rate
+2025-04-03 13:37:29,359 - INFO - Page content loaded for Crockett County, Texas
+2025-04-03 13:37:29,360 - INFO - Population growth rate result: -3.7%
+2025-04-03 13:37:29,363 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:37:29,364 - INFO - Processing county: Crook County, state: Oregon
+2025-04-03 13:37:33,474 - INFO - Navigating to: https://data.census.gov/all?q=Crook+County%2C+Oregon (Attempt 1/3)
+2025-04-03 13:37:36,649 - INFO - Scraping demographics for Crook County, Oregon...
+2025-04-03 13:37:50,296 - INFO - Population: Total Population:24,738
+2025-04-03 13:37:50,311 - INFO - Income: Median Household Income:$81,675
+2025-04-03 13:37:50,333 - INFO - Employment Rate: Employment Rate:54.0%
+2025-04-03 13:37:54,366 - INFO - Navigating to: https://www.bing.com/search?q=Crook+County%2C+Oregon+population+growth+rate (Attempt 1/3)
+2025-04-03 13:37:55,959 - INFO - Searching Bing for population growth rate: Crook County, Oregon population growth rate
+2025-04-03 13:37:56,243 - INFO - Page content loaded for Crook County, Oregon
+2025-04-03 13:37:56,245 - INFO - Population growth rate result: 2.09%
+2025-04-03 13:37:56,251 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:37:56,251 - INFO - Processing county: Crosby County, state: Texas
+2025-04-03 13:38:01,470 - INFO - Navigating to: https://data.census.gov/all?q=Crosby+County%2C+Texas (Attempt 1/3)
+2025-04-03 13:38:07,878 - INFO - Scraping demographics for Crosby County, Texas...
+2025-04-03 13:38:24,602 - INFO - Population: Total Population:5,133
+2025-04-03 13:38:24,615 - INFO - Income: Median Household Income:$52,197
+2025-04-03 13:38:24,627 - INFO - Employment Rate: Employment Rate:56.7%
+2025-04-03 13:38:31,345 - INFO - Navigating to: https://www.bing.com/search?q=Crosby+County%2C+Texas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:38:33,161 - INFO - Searching Bing for population growth rate: Crosby County, Texas population growth rate
+2025-04-03 13:38:33,413 - INFO - Page content loaded for Crosby County, Texas
+2025-04-03 13:38:33,414 - INFO - Population growth rate result: -1.53%
+2025-04-03 13:38:33,417 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:38:33,417 - INFO - Processing county: Cross County, state: Arkansas
+2025-04-03 13:38:37,808 - INFO - Navigating to: https://data.census.gov/all?q=Cross+County%2C+Arkansas (Attempt 1/3)
+2025-04-03 13:38:42,968 - INFO - Scraping demographics for Cross County, Arkansas...
+2025-04-03 13:38:53,021 - INFO - Population: Total Population:16,833
+2025-04-03 13:38:53,045 - INFO - Income: Median Household Income:$47,012
+2025-04-03 13:38:53,071 - INFO - Employment Rate: Employment Rate:53.6%
+2025-04-03 13:38:59,422 - INFO - Navigating to: https://www.bing.com/search?q=Cross+County%2C+Arkansas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:39:00,869 - INFO - Searching Bing for population growth rate: Cross County, Arkansas population growth rate
+2025-04-03 13:39:01,238 - INFO - Page content loaded for Cross County, Arkansas
+2025-04-03 13:39:01,238 - INFO - Population growth rate result: -1.04%
+2025-04-03 13:39:01,243 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:39:01,244 - INFO - Processing county: Crow Wing County, state: Minnesota
+2025-04-03 13:39:06,103 - INFO - Navigating to: https://data.census.gov/all?q=Crow+Wing+County%2C+Minnesota (Attempt 1/3)
+2025-04-03 13:39:11,745 - INFO - Scraping demographics for Crow Wing County, Minnesota...
+2025-04-03 13:39:30,294 - INFO - Population: Total Population:66,123
+2025-04-03 13:39:30,314 - INFO - Income: Median Household Income:$76,050
+2025-04-03 13:39:30,335 - INFO - Employment Rate: Employment Rate:59.1%
+2025-04-03 13:39:34,022 - INFO - Navigating to: https://www.bing.com/search?q=Crow+Wing+County%2C+Minnesota+population+growth+rate (Attempt 1/3)
+2025-04-03 13:39:35,810 - INFO - Searching Bing for population growth rate: Crow Wing County, Minnesota population growth rate
+2025-04-03 13:39:36,065 - INFO - Page content loaded for Crow Wing County, Minnesota
+2025-04-03 13:39:36,066 - INFO - Population growth rate result: 0.61%
+2025-04-03 13:39:36,070 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:39:36,071 - INFO - Processing county: Culberson County, state: Texas
+2025-04-03 13:39:41,603 - INFO - Navigating to: https://data.census.gov/all?q=Culberson+County%2C+Texas (Attempt 1/3)
+2025-04-03 13:39:46,395 - INFO - Scraping demographics for Culberson County, Texas...
+2025-04-03 13:39:57,095 - INFO - Population: Total Population:2,188
+2025-04-03 13:39:57,115 - INFO - Income: Median Household Income:$42,672
+2025-04-03 13:39:57,144 - INFO - Employment Rate: Employment Rate:52.0%
+2025-04-03 13:40:01,729 - INFO - Navigating to: https://www.bing.com/search?q=Culberson+County%2C+Texas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:40:03,694 - INFO - Searching Bing for population growth rate: Culberson County, Texas population growth rate
+2025-04-03 13:40:04,229 - INFO - Page content loaded for Culberson County, Texas
+2025-04-03 13:40:04,230 - INFO - Population growth rate result: 1.5%
+2025-04-03 13:40:04,247 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:40:04,248 - INFO - Processing county: Culpeper County, state: Virginia
+2025-04-03 13:40:10,189 - INFO - Navigating to: https://data.census.gov/all?q=Culpeper+County%2C+Virginia (Attempt 1/3)
+2025-04-03 13:40:14,163 - INFO - Scraping demographics for Culpeper County, Virginia...
+2025-04-03 13:40:28,961 - INFO - Population: Total Population:52,552
+2025-04-03 13:40:28,988 - INFO - Income: Median Household Income:$96,098
+2025-04-03 13:40:29,027 - INFO - Employment Rate: Employment Rate:61.8%
+2025-04-03 13:40:32,909 - INFO - Navigating to: https://www.bing.com/search?q=Culpeper+County%2C+Virginia+population+growth+rate (Attempt 1/3)
+2025-04-03 13:40:34,664 - INFO - Searching Bing for population growth rate: Culpeper County, Virginia population growth rate
+2025-04-03 13:40:34,928 - INFO - Page content loaded for Culpeper County, Virginia
+2025-04-03 13:40:34,930 - INFO - Population growth rate result: 1.23%
+2025-04-03 13:40:34,933 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:40:34,934 - INFO - Processing county: Cumberland County, state: Maine
+2025-04-03 13:40:41,781 - INFO - Navigating to: https://data.census.gov/all?q=Cumberland+County%2C+Maine (Attempt 1/3)
+2025-04-03 13:40:45,263 - INFO - Scraping demographics for Cumberland County, Maine...
+2025-04-03 13:41:24,997 - INFO - Population: Total Population:303,069
+2025-04-03 13:41:25,012 - INFO - Income: Median Household Income:$98,369
+2025-04-03 13:41:25,031 - INFO - Employment Rate: Employment Rate:67.7%
+2025-04-03 13:41:31,734 - INFO - Navigating to: https://www.bing.com/search?q=Cumberland+County%2C+Maine+population+growth+rate (Attempt 1/3)
+2025-04-03 13:41:33,616 - INFO - Searching Bing for population growth rate: Cumberland County, Maine population growth rate
+2025-04-03 13:41:33,856 - INFO - Page content loaded for Cumberland County, Maine
+2025-04-03 13:41:33,857 - INFO - Population growth rate result: 0.45%
+2025-04-03 13:41:33,858 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:41:33,859 - INFO - Processing county: Cumberland County, state: North Carolina
+2025-04-03 13:41:39,113 - INFO - Navigating to: https://data.census.gov/all?q=Cumberland+County%2C+North+Carolina (Attempt 1/3)
+2025-04-03 13:41:43,003 - INFO - Scraping demographics for Cumberland County, North Carolina...
+2025-04-03 13:42:33,596 - INFO - Population: Total Population:334,728
+2025-04-03 13:42:33,614 - INFO - Income: Median Household Income:$61,643
+2025-04-03 13:42:33,633 - INFO - Employment Rate: Employment Rate:49.7%
+2025-04-03 13:42:37,552 - INFO - Navigating to: https://www.bing.com/search?q=Cumberland+County%2C+North+Carolina+population+growth+rate (Attempt 1/3)
+2025-04-03 13:42:39,069 - INFO - Searching Bing for population growth rate: Cumberland County, North Carolina population growth rate
+2025-04-03 13:42:39,310 - INFO - Page content loaded for Cumberland County, North Carolina
+2025-04-03 13:42:39,312 - INFO - Population growth rate result: 0.33%
+2025-04-03 13:42:39,314 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:42:39,315 - INFO - Processing county: Cumberland County, state: Pennsylvania
+2025-04-03 13:42:43,718 - INFO - Navigating to: https://data.census.gov/all?q=Cumberland+County%2C+Pennsylvania (Attempt 1/3)
+2025-04-03 13:42:47,207 - INFO - Scraping demographics for Cumberland County, Pennsylvania...
+2025-04-03 13:42:58,265 - INFO - Population: Total Population:259,469
+2025-04-03 13:42:58,280 - INFO - Income: Median Household Income:$82,174
+2025-04-03 13:42:58,303 - INFO - Employment Rate: Employment Rate:63.5%
+2025-04-03 13:43:04,461 - INFO - Navigating to: https://www.bing.com/search?q=Cumberland+County%2C+Pennsylvania+population+growth+rate (Attempt 1/3)
+2025-04-03 13:43:06,530 - INFO - Searching Bing for population growth rate: Cumberland County, Pennsylvania population growth rate
+2025-04-03 13:43:06,693 - INFO - Page content loaded for Cumberland County, Pennsylvania
+2025-04-03 13:43:06,694 - INFO - Population growth rate result: 0.81%
+2025-04-03 13:43:06,696 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:43:06,697 - INFO - Processing county: Cumberland County, state: Tennessee
+2025-04-03 13:43:12,341 - INFO - Navigating to: https://data.census.gov/all?q=Cumberland+County%2C+Tennessee (Attempt 1/3)
+2025-04-03 13:43:15,842 - INFO - Scraping demographics for Cumberland County, Tennessee...
+2025-04-03 13:43:29,298 - INFO - Population: Total Population:61,145
+2025-04-03 13:43:29,317 - INFO - Income: Median Household Income:$58,475
+2025-04-03 13:43:29,334 - INFO - Employment Rate: Employment Rate:43.4%
+2025-04-03 13:43:34,955 - INFO - Navigating to: https://www.bing.com/search?q=Cumberland+County%2C+Tennessee+population+growth+rate (Attempt 1/3)
+2025-04-03 13:43:36,350 - INFO - Searching Bing for population growth rate: Cumberland County, Tennessee population growth rate
+2025-04-03 13:43:36,569 - INFO - Page content loaded for Cumberland County, Tennessee
+2025-04-03 13:43:36,569 - INFO - Population growth rate result: 1.94%
+2025-04-03 13:43:36,571 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:43:36,572 - INFO - Processing county: Cumberland County, state: Virginia
+2025-04-03 13:43:42,540 - INFO - Navigating to: https://data.census.gov/all?q=Cumberland+County%2C+Virginia (Attempt 1/3)
+2025-04-03 13:43:46,733 - INFO - Scraping demographics for Cumberland County, Virginia...
+2025-04-03 13:43:58,246 - INFO - Population: Total Population:9,675
+2025-04-03 13:43:58,267 - INFO - Income: Median Household Income:$57,057
+2025-04-03 13:43:58,287 - INFO - Employment Rate: Employment Rate:60.4%
+2025-04-03 13:44:03,077 - INFO - Navigating to: https://www.bing.com/search?q=Cumberland+County%2C+Virginia+population+growth+rate (Attempt 1/3)
+2025-04-03 13:44:04,632 - INFO - Searching Bing for population growth rate: Cumberland County, Virginia population growth rate
+2025-04-03 13:44:04,840 - INFO - Page content loaded for Cumberland County, Virginia
+2025-04-03 13:44:04,841 - INFO - Population growth rate result: 1.27%
+2025-04-03 13:44:04,843 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:44:04,843 - INFO - Processing county: Currituck County, state: North Carolina
+2025-04-03 13:44:08,887 - INFO - Navigating to: https://data.census.gov/all?q=Currituck+County%2C+North+Carolina (Attempt 1/3)
+2025-04-03 13:44:12,560 - INFO - Scraping demographics for Currituck County, North Carolina...
+2025-04-03 13:45:27,970 - INFO - Population: Total Population:28,100
+2025-04-03 13:45:27,984 - INFO - Income: Median Household Income:$91,548
+2025-04-03 13:45:28,002 - INFO - Employment Rate: Employment Rate:62.6%
+2025-04-03 13:45:31,156 - INFO - Navigating to: https://www.bing.com/search?q=Currituck+County%2C+North+Carolina+population+growth+rate (Attempt 1/3)
+2025-04-03 13:45:32,880 - INFO - Searching Bing for population growth rate: Currituck County, North Carolina population growth rate
+2025-04-03 13:45:33,036 - INFO - Page content loaded for Currituck County, North Carolina
+2025-04-03 13:45:33,037 - INFO - Population growth rate result: 1.85%
+2025-04-03 13:45:33,039 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:45:33,040 - INFO - Processing county: Curry County, state: New Mexico
+2025-04-03 13:45:38,361 - INFO - Navigating to: https://data.census.gov/all?q=Curry+County%2C+New+Mexico (Attempt 1/3)
+2025-04-03 13:45:41,708 - INFO - Scraping demographics for Curry County, New Mexico...
+2025-04-03 13:45:53,867 - INFO - Population: Total Population:48,430
+2025-04-03 13:45:53,880 - INFO - Income: Median Household Income:$56,259
+2025-04-03 13:45:53,901 - INFO - Employment Rate: Employment Rate:48.9%
+2025-04-03 13:45:59,040 - INFO - Navigating to: https://www.bing.com/search?q=Curry+County%2C+New+Mexico+population+growth+rate (Attempt 1/3)
+2025-04-03 13:46:00,614 - INFO - Searching Bing for population growth rate: Curry County, New Mexico population growth rate
+2025-04-03 13:46:00,831 - INFO - Page content loaded for Curry County, New Mexico
+2025-04-03 13:46:00,832 - INFO - Population growth rate result: -0.44%
+2025-04-03 13:46:00,835 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:46:00,836 - INFO - Processing county: Curry County, state: Oregon
+2025-04-03 13:46:04,545 - INFO - Navigating to: https://data.census.gov/all?q=Curry+County%2C+Oregon (Attempt 1/3)
+2025-04-03 13:46:07,769 - INFO - Scraping demographics for Curry County, Oregon...
+2025-04-03 13:46:19,384 - INFO - Population: Total Population:23,446
+2025-04-03 13:46:19,397 - INFO - Income: Median Household Income:$64,769
+2025-04-03 13:46:19,414 - INFO - Employment Rate: Employment Rate:42.1%
+2025-04-03 13:46:24,827 - INFO - Navigating to: https://www.bing.com/search?q=Curry+County%2C+Oregon+population+growth+rate (Attempt 1/3)
+2025-04-03 13:46:26,170 - INFO - Searching Bing for population growth rate: Curry County, Oregon population growth rate
+2025-04-03 13:46:26,326 - INFO - Page content loaded for Curry County, Oregon
+2025-04-03 13:46:26,327 - INFO - Population growth rate result: -1.38%
+2025-04-03 13:46:26,329 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:46:26,329 - INFO - Processing county: Custer County, state: Idaho
+2025-04-03 13:46:31,586 - INFO - Navigating to: https://data.census.gov/all?q=Custer+County%2C+Idaho (Attempt 1/3)
+2025-04-03 13:46:35,132 - INFO - Scraping demographics for Custer County, Idaho...
+2025-04-03 13:46:46,212 - INFO - Population: Total Population:4,275
+2025-04-03 13:46:46,225 - INFO - Income: Median Household Income:$56,957
+2025-04-03 13:46:46,243 - INFO - Employment Rate: Employment Rate:46.9%
+2025-04-03 13:46:50,808 - INFO - Navigating to: https://www.bing.com/search?q=Custer+County%2C+Idaho+population+growth+rate (Attempt 1/3)
+2025-04-03 13:46:52,247 - INFO - Searching Bing for population growth rate: Custer County, Idaho population growth rate
+2025-04-03 13:46:52,414 - INFO - Page content loaded for Custer County, Idaho
+2025-04-03 13:46:52,414 - INFO - Population growth rate result: 0.11%
+2025-04-03 13:46:52,416 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:46:52,417 - INFO - Processing county: Cuyahoga County, state: Ohio
+2025-04-03 13:46:58,795 - INFO - Navigating to: https://data.census.gov/all?q=Cuyahoga+County%2C+Ohio (Attempt 1/3)
+2025-04-03 13:47:08,926 - INFO - Scraping demographics for Cuyahoga County, Ohio...
+2025-04-03 13:47:22,195 - INFO - Population: Total Population:1,264,817
+2025-04-03 13:47:22,216 - INFO - Income: Median Household Income:$61,862
+2025-04-03 13:47:22,239 - INFO - Employment Rate: Employment Rate:60.5%
+2025-04-03 13:47:28,002 - INFO - Navigating to: https://www.bing.com/search?q=Cuyahoga+County%2C+Ohio+population+growth+rate (Attempt 1/3)
+2025-04-03 13:47:29,774 - INFO - Searching Bing for population growth rate: Cuyahoga County, Ohio population growth rate
+2025-04-03 13:47:29,971 - INFO - Page content loaded for Cuyahoga County, Ohio
+2025-04-03 13:47:29,971 - INFO - Population growth rate result: -0.32%
+2025-04-03 13:47:29,975 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:47:29,976 - INFO - Processing county: Dade County, state: Georgia
+2025-04-03 13:47:34,235 - INFO - Navigating to: https://data.census.gov/all?q=Dade+County%2C+Georgia (Attempt 1/3)
+2025-04-03 13:47:38,678 - INFO - Scraping demographics for Dade County, Georgia...
+2025-04-03 13:47:49,463 - INFO - Population: Total Population:16,251
+2025-04-03 13:47:49,476 - INFO - Income: Median Household Income:$58,936
+2025-04-03 13:47:49,492 - INFO - Employment Rate: Employment Rate:54.0%
+2025-04-03 13:47:52,920 - INFO - Navigating to: https://www.bing.com/search?q=Dade+County%2C+Georgia+population+growth+rate (Attempt 1/3)
+2025-04-03 13:47:54,394 - INFO - Searching Bing for population growth rate: Dade County, Georgia population growth rate
+2025-04-03 13:47:54,613 - INFO - Page content loaded for Dade County, Georgia
+2025-04-03 13:47:54,614 - INFO - Population growth rate result: 0.46%
+2025-04-03 13:47:54,616 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:47:54,617 - INFO - Processing county: Daggett County, state: Utah
+2025-04-03 13:47:58,357 - INFO - Navigating to: https://data.census.gov/all?q=Daggett+County%2C+Utah (Attempt 1/3)
+2025-04-03 13:48:01,757 - INFO - Scraping demographics for Daggett County, Utah...
+2025-04-03 13:48:05,589 - INFO - Population: Total Population:935
+2025-04-03 13:48:05,673 - INFO - Income: Median Household Income:$58,750
+2025-04-03 13:48:05,835 - INFO - Employment Rate: Employment Rate:52.0%
+2025-04-03 13:48:11,728 - INFO - Navigating to: https://www.bing.com/search?q=Daggett+County%2C+Utah+population+growth+rate (Attempt 1/3)
+2025-04-03 13:48:13,457 - INFO - Searching Bing for population growth rate: Daggett County, Utah population growth rate
+2025-04-03 13:48:13,605 - INFO - Page content loaded for Daggett County, Utah
+2025-04-03 13:48:13,606 - INFO - Population growth rate result: -2.37%
+2025-04-03 13:48:13,608 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:48:13,609 - INFO - Processing county: Dakota County, state: Minnesota
+2025-04-03 13:48:17,985 - INFO - Navigating to: https://data.census.gov/all?q=Dakota+County%2C+Minnesota (Attempt 1/3)
+2025-04-03 13:48:21,589 - INFO - Scraping demographics for Dakota County, Minnesota...
+2025-04-03 13:49:05,524 - INFO - Population: Total Population:439,882
+2025-04-03 13:49:05,537 - INFO - Income: Median Household Income:$99,830
+2025-04-03 13:49:05,556 - INFO - Employment Rate: Employment Rate:68.6%
+2025-04-03 13:49:12,193 - INFO - Navigating to: https://www.bing.com/search?q=Dakota+County%2C+Minnesota+population+growth+rate (Attempt 1/3)
+2025-04-03 13:49:14,062 - INFO - Searching Bing for population growth rate: Dakota County, Minnesota population growth rate
+2025-04-03 13:49:14,248 - INFO - Page content loaded for Dakota County, Minnesota
+2025-04-03 13:49:14,249 - INFO - Population growth rate result: 0.92%
+2025-04-03 13:49:14,251 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:49:14,251 - INFO - Processing county: Dallam County, state: Texas
+2025-04-03 13:49:19,179 - INFO - Navigating to: https://data.census.gov/all?q=Dallam+County%2C+Texas (Attempt 1/3)
+2025-04-03 13:49:22,154 - INFO - Scraping demographics for Dallam County, Texas...
+2025-04-03 13:49:32,261 - INFO - Population: Total Population:7,115
+2025-04-03 13:49:32,274 - INFO - Income: Median Household Income:$72,332
+2025-04-03 13:49:32,294 - INFO - Employment Rate: Employment Rate:76.4%
+2025-04-03 13:49:38,199 - INFO - Navigating to: https://www.bing.com/search?q=Dallam+County%2C+Texas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:49:39,655 - INFO - Searching Bing for population growth rate: Dallam County, Texas population growth rate
+2025-04-03 13:49:39,872 - INFO - Page content loaded for Dallam County, Texas
+2025-04-03 13:49:39,873 - INFO - Population growth rate result: 0.03%
+2025-04-03 13:49:39,876 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:49:39,876 - INFO - Processing county: Dallas County, state: Arkansas
+2025-04-03 13:49:44,687 - INFO - Navigating to: https://data.census.gov/all?q=Dallas+County%2C+Arkansas (Attempt 1/3)
+2025-04-03 13:49:47,891 - INFO - Scraping demographics for Dallas County, Arkansas...
+2025-04-03 13:49:59,462 - INFO - Population: Total Population:6,482
+2025-04-03 13:49:59,478 - INFO - Income: Median Household Income:$44,694
+2025-04-03 13:49:59,499 - INFO - Employment Rate: Employment Rate:48.0%
+2025-04-03 13:50:05,198 - INFO - Navigating to: https://www.bing.com/search?q=Dallas+County%2C+Arkansas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:50:06,205 - INFO - Searching Bing for population growth rate: Dallas County, Arkansas population growth rate
+2025-04-03 13:50:06,459 - INFO - Page content loaded for Dallas County, Arkansas
+2025-04-03 13:50:06,460 - INFO - Population growth rate result: -0.18%
+2025-04-03 13:50:06,463 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:50:06,463 - INFO - Processing county: Dallas County, state: Texas
+2025-04-03 13:50:09,727 - INFO - Navigating to: https://data.census.gov/all?q=Dallas+County%2C+Texas (Attempt 1/3)
+2025-04-03 13:50:12,930 - INFO - Scraping demographics for Dallas County, Texas...
+2025-04-03 13:50:26,767 - INFO - Population: Total Population:2,613,539
+2025-04-03 13:50:26,791 - INFO - Income: Median Household Income:$74,350
+2025-04-03 13:50:26,825 - INFO - Employment Rate: Employment Rate:66.3%
+2025-04-03 13:50:33,523 - INFO - Navigating to: https://www.bing.com/search?q=Dallas+County%2C+Texas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:50:35,210 - INFO - Searching Bing for population growth rate: Dallas County, Texas population growth rate
+2025-04-03 13:50:35,456 - INFO - Page content loaded for Dallas County, Texas
+2025-04-03 13:50:35,457 - INFO - Population growth rate result: 0.17%
+2025-04-03 13:50:35,460 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:50:35,461 - INFO - Processing county: Dane County, state: Wisconsin
+2025-04-03 13:50:40,615 - INFO - Navigating to: https://data.census.gov/all?q=Dane+County%2C+Wisconsin (Attempt 1/3)
+2025-04-03 13:50:45,980 - INFO - Scraping demographics for Dane County, Wisconsin...
+2025-04-03 13:50:58,387 - INFO - Population: Total Population:561,504
+2025-04-03 13:50:58,402 - INFO - Income: Median Household Income:$82,838
+2025-04-03 13:50:58,421 - INFO - Employment Rate: Employment Rate:68.9%
+2025-04-03 13:51:03,471 - INFO - Navigating to: https://www.bing.com/search?q=Dane+County%2C+Wisconsin+population+growth+rate (Attempt 1/3)
+2025-04-03 13:51:05,526 - INFO - Searching Bing for population growth rate: Dane County, Wisconsin population growth rate
+2025-04-03 13:51:05,704 - INFO - Page content loaded for Dane County, Wisconsin
+2025-04-03 13:51:05,705 - INFO - Population growth rate result: 1.3%
+2025-04-03 13:51:05,707 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:51:05,708 - INFO - Processing county: Dare County, state: North Carolina
+2025-04-03 13:51:09,504 - INFO - Navigating to: https://data.census.gov/all?q=Dare+County%2C+North+Carolina (Attempt 1/3)
+2025-04-03 13:51:13,419 - INFO - Scraping demographics for Dare County, North Carolina...
+2025-04-03 13:51:24,944 - INFO - Population: Total Population:36,915
+2025-04-03 13:51:24,965 - INFO - Income: Median Household Income:$81,214
+2025-04-03 13:51:24,989 - INFO - Employment Rate: Employment Rate:59.9%
+2025-04-03 13:51:29,928 - INFO - Navigating to: https://www.bing.com/search?q=Dare+County%2C+North+Carolina+population+growth+rate (Attempt 1/3)
+2025-04-03 13:51:31,266 - INFO - Searching Bing for population growth rate: Dare County, North Carolina population growth rate
+2025-04-03 13:51:31,547 - INFO - Page content loaded for Dare County, North Carolina
+2025-04-03 13:51:31,548 - INFO - Population growth rate result: 0.32%
+2025-04-03 13:51:31,551 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:51:31,552 - INFO - Processing county: Darke County, state: Ohio
+2025-04-03 13:51:36,182 - INFO - Navigating to: https://data.census.gov/all?q=Darke+County%2C+Ohio (Attempt 1/3)
+2025-04-03 13:51:40,077 - INFO - Scraping demographics for Darke County, Ohio...
+2025-04-03 13:51:52,168 - INFO - Population: Total Population:51,881
+2025-04-03 13:51:52,188 - INFO - Income: Median Household Income:$64,654
+2025-04-03 13:51:52,215 - INFO - Employment Rate: Employment Rate:59.0%
+2025-04-03 13:51:58,041 - INFO - Navigating to: https://www.bing.com/search?q=Darke+County%2C+Ohio+population+growth+rate (Attempt 1/3)
+2025-04-03 13:51:59,860 - INFO - Searching Bing for population growth rate: Darke County, Ohio population growth rate
+2025-04-03 13:52:00,066 - INFO - Page content loaded for Darke County, Ohio
+2025-04-03 13:52:00,067 - INFO - Population growth rate result: -0.22%
+2025-04-03 13:52:00,071 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:52:00,072 - INFO - Processing county: Dauphin County, state: Pennsylvania
+2025-04-03 13:52:03,707 - INFO - Navigating to: https://data.census.gov/all?q=Dauphin+County%2C+Pennsylvania (Attempt 1/3)
+2025-04-03 13:52:07,027 - INFO - Scraping demographics for Dauphin County, Pennsylvania...
+2025-04-03 13:52:56,940 - INFO - Population: Total Population:286,401
+2025-04-03 13:52:56,954 - INFO - Income: Median Household Income:$74,170
+2025-04-03 13:52:56,971 - INFO - Employment Rate: Employment Rate:62.5%
+2025-04-03 13:53:02,874 - INFO - Navigating to: https://www.bing.com/search?q=Dauphin+County%2C+Pennsylvania+population+growth+rate (Attempt 1/3)
+2025-04-03 13:53:04,310 - INFO - Searching Bing for population growth rate: Dauphin County, Pennsylvania population growth rate
+2025-04-03 13:53:04,558 - INFO - Page content loaded for Dauphin County, Pennsylvania
+2025-04-03 13:53:04,559 - INFO - Population growth rate result: 0.19%
+2025-04-03 13:53:04,564 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:53:04,564 - INFO - Processing county: Davidson County, state: North Carolina
+2025-04-03 13:53:07,756 - INFO - Navigating to: https://data.census.gov/all?q=Davidson+County%2C+North+Carolina (Attempt 1/3)
+2025-04-03 13:53:10,791 - INFO - Scraping demographics for Davidson County, North Carolina...
+2025-04-03 13:53:44,555 - INFO - Population: Total Population:168,930
+2025-04-03 13:53:44,569 - INFO - Income: Median Household Income:$63,189
+2025-04-03 13:53:44,586 - INFO - Employment Rate: Employment Rate:58.6%
+2025-04-03 13:53:50,475 - INFO - Navigating to: https://www.bing.com/search?q=Davidson+County%2C+North+Carolina+population+growth+rate (Attempt 1/3)
+2025-04-03 13:53:52,323 - INFO - Searching Bing for population growth rate: Davidson County, North Carolina population growth rate
+2025-04-03 13:53:52,571 - INFO - Page content loaded for Davidson County, North Carolina
+2025-04-03 13:53:52,572 - INFO - Population growth rate result: 1.37%
+2025-04-03 13:53:52,577 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:53:52,577 - INFO - Processing county: Davidson County, state: Tennessee
+2025-04-03 13:53:58,623 - INFO - Navigating to: https://data.census.gov/all?q=Davidson+County%2C+Tennessee (Attempt 1/3)
+2025-04-03 13:54:03,460 - INFO - Scraping demographics for Davidson County, Tennessee...
+2025-04-03 13:54:10,574 - INFO - Population: Total Population:715,884
+2025-04-03 13:54:10,678 - INFO - Income: Median Household Income:$80,379
+2025-04-03 13:54:10,726 - INFO - Employment Rate: Employment Rate:70.4%
+2025-04-03 13:54:16,134 - INFO - Navigating to: https://www.bing.com/search?q=Davidson+County%2C+Tennessee+population+growth+rate (Attempt 1/3)
+2025-04-03 13:54:17,776 - INFO - Searching Bing for population growth rate: Davidson County, Tennessee population growth rate
+2025-04-03 13:54:17,972 - INFO - Page content loaded for Davidson County, Tennessee
+2025-04-03 13:54:17,973 - INFO - Population growth rate result: 0.69%
+2025-04-03 13:54:17,975 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:54:17,976 - INFO - Processing county: Davie County, state: North Carolina
+2025-04-03 13:54:21,740 - INFO - Navigating to: https://data.census.gov/all?q=Davie+County%2C+North+Carolina (Attempt 1/3)
+2025-04-03 13:54:25,181 - INFO - Scraping demographics for Davie County, North Carolina...
+2025-04-03 13:54:36,799 - INFO - Population: Total Population:42,712
+2025-04-03 13:54:36,813 - INFO - Income: Median Household Income:$73,234
+2025-04-03 13:54:36,829 - INFO - Employment Rate: Employment Rate:56.2%
+2025-04-03 13:54:41,585 - INFO - Navigating to: https://www.bing.com/search?q=Davie+County%2C+North+Carolina+population+growth+rate (Attempt 1/3)
+2025-04-03 13:54:43,316 - INFO - Searching Bing for population growth rate: Davie County, North Carolina population growth rate
+2025-04-03 13:54:43,461 - INFO - Page content loaded for Davie County, North Carolina
+2025-04-03 13:54:43,462 - INFO - Population growth rate result: 1.07%
+2025-04-03 13:54:43,466 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:54:43,467 - INFO - Processing county: Daviess County, state: Indiana
+2025-04-03 13:54:47,803 - INFO - Navigating to: https://data.census.gov/all?q=Daviess+County%2C+Indiana (Attempt 1/3)
+2025-04-03 13:54:50,984 - INFO - Scraping demographics for Daviess County, Indiana...
+2025-04-03 13:55:02,557 - INFO - Population: Total Population:33,381
+2025-04-03 13:55:02,571 - INFO - Income: Median Household Income:$68,561
+2025-04-03 13:55:02,591 - INFO - Employment Rate: Employment Rate:60.8%
+2025-04-03 13:55:06,070 - INFO - Navigating to: https://www.bing.com/search?q=Daviess+County%2C+Indiana+population+growth+rate (Attempt 1/3)
+2025-04-03 13:55:07,879 - INFO - Searching Bing for population growth rate: Daviess County, Indiana population growth rate
+2025-04-03 13:55:08,043 - INFO - Page content loaded for Daviess County, Indiana
+2025-04-03 13:55:08,044 - INFO - Population growth rate result: 0.47%
+2025-04-03 13:55:08,046 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:55:08,046 - INFO - Processing county: Davis County, state: Utah
+2025-04-03 13:55:12,775 - INFO - Navigating to: https://data.census.gov/all?q=Davis+County%2C+Utah (Attempt 1/3)
+2025-04-03 13:55:16,078 - INFO - Scraping demographics for Davis County, Utah...
+2025-04-03 13:55:55,941 - INFO - Population: Total Population:362,679
+2025-04-03 13:55:55,954 - INFO - Income: Median Household Income:$111,778
+2025-04-03 13:55:55,973 - INFO - Employment Rate: Employment Rate:68.2%
+2025-04-03 13:56:00,521 - INFO - Navigating to: https://www.bing.com/search?q=Davis+County%2C+Utah+population+growth+rate (Attempt 1/3)
+2025-04-03 13:56:02,256 - INFO - Searching Bing for population growth rate: Davis County, Utah population growth rate
+2025-04-03 13:56:02,415 - INFO - Page content loaded for Davis County, Utah
+2025-04-03 13:56:02,416 - INFO - Population growth rate result: 0.88%
+2025-04-03 13:56:02,419 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:56:02,420 - INFO - Processing county: Dawson County, state: Georgia
+2025-04-03 13:56:06,888 - INFO - Navigating to: https://data.census.gov/all?q=Dawson+County%2C+Georgia (Attempt 1/3)
+2025-04-03 13:56:10,887 - INFO - Scraping demographics for Dawson County, Georgia...
+2025-04-03 13:56:21,819 - INFO - Population: Total Population:26,798
+2025-04-03 13:56:21,832 - INFO - Income: Median Household Income:$88,986
+2025-04-03 13:56:21,849 - INFO - Employment Rate: Employment Rate:58.8%
+2025-04-03 13:56:26,538 - INFO - Navigating to: https://www.bing.com/search?q=Dawson+County%2C+Georgia+population+growth+rate (Attempt 1/3)
+2025-04-03 13:56:27,962 - INFO - Searching Bing for population growth rate: Dawson County, Georgia population growth rate
+2025-04-03 13:56:28,148 - INFO - Page content loaded for Dawson County, Georgia
+2025-04-03 13:56:28,149 - INFO - Population growth rate result: 4.64%
+2025-04-03 13:56:28,152 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:56:28,153 - INFO - Processing county: Dawson County, state: Texas
+2025-04-03 13:56:31,557 - INFO - Navigating to: https://data.census.gov/all?q=Dawson+County%2C+Texas (Attempt 1/3)
+2025-04-03 13:56:34,809 - INFO - Scraping demographics for Dawson County, Texas...
+2025-04-03 13:56:45,885 - INFO - Population: Total Population:12,456
+2025-04-03 13:56:45,899 - INFO - Income: Median Household Income:$55,789
+2025-04-03 13:56:45,919 - INFO - Employment Rate: Employment Rate:48.4%
+2025-04-03 13:56:50,411 - INFO - Navigating to: https://www.bing.com/search?q=Dawson+County%2C+Texas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:56:51,854 - INFO - Searching Bing for population growth rate: Dawson County, Texas population growth rate
+2025-04-03 13:56:52,031 - INFO - Page content loaded for Dawson County, Texas
+2025-04-03 13:56:52,032 - INFO - Population growth rate result: -1.43%
+2025-04-03 13:56:52,034 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:56:52,034 - INFO - Processing county: De Baca County, state: New Mexico
+2025-04-03 13:56:56,630 - INFO - Navigating to: https://data.census.gov/all?q=De+Baca+County%2C+New+Mexico (Attempt 1/3)
+2025-04-03 13:56:59,921 - INFO - Scraping demographics for De Baca County, New Mexico...
+2025-04-03 13:57:10,805 - INFO - Population: Total Population:1,698
+2025-04-03 13:57:10,820 - INFO - Income: Median Household Income:$40,804
+2025-04-03 13:57:10,840 - INFO - Employment Rate: Employment Rate:54.4%
+2025-04-03 13:57:15,294 - INFO - Navigating to: https://www.bing.com/search?q=De+Baca+County%2C+New+Mexico+population+growth+rate (Attempt 1/3)
+2025-04-03 13:57:16,539 - INFO - Searching Bing for population growth rate: De Baca County, New Mexico population growth rate
+2025-04-03 13:57:16,707 - INFO - Page content loaded for De Baca County, New Mexico
+2025-04-03 13:57:16,707 - INFO - Population growth rate result: -2.16%
+2025-04-03 13:57:16,709 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:57:16,710 - INFO - Processing county: DeKalb County, state: Georgia
+2025-04-03 13:57:23,300 - INFO - Navigating to: https://data.census.gov/all?q=DeKalb+County%2C+Georgia (Attempt 1/3)
+2025-04-03 13:57:26,161 - INFO - Scraping demographics for DeKalb County, Georgia...
+2025-04-03 13:57:33,013 - INFO - Population: Total Population:764,382
+2025-04-03 13:57:33,035 - INFO - Income: Median Household Income:$77,861
+2025-04-03 13:57:33,057 - INFO - Employment Rate: Employment Rate:64.8%
+2025-04-03 13:57:36,338 - INFO - Navigating to: https://www.bing.com/search?q=DeKalb+County%2C+Georgia+population+growth+rate (Attempt 1/3)
+2025-04-03 13:57:37,883 - INFO - Searching Bing for population growth rate: DeKalb County, Georgia population growth rate
+2025-04-03 13:57:38,096 - INFO - Page content loaded for DeKalb County, Georgia
+2025-04-03 13:57:38,097 - INFO - Population growth rate result: 0.16%
+2025-04-03 13:57:38,099 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:57:38,099 - INFO - Processing county: DeKalb County, state: Indiana
+2025-04-03 13:57:42,634 - INFO - Navigating to: https://data.census.gov/all?q=DeKalb+County%2C+Indiana (Attempt 1/3)
+2025-04-03 13:57:44,416 - INFO - Scraping demographics for DeKalb County, Indiana...
+2025-04-03 13:57:56,789 - INFO - Population: Total Population:43,265
+2025-04-03 13:57:56,804 - INFO - Income: Median Household Income:$70,080
+2025-04-03 13:57:56,822 - INFO - Employment Rate: Employment Rate:63.1%
+2025-04-03 13:58:00,053 - INFO - Navigating to: https://www.bing.com/search?q=DeKalb+County%2C+Indiana+population+growth+rate (Attempt 1/3)
+2025-04-03 13:58:01,374 - INFO - Searching Bing for population growth rate: DeKalb County, Indiana population growth rate
+2025-04-03 13:58:01,617 - INFO - Page content loaded for DeKalb County, Indiana
+2025-04-03 13:58:01,618 - INFO - Population growth rate result: 0.86%
+2025-04-03 13:58:01,621 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:58:01,622 - INFO - Processing county: DeKalb County, state: Tennessee
+2025-04-03 13:58:06,449 - INFO - Navigating to: https://data.census.gov/all?q=DeKalb+County%2C+Tennessee (Attempt 1/3)
+2025-04-03 13:58:09,378 - INFO - Scraping demographics for DeKalb County, Tennessee...
+2025-04-03 13:58:20,397 - INFO - Population: Total Population:20,080
+2025-04-03 13:58:20,411 - INFO - Income: Median Household Income:$48,484
+2025-04-03 13:58:20,433 - INFO - Employment Rate: Employment Rate:51.1%
+2025-04-03 13:58:25,815 - INFO - Navigating to: https://www.bing.com/search?q=DeKalb+County%2C+Tennessee+population+growth+rate (Attempt 1/3)
+2025-04-03 13:58:27,079 - INFO - Searching Bing for population growth rate: DeKalb County, Tennessee population growth rate
+2025-04-03 13:58:27,284 - INFO - Page content loaded for DeKalb County, Tennessee
+2025-04-03 13:58:27,285 - INFO - Population growth rate result: 1.04%
+2025-04-03 13:58:27,288 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:58:27,288 - INFO - Processing county: DeWitt County, state: Texas
+2025-04-03 13:58:33,855 - INFO - Navigating to: https://data.census.gov/all?q=DeWitt+County%2C+Texas (Attempt 1/3)
+2025-04-03 13:58:37,762 - INFO - Scraping demographics for DeWitt County, Texas...
+2025-04-03 13:58:49,293 - INFO - Population: Total Population:19,824
+2025-04-03 13:58:49,306 - INFO - Income: Median Household Income:$64,014
+2025-04-03 13:58:49,323 - INFO - Employment Rate: Employment Rate:47.7%
+2025-04-03 13:58:55,050 - INFO - Navigating to: https://www.bing.com/search?q=DeWitt+County%2C+Texas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:58:56,679 - INFO - Searching Bing for population growth rate: DeWitt County, Texas population growth rate
+2025-04-03 13:58:56,903 - INFO - Page content loaded for DeWitt County, Texas
+2025-04-03 13:58:56,903 - INFO - Population growth rate result: 0.87%
+2025-04-03 13:58:56,905 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:58:56,906 - INFO - Processing county: Deaf Smith County, state: Texas
+2025-04-03 13:59:01,764 - INFO - Navigating to: https://data.census.gov/all?q=Deaf+Smith+County%2C+Texas (Attempt 1/3)
+2025-04-03 13:59:03,758 - INFO - Scraping demographics for Deaf Smith County, Texas...
+2025-04-03 13:59:15,315 - INFO - Population: Total Population:18,583
+2025-04-03 13:59:15,334 - INFO - Income: Median Household Income:$54,114
+2025-04-03 13:59:15,379 - INFO - Employment Rate: Employment Rate:62.3%
+2025-04-03 13:59:22,358 - INFO - Navigating to: https://www.bing.com/search?q=Deaf+Smith+County%2C+Texas+population+growth+rate (Attempt 1/3)
+2025-04-03 13:59:24,293 - INFO - Searching Bing for population growth rate: Deaf Smith County, Texas population growth rate
+2025-04-03 13:59:24,422 - INFO - Page content loaded for Deaf Smith County, Texas
+2025-04-03 13:59:24,422 - INFO - Population growth rate result: -0.28%
+2025-04-03 13:59:24,424 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:59:24,425 - INFO - Processing county: Dearborn County, state: Indiana
+2025-04-03 13:59:29,635 - INFO - Navigating to: https://data.census.gov/all?q=Dearborn+County%2C+Indiana (Attempt 1/3)
+2025-04-03 13:59:31,356 - INFO - Scraping demographics for Dearborn County, Indiana...
+2025-04-03 13:59:43,928 - INFO - Population: Total Population:50,679
+2025-04-03 13:59:43,943 - INFO - Income: Median Household Income:$82,693
+2025-04-03 13:59:43,961 - INFO - Employment Rate: Employment Rate:62.1%
+2025-04-03 13:59:47,919 - INFO - Navigating to: https://www.bing.com/search?q=Dearborn+County%2C+Indiana+population+growth+rate (Attempt 1/3)
+2025-04-03 13:59:49,671 - INFO - Searching Bing for population growth rate: Dearborn County, Indiana population growth rate
+2025-04-03 13:59:49,860 - INFO - Page content loaded for Dearborn County, Indiana
+2025-04-03 13:59:49,861 - INFO - Population growth rate result: 0.61%
+2025-04-03 13:59:49,863 - INFO - --------------------------------------------------------------------------------
+2025-04-03 13:59:49,864 - INFO - Processing county: Decatur County, state: Georgia
+2025-04-03 13:59:54,206 - INFO - Navigating to: https://data.census.gov/all?q=Decatur+County%2C+Georgia (Attempt 1/3)
+2025-04-03 13:59:56,006 - INFO - Scraping demographics for Decatur County, Georgia...
+2025-04-03 14:00:07,637 - INFO - Population: Total Population:29,367
+2025-04-03 14:00:07,650 - INFO - Income: Median Household Income:$50,485
+2025-04-03 14:00:07,672 - INFO - Employment Rate: Employment Rate:48.6%
+2025-04-03 14:00:10,980 - INFO - Navigating to: https://www.bing.com/search?q=Decatur+County%2C+Georgia+population+growth+rate (Attempt 1/3)
+2025-04-03 14:00:12,722 - INFO - Searching Bing for population growth rate: Decatur County, Georgia population growth rate
+2025-04-03 14:00:12,888 - INFO - Page content loaded for Decatur County, Georgia
+2025-04-03 14:00:12,888 - INFO - Population growth rate result: 0.23%
+2025-04-03 14:00:12,890 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:00:12,891 - INFO - Processing county: Decatur County, state: Indiana
+2025-04-03 14:00:16,710 - INFO - Navigating to: https://data.census.gov/all?q=Decatur+County%2C+Indiana (Attempt 1/3)
+2025-04-03 14:00:20,422 - INFO - Scraping demographics for Decatur County, Indiana...
+2025-04-03 14:00:31,061 - INFO - Population: Total Population:26,472
+2025-04-03 14:00:31,075 - INFO - Income: Median Household Income:$74,228
+2025-04-03 14:00:31,093 - INFO - Employment Rate: Employment Rate:64.6%
+2025-04-03 14:00:37,445 - INFO - Navigating to: https://www.bing.com/search?q=Decatur+County%2C+Indiana+population+growth+rate (Attempt 1/3)
+2025-04-03 14:00:39,017 - INFO - Searching Bing for population growth rate: Decatur County, Indiana population growth rate
+2025-04-03 14:00:39,240 - INFO - Page content loaded for Decatur County, Indiana
+2025-04-03 14:00:39,241 - INFO - Population growth rate result: -0.21%
+2025-04-03 14:00:39,243 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:00:39,243 - INFO - Processing county: Decatur County, state: Kansas
+2025-04-03 14:00:42,452 - INFO - Navigating to: https://data.census.gov/all?q=Decatur+County%2C+Kansas (Attempt 1/3)
+2025-04-03 14:00:44,210 - INFO - Scraping demographics for Decatur County, Kansas...
+2025-04-03 14:00:57,088 - INFO - Population: Total Population:2,764
+2025-04-03 14:00:57,105 - INFO - Income: Median Household Income:$52,030
+2025-04-03 14:00:57,127 - INFO - Employment Rate: Employment Rate:60.9%
+2025-04-03 14:01:01,789 - INFO - Navigating to: https://www.bing.com/search?q=Decatur+County%2C+Kansas+population+growth+rate (Attempt 1/3)
+2025-04-03 14:01:03,268 - INFO - Searching Bing for population growth rate: Decatur County, Kansas population growth rate
+2025-04-03 14:01:03,487 - INFO - Page content loaded for Decatur County, Kansas
+2025-04-03 14:01:03,488 - INFO - Population growth rate result: 0.84%
+2025-04-03 14:01:03,491 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:01:03,492 - INFO - Processing county: Decatur County, state: Tennessee
+2025-04-03 14:01:06,988 - INFO - Navigating to: https://data.census.gov/all?q=Decatur+County%2C+Tennessee (Attempt 1/3)
+2025-04-03 14:01:09,974 - INFO - Scraping demographics for Decatur County, Tennessee...
+2025-04-03 14:01:23,397 - INFO - Population: Total Population:11,435
+2025-04-03 14:01:23,411 - INFO - Income: Median Household Income:$46,190
+2025-04-03 14:01:23,428 - INFO - Employment Rate: Employment Rate:44.6%
+2025-04-03 14:01:26,958 - INFO - Navigating to: https://www.bing.com/search?q=Decatur+County%2C+Tennessee+population+growth+rate (Attempt 1/3)
+2025-04-03 14:01:28,365 - INFO - Searching Bing for population growth rate: Decatur County, Tennessee population growth rate
+2025-04-03 14:01:28,567 - INFO - Page content loaded for Decatur County, Tennessee
+2025-04-03 14:01:28,569 - INFO - Population growth rate result: 0.91%
+2025-04-03 14:01:28,571 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:01:28,572 - INFO - Processing county: Defiance County, state: Ohio
+2025-04-03 14:01:32,203 - INFO - Navigating to: https://data.census.gov/all?q=Defiance+County%2C+Ohio (Attempt 1/3)
+2025-04-03 14:01:34,003 - INFO - Scraping demographics for Defiance County, Ohio...
+2025-04-03 14:01:37,954 - INFO - Population: Total Population:38,286
+2025-04-03 14:01:38,019 - INFO - Income: Median Household Income:$73,615
+2025-04-03 14:01:38,084 - INFO - Employment Rate: Employment Rate:61.3%
+2025-04-03 14:01:42,271 - INFO - Navigating to: https://www.bing.com/search?q=Defiance+County%2C+Ohio+population+growth+rate (Attempt 1/3)
+2025-04-03 14:01:43,821 - INFO - Searching Bing for population growth rate: Defiance County, Ohio population growth rate
+2025-04-03 14:01:44,061 - INFO - Page content loaded for Defiance County, Ohio
+2025-04-03 14:01:44,061 - INFO - Population growth rate result: 0.49%
+2025-04-03 14:01:44,063 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:01:44,064 - INFO - Processing county: Del Norte County, state: California
+2025-04-03 14:01:50,932 - INFO - Navigating to: https://data.census.gov/all?q=Del+Norte+County%2C+California (Attempt 1/3)
+2025-04-03 14:01:54,763 - INFO - Scraping demographics for Del Norte County, California...
+2025-04-03 14:01:58,644 - INFO - Population: Total Population:27,743
+2025-04-03 14:01:58,682 - INFO - Income: Median Household Income:$66,780
+2025-04-03 14:01:58,715 - INFO - Employment Rate: Employment Rate:46.8%
+2025-04-03 14:02:02,009 - INFO - Navigating to: https://www.bing.com/search?q=Del+Norte+County%2C+California+population+growth+rate (Attempt 1/3)
+2025-04-03 14:02:03,631 - INFO - Searching Bing for population growth rate: Del Norte County, California population growth rate
+2025-04-03 14:02:03,846 - INFO - Page content loaded for Del Norte County, California
+2025-04-03 14:02:03,847 - INFO - Population growth rate result: -2.01%
+2025-04-03 14:02:03,849 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:02:03,849 - INFO - Processing county: Delaware County, state: Indiana
+2025-04-03 14:02:09,694 - INFO - Navigating to: https://data.census.gov/all?q=Delaware+County%2C+Indiana (Attempt 1/3)
+2025-04-03 14:02:11,500 - INFO - Scraping demographics for Delaware County, Indiana...
+2025-04-03 14:02:20,047 - INFO - Population: Total Population:111,903
+2025-04-03 14:02:20,066 - INFO - Income: Median Household Income:$55,206
+2025-04-03 14:02:20,102 - INFO - Employment Rate: Employment Rate:59.0%
+2025-04-03 14:02:23,777 - INFO - Navigating to: https://www.bing.com/search?q=Delaware+County%2C+Indiana+population+growth+rate (Attempt 1/3)
+2025-04-03 14:02:25,308 - INFO - Searching Bing for population growth rate: Delaware County, Indiana population growth rate
+2025-04-03 14:02:25,558 - INFO - Page content loaded for Delaware County, Indiana
+2025-04-03 14:02:25,559 - INFO - Population growth rate result: 0.14%
+2025-04-03 14:02:25,562 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:02:25,563 - INFO - Processing county: Delaware County, state: Iowa
+2025-04-03 14:02:31,398 - INFO - Navigating to: https://data.census.gov/all?q=Delaware+County%2C+Iowa (Attempt 1/3)
+2025-04-03 14:02:33,360 - INFO - Scraping demographics for Delaware County, Iowa...
+2025-04-03 14:02:44,321 - INFO - Population: Total Population:17,488
+2025-04-03 14:02:44,335 - INFO - Income: Median Household Income:$76,205
+2025-04-03 14:02:44,353 - INFO - Employment Rate: Employment Rate:68.3%
+2025-04-03 14:02:48,530 - INFO - Navigating to: https://www.bing.com/search?q=Delaware+County%2C+Iowa+population+growth+rate (Attempt 1/3)
+2025-04-03 14:02:49,908 - INFO - Searching Bing for population growth rate: Delaware County, Iowa population growth rate
+2025-04-03 14:02:50,159 - INFO - Page content loaded for Delaware County, Iowa
+2025-04-03 14:02:50,160 - INFO - Population growth rate result: -0.04%
+2025-04-03 14:02:50,162 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:02:50,162 - INFO - Processing county: Delaware County, state: New York
+2025-04-03 14:02:55,476 - INFO - Navigating to: https://data.census.gov/all?q=Delaware+County%2C+New+York (Attempt 1/3)
+2025-04-03 14:02:57,337 - INFO - Scraping demographics for Delaware County, New York...
+2025-04-03 14:03:10,443 - INFO - Population: Total Population:44,308
+2025-04-03 14:03:10,462 - INFO - Income: Median Household Income:$60,226
+2025-04-03 14:03:10,479 - INFO - Employment Rate: Employment Rate:50.1%
+2025-04-03 14:03:13,839 - INFO - Navigating to: https://www.bing.com/search?q=Delaware+County%2C+New+York+population+growth+rate (Attempt 1/3)
+2025-04-03 14:03:15,114 - INFO - Searching Bing for population growth rate: Delaware County, New York population growth rate
+2025-04-03 14:03:15,320 - INFO - Page content loaded for Delaware County, New York
+2025-04-03 14:03:15,321 - INFO - Population growth rate result: -0.83%
+2025-04-03 14:03:15,325 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:03:15,325 - INFO - Processing county: Delaware County, state: Ohio
+2025-04-03 14:03:21,754 - INFO - Navigating to: https://data.census.gov/all?q=Delaware+County%2C+Ohio (Attempt 1/3)
+2025-04-03 14:03:23,930 - INFO - Scraping demographics for Delaware County, Ohio...
+2025-04-03 14:03:59,666 - INFO - Population: Total Population:214,124
+2025-04-03 14:03:59,680 - INFO - Income: Median Household Income:$126,513
+2025-04-03 14:03:59,700 - INFO - Employment Rate: Employment Rate:67.6%
+2025-04-03 14:04:04,977 - INFO - Navigating to: https://www.bing.com/search?q=Delaware+County%2C+Ohio+population+growth+rate (Attempt 1/3)
+2025-04-03 14:04:06,820 - INFO - Searching Bing for population growth rate: Delaware County, Ohio population growth rate
+2025-04-03 14:04:06,968 - INFO - Page content loaded for Delaware County, Ohio
+2025-04-03 14:04:06,968 - INFO - Population growth rate result: 2.16%
+2025-04-03 14:04:06,970 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:04:06,970 - INFO - Processing county: Delaware County, state: Oklahoma
+2025-04-03 14:04:13,077 - INFO - Navigating to: https://data.census.gov/all?q=Delaware+County%2C+Oklahoma (Attempt 1/3)
+2025-04-03 14:04:14,796 - INFO - Scraping demographics for Delaware County, Oklahoma...
+2025-04-03 14:04:31,456 - INFO - Population: Total Population:40,397
+2025-04-03 14:04:31,469 - INFO - Income: Median Household Income:$55,114
+2025-04-03 14:04:31,487 - INFO - Employment Rate: Employment Rate:48.7%
+2025-04-03 14:04:36,186 - INFO - Navigating to: https://www.bing.com/search?q=Delaware+County%2C+Oklahoma+population+growth+rate (Attempt 1/3)
+2025-04-03 14:04:37,498 - INFO - Searching Bing for population growth rate: Delaware County, Oklahoma population growth rate
+2025-04-03 14:04:37,665 - INFO - Page content loaded for Delaware County, Oklahoma
+2025-04-03 14:04:37,666 - INFO - Population growth rate result: 0.53%
+2025-04-03 14:04:37,668 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:04:37,669 - INFO - Processing county: Delaware County, state: Pennsylvania
+2025-04-03 14:04:40,775 - INFO - Navigating to: https://data.census.gov/all?q=Delaware+County%2C+Pennsylvania (Attempt 1/3)
+2025-04-03 14:04:42,656 - INFO - Scraping demographics for Delaware County, Pennsylvania...
+2025-04-03 14:05:32,931 - INFO - Population: Total Population:576,830
+2025-04-03 14:05:32,948 - INFO - Income: Median Household Income:$84,085
+2025-04-03 14:05:32,967 - INFO - Employment Rate: Employment Rate:60.6%
+2025-04-03 14:05:37,899 - INFO - Navigating to: https://www.bing.com/search?q=Delaware+County%2C+Pennsylvania+population+growth+rate (Attempt 1/3)
+2025-04-03 14:05:39,506 - INFO - Searching Bing for population growth rate: Delaware County, Pennsylvania population growth rate
+2025-04-03 14:05:39,727 - INFO - Page content loaded for Delaware County, Pennsylvania
+2025-04-03 14:05:39,728 - INFO - Population growth rate result: 0.15%
+2025-04-03 14:05:39,731 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:05:39,732 - INFO - Processing county: Delta County, state: Michigan
+2025-04-03 14:05:43,019 - INFO - Navigating to: https://data.census.gov/all?q=Delta+County%2C+Michigan (Attempt 1/3)
+2025-04-03 14:05:55,889 - INFO - Scraping demographics for Delta County, Michigan...
+2025-04-03 14:05:57,020 - INFO - Population: Total Population:36,903
+2025-04-03 14:05:57,033 - INFO - Income: Median Household Income:$54,829
+2025-04-03 14:05:57,051 - INFO - Employment Rate: Employment Rate:48.6%
+2025-04-03 14:06:03,016 - INFO - Navigating to: https://www.bing.com/search?q=Delta+County%2C+Michigan+population+growth+rate (Attempt 1/3)
+2025-04-03 14:06:04,324 - INFO - Searching Bing for population growth rate: Delta County, Michigan population growth rate
+2025-04-03 14:06:04,490 - INFO - Page content loaded for Delta County, Michigan
+2025-04-03 14:06:04,491 - INFO - Population growth rate result: 0.02%
+2025-04-03 14:06:04,493 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:06:04,494 - INFO - Processing county: Delta County, state: Texas
+2025-04-03 14:06:08,510 - INFO - Navigating to: https://data.census.gov/all?q=Delta+County%2C+Texas (Attempt 1/3)
+2025-04-03 14:06:10,547 - INFO - Scraping demographics for Delta County, Texas...
+2025-04-03 14:06:21,680 - INFO - Population: Total Population:5,230
+2025-04-03 14:06:21,693 - INFO - Income: Median Household Income:$62,855
+2025-04-03 14:06:21,709 - INFO - Employment Rate: Employment Rate:56.3%
+2025-04-03 14:06:27,189 - INFO - Navigating to: https://www.bing.com/search?q=Delta+County%2C+Texas+population+growth+rate (Attempt 1/3)
+2025-04-03 14:06:28,480 - INFO - Searching Bing for population growth rate: Delta County, Texas population growth rate
+2025-04-03 14:06:28,684 - INFO - Page content loaded for Delta County, Texas
+2025-04-03 14:06:28,684 - INFO - Population growth rate result: 1.9%
+2025-04-03 14:06:28,686 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:06:28,687 - INFO - Processing county: Denali Borough, state: Alaska
+2025-04-03 14:06:32,960 - INFO - Navigating to: https://data.census.gov/all?q=Denali+Borough%2C+Alaska (Attempt 1/3)
+2025-04-03 14:06:35,107 - INFO - Scraping demographics for Denali Borough, Alaska...
+2025-04-03 14:06:45,441 - INFO - Population: Total Population:1,619
+2025-04-03 14:06:45,457 - INFO - Income: Median Household Income:$88,935
+2025-04-03 14:06:45,472 - INFO - Employment Rate: Employment Rate:75.0%
+2025-04-03 14:06:51,039 - INFO - Navigating to: https://www.bing.com/search?q=Denali+Borough%2C+Alaska+population+growth+rate (Attempt 1/3)
+2025-04-03 14:06:52,068 - INFO - Searching Bing for population growth rate: Denali Borough, Alaska population growth rate
+2025-04-03 14:06:52,289 - INFO - Page content loaded for Denali Borough, Alaska
+2025-04-03 14:06:52,290 - INFO - Population growth rate result: 6.6%
+2025-04-03 14:06:52,292 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:06:52,292 - INFO - Processing county: Denton County, state: Texas
+2025-04-03 14:06:58,510 - INFO - Navigating to: https://data.census.gov/all?q=Denton+County%2C+Texas (Attempt 1/3)
+2025-04-03 14:07:00,359 - INFO - Scraping demographics for Denton County, Texas...
+2025-04-03 14:07:11,854 - INFO - Population: Total Population:906,422
+2025-04-03 14:07:11,867 - INFO - Income: Median Household Income:$106,695
+2025-04-03 14:07:11,886 - INFO - Employment Rate: Employment Rate:69.0%
+2025-04-03 14:07:17,658 - INFO - Navigating to: https://www.bing.com/search?q=Denton+County%2C+Texas+population+growth+rate (Attempt 1/3)
+2025-04-03 14:07:18,892 - INFO - Searching Bing for population growth rate: Denton County, Texas population growth rate
+2025-04-03 14:07:19,130 - INFO - Page content loaded for Denton County, Texas
+2025-04-03 14:07:19,130 - INFO - Population growth rate result: 2.89%
+2025-04-03 14:07:19,132 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:07:19,133 - INFO - Processing county: Deschutes County, state: Oregon
+2025-04-03 14:07:25,913 - INFO - Navigating to: https://data.census.gov/all?q=Deschutes+County%2C+Oregon (Attempt 1/3)
+2025-04-03 14:07:27,670 - INFO - Scraping demographics for Deschutes County, Oregon...
+2025-04-03 14:08:00,806 - INFO - Population: Total Population:198,253
+2025-04-03 14:08:00,819 - INFO - Income: Median Household Income:$97,163
+2025-04-03 14:08:00,832 - INFO - Employment Rate: Employment Rate:61.9%
+2025-04-03 14:08:05,843 - INFO - Navigating to: https://www.bing.com/search?q=Deschutes+County%2C+Oregon+population+growth+rate (Attempt 1/3)
+2025-04-03 14:08:07,195 - INFO - Searching Bing for population growth rate: Deschutes County, Oregon population growth rate
+2025-04-03 14:08:07,426 - INFO - Page content loaded for Deschutes County, Oregon
+2025-04-03 14:08:07,426 - INFO - Population growth rate result: 0.96%
+2025-04-03 14:08:07,428 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:08:07,428 - INFO - Processing county: Desha County, state: Arkansas
+2025-04-03 14:08:13,795 - INFO - Navigating to: https://data.census.gov/all?q=Desha+County%2C+Arkansas (Attempt 1/3)
+2025-04-03 14:08:15,574 - INFO - Scraping demographics for Desha County, Arkansas...
+2025-04-03 14:08:26,651 - INFO - Population: Total Population:11,395
+2025-04-03 14:08:26,667 - INFO - Income: Median Household Income:$36,064
+2025-04-03 14:08:26,685 - INFO - Employment Rate: Employment Rate:46.3%
+2025-04-03 14:08:33,499 - INFO - Navigating to: https://www.bing.com/search?q=Desha+County%2C+Arkansas+population+growth+rate (Attempt 1/3)
+2025-04-03 14:08:35,010 - INFO - Searching Bing for population growth rate: Desha County, Arkansas population growth rate
+2025-04-03 14:08:35,229 - INFO - Page content loaded for Desha County, Arkansas
+2025-04-03 14:08:35,229 - INFO - Population growth rate result: -2.74%
+2025-04-03 14:08:35,232 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:08:35,232 - INFO - Processing county: Dickens County, state: Texas
+2025-04-03 14:08:40,020 - INFO - Navigating to: https://data.census.gov/all?q=Dickens+County%2C+Texas (Attempt 1/3)
+2025-04-03 14:08:41,786 - INFO - Scraping demographics for Dickens County, Texas...
+2025-04-03 14:08:52,241 - INFO - Population: Total Population:1,770
+2025-04-03 14:08:52,261 - INFO - Income: Median Household Income:$50,417
+2025-04-03 14:08:52,286 - INFO - Employment Rate: Employment Rate:50.6%
+2025-04-03 14:08:55,721 - INFO - Navigating to: https://www.bing.com/search?q=Dickens+County%2C+Texas+population+growth+rate (Attempt 1/3)
+2025-04-03 14:08:57,037 - INFO - Searching Bing for population growth rate: Dickens County, Texas population growth rate
+2025-04-03 14:08:57,240 - INFO - Page content loaded for Dickens County, Texas
+2025-04-03 14:08:57,241 - INFO - Population growth rate result: -1.46%
+2025-04-03 14:08:57,243 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:08:57,244 - INFO - Processing county: Dickenson County, state: Virginia
+2025-04-03 14:09:00,780 - INFO - Navigating to: https://data.census.gov/all?q=Dickenson+County%2C+Virginia (Attempt 1/3)
+2025-04-03 14:09:02,954 - INFO - Scraping demographics for Dickenson County, Virginia...
+2025-04-03 14:09:13,850 - INFO - Population: Total Population:14,124
+2025-04-03 14:09:13,863 - INFO - Income: Median Household Income:$43,831
+2025-04-03 14:09:13,882 - INFO - Employment Rate: Employment Rate:40.0%
+2025-04-03 14:09:20,387 - INFO - Navigating to: https://www.bing.com/search?q=Dickenson+County%2C+Virginia+population+growth+rate (Attempt 1/3)
+2025-04-03 14:09:21,846 - INFO - Searching Bing for population growth rate: Dickenson County, Virginia population growth rate
+2025-04-03 14:09:21,989 - INFO - Page content loaded for Dickenson County, Virginia
+2025-04-03 14:09:21,989 - INFO - Population growth rate result: -0.69%
+2025-04-03 14:09:21,991 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:09:21,991 - INFO - Processing county: Dickey County, state: North Dakota
+2025-04-03 14:09:27,677 - INFO - Navigating to: https://data.census.gov/all?q=Dickey+County%2C+North+Dakota (Attempt 1/3)
+2025-04-03 14:09:29,084 - INFO - Scraping demographics for Dickey County, North Dakota...
+2025-04-03 14:09:41,750 - INFO - Population: Total Population:4,999
+2025-04-03 14:09:41,763 - INFO - Income: Median Household Income:$63,125
+2025-04-03 14:09:41,785 - INFO - Employment Rate: Employment Rate:64.2%
+2025-04-03 14:09:46,907 - INFO - Navigating to: https://www.bing.com/search?q=Dickey+County%2C+North+Dakota+population+growth+rate (Attempt 1/3)
+2025-04-03 14:09:48,251 - INFO - Searching Bing for population growth rate: Dickey County, North Dakota population growth rate
+2025-04-03 14:09:48,449 - INFO - Page content loaded for Dickey County, North Dakota
+2025-04-03 14:09:48,450 - INFO - Population growth rate result: -0.57%
+2025-04-03 14:09:48,452 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:09:48,452 - INFO - Processing county: Dickinson County, state: Kansas
+2025-04-03 14:09:53,378 - INFO - Navigating to: https://data.census.gov/all?q=Dickinson+County%2C+Kansas (Attempt 1/3)
+2025-04-03 14:09:55,500 - INFO - Scraping demographics for Dickinson County, Kansas...
+2025-04-03 14:10:06,299 - INFO - Population: Total Population:18,402
+2025-04-03 14:10:06,312 - INFO - Income: Median Household Income:$67,982
+2025-04-03 14:10:06,324 - INFO - Employment Rate: Employment Rate:61.2%
+2025-04-03 14:10:12,534 - INFO - Navigating to: https://www.bing.com/search?q=Dickinson+County%2C+Kansas+population+growth+rate (Attempt 1/3)
+2025-04-03 14:10:13,980 - INFO - Searching Bing for population growth rate: Dickinson County, Kansas population growth rate
+2025-04-03 14:10:14,187 - INFO - Page content loaded for Dickinson County, Kansas
+2025-04-03 14:10:14,188 - INFO - Population growth rate result: 0.6%
+2025-04-03 14:10:14,191 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:10:14,192 - INFO - Processing county: Dickinson County, state: Michigan
+2025-04-03 14:10:19,238 - INFO - Navigating to: https://data.census.gov/all?q=Dickinson+County%2C+Michigan (Attempt 1/3)
+2025-04-03 14:10:21,020 - INFO - Scraping demographics for Dickinson County, Michigan...
+2025-04-03 14:10:33,137 - INFO - Population: Total Population:25,947
+2025-04-03 14:10:33,150 - INFO - Income: Median Household Income:$61,882
+2025-04-03 14:10:33,162 - INFO - Employment Rate: Employment Rate:55.2%
+2025-04-03 14:10:38,691 - INFO - Navigating to: https://www.bing.com/search?q=Dickinson+County%2C+Michigan+population+growth+rate (Attempt 1/3)
+2025-04-03 14:10:40,390 - INFO - Searching Bing for population growth rate: Dickinson County, Michigan population growth rate
+2025-04-03 14:10:40,591 - INFO - Page content loaded for Dickinson County, Michigan
+2025-04-03 14:10:40,592 - INFO - Population growth rate result: 0.15%
+2025-04-03 14:10:40,594 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:10:40,595 - INFO - Processing county: Dickson County, state: Tennessee
+2025-04-03 14:10:44,124 - INFO - Navigating to: https://data.census.gov/all?q=Dickson+County%2C+Tennessee (Attempt 1/3)
+2025-04-03 14:10:45,908 - INFO - Scraping demographics for Dickson County, Tennessee...
+2025-04-03 14:10:58,529 - INFO - Population: Total Population:54,315
+2025-04-03 14:10:58,545 - INFO - Income: Median Household Income:$73,223
+2025-04-03 14:10:58,560 - INFO - Employment Rate: Employment Rate:60.8%
+2025-04-03 14:11:03,185 - INFO - Navigating to: https://www.bing.com/search?q=Dickson+County%2C+Tennessee+population+growth+rate (Attempt 1/3)
+2025-04-03 14:11:04,641 - INFO - Searching Bing for population growth rate: Dickson County, Tennessee population growth rate
+2025-04-03 14:11:04,853 - INFO - Page content loaded for Dickson County, Tennessee
+2025-04-03 14:11:04,853 - INFO - Population growth rate result: 1.74%
+2025-04-03 14:11:04,856 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:11:04,856 - INFO - Processing county: Dillingham Census Area, state: Alaska
+2025-04-03 14:11:09,025 - INFO - Navigating to: https://data.census.gov/all?q=Dillingham+Census+Area%2C+Alaska (Attempt 1/3)
+2025-04-03 14:11:10,830 - INFO - Scraping demographics for Dillingham Census Area, Alaska...
+2025-04-03 14:11:21,827 - INFO - Population: Total Population:4,857
+2025-04-03 14:11:21,840 - INFO - Income: Median Household Income:$74,250
+2025-04-03 14:11:21,857 - INFO - Employment Rate: Employment Rate:54.5%
+2025-04-03 14:11:27,335 - INFO - Navigating to: https://www.bing.com/search?q=Dillingham+Census+Area%2C+Alaska+population+growth+rate (Attempt 1/3)
+2025-04-03 14:11:28,616 - INFO - Searching Bing for population growth rate: Dillingham Census Area, Alaska population growth rate
+2025-04-03 14:11:28,789 - INFO - Page content loaded for Dillingham Census Area, Alaska
+2025-04-03 14:11:28,790 - INFO - Population growth rate result: -2.54%
+2025-04-03 14:11:28,792 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:11:28,792 - INFO - Processing county: Dimmit County, state: Texas
+2025-04-03 14:11:35,081 - INFO - Navigating to: https://data.census.gov/all?q=Dimmit+County%2C+Texas (Attempt 1/3)
+2025-04-03 14:11:37,006 - INFO - Scraping demographics for Dimmit County, Texas...
+2025-04-03 14:11:47,517 - INFO - Population: Total Population:8,615
+2025-04-03 14:11:47,536 - INFO - Income: Median Household Income:$33,409
+2025-04-03 14:11:47,553 - INFO - Employment Rate: Employment Rate:39.0%
+2025-04-03 14:11:51,172 - INFO - Navigating to: https://www.bing.com/search?q=Dimmit+County%2C+Texas+population+growth+rate (Attempt 1/3)
+2025-04-03 14:11:52,456 - INFO - Searching Bing for population growth rate: Dimmit County, Texas population growth rate
+2025-04-03 14:11:52,625 - INFO - Page content loaded for Dimmit County, Texas
+2025-04-03 14:11:52,625 - INFO - Population growth rate result: -1.26%
+2025-04-03 14:11:52,628 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:11:52,628 - INFO - Processing county: Dinwiddie County, state: Virginia
+2025-04-03 14:11:56,463 - INFO - Navigating to: https://data.census.gov/all?q=Dinwiddie+County%2C+Virginia (Attempt 1/3)
+2025-04-03 14:11:58,296 - INFO - Scraping demographics for Dinwiddie County, Virginia...
+2025-04-03 14:12:10,362 - INFO - Population: Total Population:27,947
+2025-04-03 14:12:10,374 - INFO - Income: Median Household Income:$83,898
+2025-04-03 14:12:10,391 - INFO - Employment Rate: Employment Rate:58.2%
+2025-04-03 14:12:15,082 - INFO - Navigating to: https://www.bing.com/search?q=Dinwiddie+County%2C+Virginia+population+growth+rate (Attempt 1/3)
+2025-04-03 14:12:16,642 - INFO - Searching Bing for population growth rate: Dinwiddie County, Virginia population growth rate
+2025-04-03 14:12:16,804 - INFO - Page content loaded for Dinwiddie County, Virginia
+2025-04-03 14:12:16,805 - INFO - Population growth rate result: 0.85%
+2025-04-03 14:12:16,809 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:12:16,809 - INFO - Processing county: Divide County, state: North Dakota
+2025-04-03 14:12:22,064 - INFO - Navigating to: https://data.census.gov/all?q=Divide+County%2C+North+Dakota (Attempt 1/3)
+2025-04-03 14:12:24,516 - INFO - Scraping demographics for Divide County, North Dakota...
+2025-04-03 14:12:35,874 - INFO - Population: Total Population:2,195
+2025-04-03 14:12:35,888 - INFO - Income: Median Household Income:$89,297
+2025-04-03 14:12:35,908 - INFO - Employment Rate: Employment Rate:57.4%
+2025-04-03 14:12:41,696 - INFO - Navigating to: https://www.bing.com/search?q=Divide+County%2C+North+Dakota+population+growth+rate (Attempt 1/3)
+2025-04-03 14:12:43,234 - INFO - Searching Bing for population growth rate: Divide County, North Dakota population growth rate
+2025-04-03 14:12:43,394 - INFO - Page content loaded for Divide County, North Dakota
+2025-04-03 14:12:43,395 - INFO - Population growth rate result: -1.62%
+2025-04-03 14:12:43,398 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:12:43,398 - INFO - Processing county: Doddridge County, state: West Virginia
+2025-04-03 14:12:49,623 - INFO - Navigating to: https://data.census.gov/all?q=Doddridge+County%2C+West+Virginia (Attempt 1/3)
+2025-04-03 14:12:51,388 - INFO - Scraping demographics for Doddridge County, West Virginia...
+2025-04-03 14:13:02,424 - INFO - Population: Total Population:7,808
+2025-04-03 14:13:02,460 - INFO - Income: Median Household Income:$61,164
+2025-04-03 14:13:02,486 - INFO - Employment Rate: Employment Rate:42.2%
+2025-04-03 14:13:08,071 - INFO - Navigating to: https://www.bing.com/search?q=Doddridge+County%2C+West+Virginia+population+growth+rate (Attempt 1/3)
+2025-04-03 14:13:09,595 - INFO - Searching Bing for population growth rate: Doddridge County, West Virginia population growth rate
+2025-04-03 14:13:09,880 - INFO - Page content loaded for Doddridge County, West Virginia
+2025-04-03 14:13:09,881 - INFO - Population growth rate result: -0.42%
+2025-04-03 14:13:09,884 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:13:09,885 - INFO - Processing county: Dodge County, state: Georgia
+2025-04-03 14:13:13,268 - INFO - Navigating to: https://data.census.gov/all?q=Dodge+County%2C+Georgia (Attempt 1/3)
+2025-04-03 14:13:15,963 - INFO - Scraping demographics for Dodge County, Georgia...
+2025-04-03 14:13:27,750 - INFO - Population: Total Population:19,925
+2025-04-03 14:13:27,763 - INFO - Income: Median Household Income:$50,152
+2025-04-03 14:13:27,785 - INFO - Employment Rate: Employment Rate:44.6%
+2025-04-03 14:13:32,132 - INFO - Navigating to: https://www.bing.com/search?q=Dodge+County%2C+Georgia+population+growth+rate (Attempt 1/3)
+2025-04-03 14:13:33,377 - INFO - Searching Bing for population growth rate: Dodge County, Georgia population growth rate
+2025-04-03 14:13:33,586 - INFO - Page content loaded for Dodge County, Georgia
+2025-04-03 14:13:33,586 - INFO - Population growth rate result: -0.49%
+2025-04-03 14:13:33,589 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:13:33,590 - INFO - Processing county: Dodge County, state: Minnesota
+2025-04-03 14:13:38,404 - INFO - Navigating to: https://data.census.gov/all?q=Dodge+County%2C+Minnesota (Attempt 1/3)
+2025-04-03 14:13:40,893 - INFO - Scraping demographics for Dodge County, Minnesota...
+2025-04-03 14:13:53,063 - INFO - Population: Total Population:20,867
+2025-04-03 14:13:53,092 - INFO - Income: Median Household Income:$92,943
+2025-04-03 14:13:53,114 - INFO - Employment Rate: Employment Rate:68.8%
+2025-04-03 14:13:56,768 - INFO - Navigating to: https://www.bing.com/search?q=Dodge+County%2C+Minnesota+population+growth+rate (Attempt 1/3)
+2025-04-03 14:13:58,505 - INFO - Searching Bing for population growth rate: Dodge County, Minnesota population growth rate
+2025-04-03 14:13:58,699 - INFO - Page content loaded for Dodge County, Minnesota
+2025-04-03 14:13:58,700 - INFO - Population growth rate result: 0.46%
+2025-04-03 14:13:58,702 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:13:58,703 - INFO - Processing county: Dodge County, state: Wisconsin
+2025-04-03 14:14:03,852 - INFO - Navigating to: https://data.census.gov/all?q=Dodge+County%2C+Wisconsin (Attempt 1/3)
+2025-04-03 14:14:06,095 - INFO - Scraping demographics for Dodge County, Wisconsin...
+2025-04-03 14:14:14,381 - INFO - Population: Total Population:89,396
+2025-04-03 14:14:14,421 - INFO - Income: Median Household Income:$72,736
+2025-04-03 14:14:14,451 - INFO - Employment Rate: Employment Rate:61.4%
+2025-04-03 14:14:19,267 - INFO - Navigating to: https://www.bing.com/search?q=Dodge+County%2C+Wisconsin+population+growth+rate (Attempt 1/3)
+2025-04-03 14:14:20,990 - INFO - Searching Bing for population growth rate: Dodge County, Wisconsin population growth rate
+2025-04-03 14:14:21,357 - INFO - Page content loaded for Dodge County, Wisconsin
+2025-04-03 14:14:21,359 - INFO - Population growth rate result: -0.16%
+2025-04-03 14:14:21,361 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:14:21,362 - INFO - Processing county: Doña Ana County, state: New Mexico
+2025-04-03 14:14:26,810 - INFO - Navigating to: https://data.census.gov/all?q=Do%C3%B1a+Ana+County%2C+New+Mexico (Attempt 1/3)
+2025-04-03 14:14:28,713 - INFO - Scraping demographics for Doña Ana County, New Mexico...
+2025-04-03 14:15:10,766 - INFO - Population: Total Population:219,561
+2025-04-03 14:15:10,787 - INFO - Income: Median Household Income:$56,451
+2025-04-03 14:15:10,803 - INFO - Employment Rate: Employment Rate:54.7%
+2025-04-03 14:15:16,043 - INFO - Navigating to: https://www.bing.com/search?q=Do%C3%B1a+Ana+County%2C+New+Mexico+population+growth+rate (Attempt 1/3)
+2025-04-03 14:15:17,812 - INFO - Searching Bing for population growth rate: Doña Ana County, New Mexico population growth rate
+2025-04-03 14:15:18,037 - INFO - Page content loaded for Doña Ana County, New Mexico
+2025-04-03 14:15:18,038 - INFO - Population growth rate result: 0.74%
+2025-04-03 14:15:18,041 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:15:18,042 - INFO - Processing county: Doniphan County, state: Kansas
+2025-04-03 14:15:24,169 - INFO - Navigating to: https://data.census.gov/all?q=Doniphan+County%2C+Kansas (Attempt 1/3)
+2025-04-03 14:15:26,014 - INFO - Scraping demographics for Doniphan County, Kansas...
+2025-04-03 14:15:35,105 - ERROR - Error scraping demographics for Doniphan County, Kansas: Page.wait_for_selector: Target page, context or browser has been closed
+Call log:
+  - waiting for locator(".highlight-description") to be visible
+
+2025-04-03 14:15:35,110 - INFO - --------------------------------------------------------------------------------
+2025-04-03 14:15:35,111 - INFO - Processing county: Donley County, state: Texas

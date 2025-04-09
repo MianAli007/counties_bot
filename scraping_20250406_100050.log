@@ -1,0 +1,799 @@
+2025-04-06 10:00:50,776 - INFO - Script started
+2025-04-06 10:00:50,778 - INFO - Starting the main function
+2025-04-06 10:00:58,708 - INFO - Launching the browser
+2025-04-06 10:01:00,052 - INFO - Browser launched and new page created
+2025-04-06 10:01:00,104 - INFO - Output directory created at d:\code\cj_carter_all\demographics_data
+2025-04-06 10:01:00,112 - INFO - CSV file path set to d:\code\cj_carter_all\demographics_data\data.csv
+2025-04-06 10:01:00,215 - INFO - Loaded 1904 counties from file
+2025-04-06 10:01:00,254 - INFO - Loaded 783 already processed counties
+2025-04-06 10:01:00,260 - INFO - Skipping already processed county: Accomack County, Virginia
+2025-04-06 10:01:00,261 - INFO - Skipping already processed county: Ada County, Idaho
+2025-04-06 10:01:00,264 - INFO - Skipping already processed county: Adams County, Idaho
+2025-04-06 10:01:00,264 - INFO - Skipping already processed county: Adams County, Indiana
+2025-04-06 10:01:00,265 - INFO - Skipping already processed county: Adams County, North Dakota
+2025-04-06 10:01:00,266 - INFO - Skipping already processed county: Adams County, Ohio
+2025-04-06 10:01:00,267 - INFO - Skipping already processed county: Adams County, Pennsylvania
+2025-04-06 10:01:00,269 - INFO - Skipping already processed county: Adams County, Washington
+2025-04-06 10:01:00,273 - INFO - Skipping already processed county: Adams County, Wisconsin
+2025-04-06 10:01:00,275 - INFO - Skipping already processed county: Aitkin County, Minnesota
+2025-04-06 10:01:00,278 - INFO - Skipping already processed county: Alamance County, North Carolina
+2025-04-06 10:01:00,280 - INFO - Skipping already processed county: Alameda County, California
+2025-04-06 10:01:00,282 - INFO - Skipping already processed county: Albany County, New York
+2025-04-06 10:01:00,285 - INFO - Skipping already processed county: Albemarle County, Virginia
+2025-04-06 10:01:00,286 - INFO - Skipping already processed county: Alcona County, Michigan
+2025-04-06 10:01:00,289 - INFO - Skipping already processed county: Aleutians East Borough, Alaska
+2025-04-06 10:01:00,292 - INFO - Skipping already processed county: Aleutians West Census Area, Alaska
+2025-04-06 10:01:00,294 - INFO - Skipping already processed county: Alexander County, North Carolina
+2025-04-06 10:01:00,295 - INFO - Skipping already processed county: Alger County, Michigan
+2025-04-06 10:01:00,297 - INFO - Skipping already processed county: Allegan County, Michigan
+2025-04-06 10:01:00,298 - INFO - Skipping already processed county: Allegany County, New York
+2025-04-06 10:01:00,300 - INFO - Skipping already processed county: Alleghany County, North Carolina
+2025-04-06 10:01:00,301 - INFO - Skipping already processed county: Alleghany County, Virginia
+2025-04-06 10:01:00,303 - INFO - Skipping already processed county: Allegheny County, Pennsylvania
+2025-04-06 10:01:00,304 - INFO - Skipping already processed county: Allen County, Indiana
+2025-04-06 10:01:00,306 - INFO - Skipping already processed county: Allen County, Kansas
+2025-04-06 10:01:00,309 - INFO - Skipping already processed county: Allen County, Ohio
+2025-04-06 10:01:00,312 - INFO - Skipping already processed county: Alpena County, Michigan
+2025-04-06 10:01:00,313 - INFO - Skipping already processed county: Alpine County, California
+2025-04-06 10:01:00,317 - INFO - Skipping already processed county: Amador County, California
+2025-04-06 10:01:00,318 - INFO - Skipping already processed county: Amelia County, Virginia
+2025-04-06 10:01:00,319 - INFO - Skipping already processed county: Amherst County, Virginia
+2025-04-06 10:01:00,320 - INFO - Skipping already processed county: Municipality of Anchorage, Alaska (a consolidated city-borough under Alaska law)
+2025-04-06 10:01:00,326 - INFO - Skipping already processed county: Anderson County, Kansas
+2025-04-06 10:01:00,328 - INFO - Skipping already processed county: Anderson County, Tennessee
+2025-04-06 10:01:00,337 - INFO - Skipping already processed county: Anderson County, Texas
+2025-04-06 10:01:00,340 - INFO - Skipping already processed county: Andrews County, Texas
+2025-04-06 10:01:00,343 - INFO - Skipping already processed county: Androscoggin County, Maine
+2025-04-06 10:01:00,343 - INFO - Skipping already processed county: Angelina County, Texas
+2025-04-06 10:01:00,345 - INFO - Skipping already processed county: Anoka County, Minnesota
+2025-04-06 10:01:00,345 - INFO - Skipping already processed county: Anson County, North Carolina
+2025-04-06 10:01:00,349 - INFO - Skipping already processed county: Antrim County, Michigan
+2025-04-06 10:01:00,353 - INFO - Skipping already processed county: Appling County, Georgia
+2025-04-06 10:01:00,357 - INFO - Skipping already processed county: Appomattox County, Virginia
+2025-04-06 10:01:00,376 - INFO - Skipping already processed county: Aransas County, Texas
+2025-04-06 10:01:00,378 - INFO - Skipping already processed county: Archer County, Texas
+2025-04-06 10:01:00,381 - INFO - Skipping already processed county: Arenac County, Michigan
+2025-04-06 10:01:00,385 - INFO - Skipping already processed county: Arkansas County, Arkansas
+2025-04-06 10:01:00,387 - INFO - Skipping already processed county: Arlington County, Virginia
+2025-04-06 10:01:00,391 - INFO - Skipping already processed county: Armstrong County, Pennsylvania
+2025-04-06 10:01:00,394 - INFO - Skipping already processed county: Armstrong County, Texas
+2025-04-06 10:01:00,396 - INFO - Skipping already processed county: Aroostook County, Maine
+2025-04-06 10:01:00,398 - INFO - Skipping already processed county: Ashe County, North Carolina
+2025-04-06 10:01:00,419 - INFO - Skipping already processed county: Ashland County, Ohio
+2025-04-06 10:01:00,435 - INFO - Skipping already processed county: Ashland County, Wisconsin
+2025-04-06 10:01:00,450 - INFO - Skipping already processed county: Ashley County, Arkansas
+2025-04-06 10:01:00,451 - INFO - Skipping already processed county: Ashtabula County, Ohio
+2025-04-06 10:01:00,453 - INFO - Skipping already processed county: Asotin County, Washington
+2025-04-06 10:01:00,454 - INFO - Skipping already processed county: Atascosa County, Texas
+2025-04-06 10:01:00,461 - INFO - Skipping already processed county: Atchison County, Kansas
+2025-04-06 10:01:00,462 - INFO - Skipping already processed county: Athens County, Ohio
+2025-04-06 10:01:00,464 - INFO - Skipping already processed county: Atkinson County, Georgia
+2025-04-06 10:01:00,471 - INFO - Skipping already processed county: Auglaize County, Ohio
+2025-04-06 10:01:00,476 - INFO - Skipping already processed county: Augusta County, Virginia
+2025-04-06 10:01:00,478 - INFO - Skipping already processed county: Austin County, Texas
+2025-04-06 10:01:00,480 - INFO - Skipping already processed county: Avery County, North Carolina
+2025-04-06 10:01:00,483 - INFO - Skipping already processed county: Bacon County, Georgia
+2025-04-06 10:01:00,485 - INFO - Skipping already processed county: Bailey County, Texas
+2025-04-06 10:01:00,503 - INFO - Skipping already processed county: Baker County, Georgia
+2025-04-06 10:01:00,507 - INFO - Skipping already processed county: Baker County, Oregon
+2025-04-06 10:01:00,511 - INFO - Skipping already processed county: Baldwin County, Georgia
+2025-04-06 10:01:00,512 - INFO - Skipping already processed county: Bandera County, Texas
+2025-04-06 10:01:00,512 - INFO - Skipping already processed county: Banks County, Georgia
+2025-04-06 10:01:00,513 - INFO - Skipping already processed county: Bannock County, Idaho
+2025-04-06 10:01:00,514 - INFO - Skipping already processed county: Baraga County, Michigan
+2025-04-06 10:01:00,516 - INFO - Skipping already processed county: Barber County, Kansas
+2025-04-06 10:01:00,520 - INFO - Skipping already processed county: Barbour County, West Virginia
+2025-04-06 10:01:00,532 - INFO - Skipping already processed county: Barnes County, North Dakota
+2025-04-06 10:01:00,536 - INFO - Skipping already processed county: Barnstable County, Massachusetts
+2025-04-06 10:01:00,553 - INFO - Skipping already processed county: Barron County, Wisconsin
+2025-04-06 10:01:00,565 - INFO - Skipping already processed county: Barrow County, Georgia
+2025-04-06 10:01:00,581 - INFO - Skipping already processed county: Barry County, Michigan
+2025-04-06 10:01:00,583 - INFO - Skipping already processed county: Bartholomew County, Indiana
+2025-04-06 10:01:00,584 - INFO - Skipping already processed county: Barton County, Kansas
+2025-04-06 10:01:00,585 - INFO - Skipping already processed county: Bartow County, Georgia
+2025-04-06 10:01:00,598 - INFO - Skipping already processed county: Bastrop County, Texas
+2025-04-06 10:01:00,599 - INFO - Skipping already processed county: Bath County, Virginia
+2025-04-06 10:01:00,599 - INFO - Skipping already processed county: Baxter County, Arkansas
+2025-04-06 10:01:00,600 - INFO - Skipping already processed county: Bay County, Michigan
+2025-04-06 10:01:00,601 - INFO - Skipping already processed county: Bayfield County, Wisconsin
+2025-04-06 10:01:00,602 - INFO - Skipping already processed county: Baylor County, Texas
+2025-04-06 10:01:00,603 - INFO - Skipping already processed county: Bear Lake County, Idaho
+2025-04-06 10:01:00,610 - INFO - Skipping already processed county: Beaufort County, North Carolina
+2025-04-06 10:01:00,612 - INFO - Skipping already processed county: Beaver County, Pennsylvania
+2025-04-06 10:01:00,613 - INFO - Skipping already processed county: Beaver County, Utah
+2025-04-06 10:01:00,614 - INFO - Skipping already processed county: Becker County, Minnesota
+2025-04-06 10:01:00,615 - INFO - Skipping already processed county: Bedford County, Pennsylvania
+2025-04-06 10:01:00,616 - INFO - Skipping already processed county: Bedford County, Tennessee
+2025-04-06 10:01:00,617 - INFO - Skipping already processed county: Bedford County, Virginia
+2025-04-06 10:01:00,619 - INFO - Skipping already processed county: Bee County, Texas
+2025-04-06 10:01:00,621 - INFO - Skipping already processed county: Belknap County, New Hampshire
+2025-04-06 10:01:00,629 - INFO - Skipping already processed county: Bell County, Texas
+2025-04-06 10:01:00,632 - INFO - Skipping already processed county: Belmont County, Ohio
+2025-04-06 10:01:00,633 - INFO - Skipping already processed county: Beltrami County, Minnesota
+2025-04-06 10:01:00,634 - INFO - Skipping already processed county: Ben Hill County, Georgia
+2025-04-06 10:01:00,635 - INFO - Skipping already processed county: Benewah County, Idaho
+2025-04-06 10:01:00,636 - INFO - Skipping already processed county: Benson County, North Dakota
+2025-04-06 10:01:00,637 - INFO - Skipping already processed county: Benton County, Arkansas
+2025-04-06 10:01:00,644 - INFO - Skipping already processed county: Benton County, Indiana
+2025-04-06 10:01:00,647 - INFO - Skipping already processed county: Benton County, Minnesota
+2025-04-06 10:01:00,648 - INFO - Skipping already processed county: Benton County, Oregon
+2025-04-06 10:01:00,650 - INFO - Skipping already processed county: Benton County, Tennessee
+2025-04-06 10:01:00,651 - INFO - Skipping already processed county: Benton County, Washington
+2025-04-06 10:01:00,653 - INFO - Skipping already processed county: Benzie County, Michigan
+2025-04-06 10:01:00,658 - INFO - Skipping already processed county: Berkeley County, West Virginia
+2025-04-06 10:01:00,659 - INFO - Skipping already processed county: Berks County, Pennsylvania
+2025-04-06 10:01:00,660 - INFO - Skipping already processed county: Berkshire County, Massachusetts
+2025-04-06 10:01:00,661 - INFO - Skipping already processed county: Bernalillo County, New Mexico
+2025-04-06 10:01:00,661 - INFO - Skipping already processed county: Berrien County, Georgia
+2025-04-06 10:01:00,662 - INFO - Skipping already processed county: Berrien County, Michigan
+2025-04-06 10:01:00,662 - INFO - Skipping already processed county: Bertie County, North Carolina
+2025-04-06 10:01:00,663 - INFO - Skipping already processed county: Bethel Census Area, Alaska
+2025-04-06 10:01:00,664 - INFO - Skipping already processed county: Bexar County, Texas
+2025-04-06 10:01:00,665 - INFO - Skipping already processed county: Bibb County, Georgia
+2025-04-06 10:01:00,665 - INFO - Skipping already processed county: Big Stone County, Minnesota
+2025-04-06 10:01:00,666 - INFO - Skipping already processed county: Billings County, North Dakota
+2025-04-06 10:01:00,667 - INFO - Skipping already processed county: Bingham County, Idaho
+2025-04-06 10:01:00,667 - INFO - Skipping already processed county: Blackford County, Indiana
+2025-04-06 10:01:00,668 - INFO - Skipping already processed county: Bladen County, North Carolina
+2025-04-06 10:01:00,668 - INFO - Skipping already processed county: Blaine County, Idaho
+2025-04-06 10:01:00,669 - INFO - Skipping already processed county: Blair County, Pennsylvania
+2025-04-06 10:01:00,669 - INFO - Skipping already processed county: Blanco County, Texas
+2025-04-06 10:01:00,670 - INFO - Skipping already processed county: Bland County, Virginia
+2025-04-06 10:01:00,670 - INFO - Skipping already processed county: Bleckley County, Georgia
+2025-04-06 10:01:00,672 - INFO - Skipping already processed county: Bledsoe County, Tennessee
+2025-04-06 10:01:00,676 - INFO - Skipping already processed county: Blount County, Tennessee
+2025-04-06 10:01:00,677 - INFO - Skipping already processed county: Blue Earth County, Minnesota
+2025-04-06 10:01:00,678 - INFO - Skipping already processed county: Boise County, Idaho
+2025-04-06 10:01:00,678 - INFO - Skipping already processed county: Bonner County, Idaho
+2025-04-06 10:01:00,679 - INFO - Skipping already processed county: Bonneville County, Idaho
+2025-04-06 10:01:00,681 - INFO - Skipping already processed county: Boone County, Arkansas
+2025-04-06 10:01:00,682 - INFO - Skipping already processed county: Boone County, Indiana
+2025-04-06 10:01:00,685 - INFO - Skipping already processed county: Boone County, West Virginia
+2025-04-06 10:01:00,686 - INFO - Skipping already processed county: Borden County, Texas
+2025-04-06 10:01:00,687 - INFO - Skipping already processed county: Bosque County, Texas
+2025-04-06 10:01:00,693 - INFO - Skipping already processed county: Botetourt County, Virginia
+2025-04-06 10:01:00,694 - INFO - Skipping already processed county: Bottineau County, North Dakota
+2025-04-06 10:01:00,694 - INFO - Skipping already processed county: Boundary County, Idaho
+2025-04-06 10:01:00,695 - INFO - Skipping already processed county: Bourbon County, Kansas
+2025-04-06 10:01:00,695 - INFO - Skipping already processed county: Bowie County, Texas
+2025-04-06 10:01:00,696 - INFO - Skipping already processed county: Bowman County, North Dakota
+2025-04-06 10:01:00,697 - INFO - Skipping already processed county: Box Elder County, Utah
+2025-04-06 10:01:00,698 - INFO - Skipping already processed county: Bradford County, Pennsylvania
+2025-04-06 10:01:00,699 - INFO - Skipping already processed county: Bradley County, Arkansas
+2025-04-06 10:01:00,700 - INFO - Skipping already processed county: Bradley County, Tennessee
+2025-04-06 10:01:00,701 - INFO - Skipping already processed county: Branch County, Michigan
+2025-04-06 10:01:00,701 - INFO - Skipping already processed county: Brantley County, Georgia
+2025-04-06 10:01:00,702 - INFO - Skipping already processed county: Braxton County, West Virginia
+2025-04-06 10:01:00,703 - INFO - Skipping already processed county: Brazoria County, Texas
+2025-04-06 10:01:00,703 - INFO - Skipping already processed county: Brazos County, Texas
+2025-04-06 10:01:00,708 - INFO - Skipping already processed county: Brewster County, Texas
+2025-04-06 10:01:00,709 - INFO - Skipping already processed county: Briscoe County, Texas
+2025-04-06 10:01:00,710 - INFO - Skipping already processed county: Bristol Bay Borough, Alaska
+2025-04-06 10:01:00,711 - INFO - Skipping already processed county: Bristol County, Massachusetts
+2025-04-06 10:01:00,711 - INFO - Skipping already processed county: Bristol County, Rhode Island
+2025-04-06 10:01:00,712 - INFO - Skipping already processed county: Bronx County, New York
+2025-04-06 10:01:00,712 - INFO - Skipping already processed county: Brooke County, West Virginia
+2025-04-06 10:01:00,713 - INFO - Skipping already processed county: Brooks County, Georgia
+2025-04-06 10:01:00,713 - INFO - Skipping already processed county: Brooks County, Texas
+2025-04-06 10:01:00,714 - INFO - Skipping already processed county: Broome County, New York
+2025-04-06 10:01:00,714 - INFO - Skipping already processed county: Brown County, Indiana
+2025-04-06 10:01:00,715 - INFO - Skipping already processed county: Brown County, Kansas
+2025-04-06 10:01:00,716 - INFO - Skipping already processed county: Brown County, Minnesota
+2025-04-06 10:01:00,716 - INFO - Skipping already processed county: Brown County, Ohio
+2025-04-06 10:01:00,717 - INFO - Skipping already processed county: Brown County, Texas
+2025-04-06 10:01:00,717 - INFO - Skipping already processed county: Brown County, Wisconsin
+2025-04-06 10:01:00,717 - INFO - Skipping already processed county: Brunswick County, North Carolina
+2025-04-06 10:01:00,718 - INFO - Skipping already processed county: Brunswick County, Virginia
+2025-04-06 10:01:00,719 - INFO - Skipping already processed county: Bryan County, Georgia
+2025-04-06 10:01:00,720 - INFO - Skipping already processed county: Buchanan County, Virginia
+2025-04-06 10:01:00,721 - INFO - Skipping already processed county: Buckingham County, Virginia
+2025-04-06 10:01:00,727 - INFO - Skipping already processed county: Bucks County, Pennsylvania
+2025-04-06 10:01:00,729 - INFO - Skipping already processed county: Buffalo County, Wisconsin
+2025-04-06 10:01:00,736 - INFO - Skipping already processed county: Bulloch County, Georgia
+2025-04-06 10:01:00,744 - INFO - Skipping already processed county: Buncombe County, North Carolina
+2025-04-06 10:01:00,747 - INFO - Skipping already processed county: Burke County, Georgia
+2025-04-06 10:01:00,751 - INFO - Skipping already processed county: Burke County, North Carolina
+2025-04-06 10:01:00,753 - INFO - Skipping already processed county: Burke County, North Dakota
+2025-04-06 10:01:00,762 - INFO - Skipping already processed county: Burleigh County, North Dakota
+2025-04-06 10:01:00,764 - INFO - Skipping already processed county: Burleson County, Texas
+2025-04-06 10:01:00,765 - INFO - Skipping already processed county: Burnet County, Texas
+2025-04-06 10:01:00,769 - INFO - Skipping already processed county: Burnett County, Wisconsin
+2025-04-06 10:01:00,777 - INFO - Skipping already processed county: Butler County, Kansas
+2025-04-06 10:01:00,778 - INFO - Skipping already processed county: Butler County, Ohio
+2025-04-06 10:01:00,779 - INFO - Skipping already processed county: Butler County, Pennsylvania
+2025-04-06 10:01:00,782 - INFO - Skipping already processed county: Butte County, California
+2025-04-06 10:01:00,783 - INFO - Skipping already processed county: Butte County, Idaho
+2025-04-06 10:01:00,784 - INFO - Skipping already processed county: Butts County, Georgia
+2025-04-06 10:01:00,786 - INFO - Skipping already processed county: Cabarrus County, North Carolina
+2025-04-06 10:01:00,787 - INFO - Skipping already processed county: Cabell County, West Virginia
+2025-04-06 10:01:00,792 - INFO - Skipping already processed county: Cache County, Utah
+2025-04-06 10:01:00,793 - INFO - Skipping already processed county: Calaveras County, California
+2025-04-06 10:01:00,794 - INFO - Skipping already processed county: Caldwell County, North Carolina
+2025-04-06 10:01:00,796 - INFO - Skipping already processed county: Caldwell County, Texas
+2025-04-06 10:01:00,797 - INFO - Skipping already processed county: Calhoun County, Arkansas
+2025-04-06 10:01:00,799 - INFO - Skipping already processed county: Calhoun County, Georgia
+2025-04-06 10:01:00,801 - INFO - Skipping already processed county: Calhoun County, Michigan
+2025-04-06 10:01:00,804 - INFO - Skipping already processed county: Calhoun County, Texas
+2025-04-06 10:01:00,811 - INFO - Skipping already processed county: Calhoun County, West Virginia
+2025-04-06 10:01:00,813 - INFO - Skipping already processed county: Callahan County, Texas
+2025-04-06 10:01:00,814 - INFO - Skipping already processed county: Calumet County, Wisconsin
+2025-04-06 10:01:00,814 - INFO - Skipping already processed county: Camas County, Idaho
+2025-04-06 10:01:00,816 - INFO - Skipping already processed county: Cambria County, Pennsylvania
+2025-04-06 10:01:00,817 - INFO - Skipping already processed county: Camden County, Georgia
+2025-04-06 10:01:00,818 - INFO - Skipping already processed county: Camden County, North Carolina
+2025-04-06 10:01:00,819 - INFO - Skipping already processed county: Cameron County, Pennsylvania
+2025-04-06 10:01:00,820 - INFO - Skipping already processed county: Cameron County, Texas
+2025-04-06 10:01:00,825 - INFO - Skipping already processed county: Camp County, Texas
+2025-04-06 10:01:00,826 - INFO - Skipping already processed county: Campbell County, Tennessee
+2025-04-06 10:01:00,827 - INFO - Skipping already processed county: Campbell County, Virginia
+2025-04-06 10:01:00,828 - INFO - Skipping already processed county: Candler County, Georgia
+2025-04-06 10:01:00,828 - INFO - Skipping already processed county: Cannon County, Tennessee
+2025-04-06 10:01:00,829 - INFO - Skipping already processed county: Canyon County, Idaho
+2025-04-06 10:01:00,830 - INFO - Skipping already processed county: Carbon County, Pennsylvania
+2025-04-06 10:01:00,831 - INFO - Skipping already processed county: Carbon County, Utah
+2025-04-06 10:01:00,832 - INFO - Skipping already processed county: Caribou County, Idaho
+2025-04-06 10:01:00,832 - INFO - Skipping already processed county: Carlton County, Minnesota
+2025-04-06 10:01:00,833 - INFO - Skipping already processed county: Caroline County, Virginia
+2025-04-06 10:01:00,834 - INFO - Skipping already processed county: Carroll County, Arkansas
+2025-04-06 10:01:00,834 - INFO - Skipping already processed county: Carroll County, Georgia
+2025-04-06 10:01:00,835 - INFO - Skipping already processed county: Carroll County, Indiana
+2025-04-06 10:01:00,835 - INFO - Skipping already processed county: Carroll County, New Hampshire
+2025-04-06 10:01:00,836 - INFO - Skipping already processed county: Carroll County, Ohio
+2025-04-06 10:01:00,837 - INFO - Skipping already processed county: Carroll County, Tennessee
+2025-04-06 10:01:00,841 - INFO - Skipping already processed county: Carroll County, Virginia
+2025-04-06 10:01:00,842 - INFO - Skipping already processed county: Carson County, Texas
+2025-04-06 10:01:00,842 - INFO - Skipping already processed county: Carter County, Tennessee
+2025-04-06 10:01:00,843 - INFO - Skipping already processed county: Carteret County, North Carolina
+2025-04-06 10:01:00,844 - INFO - Skipping already processed county: Carver County, Minnesota
+2025-04-06 10:01:00,844 - INFO - Skipping already processed county: Cass County, Indiana
+2025-04-06 10:01:00,845 - INFO - Skipping already processed county: Cass County, Michigan
+2025-04-06 10:01:00,846 - INFO - Skipping already processed county: Cass County, Minnesota
+2025-04-06 10:01:00,846 - INFO - Skipping already processed county: Cass County, North Dakota
+2025-04-06 10:01:00,847 - INFO - Skipping already processed county: Cass County, Texas
+2025-04-06 10:01:00,849 - INFO - Skipping already processed county: Cassia County, Idaho
+2025-04-06 10:01:00,850 - INFO - Skipping already processed county: Castro County, Texas
+2025-04-06 10:01:00,851 - INFO - Skipping already processed county: Caswell County, North Carolina
+2025-04-06 10:01:00,851 - INFO - Skipping already processed county: Catawba County, North Carolina
+2025-04-06 10:01:00,852 - INFO - Skipping already processed county: Catoosa County, Georgia
+2025-04-06 10:01:00,853 - INFO - Skipping already processed county: Catron County, New Mexico
+2025-04-06 10:01:00,853 - INFO - Skipping already processed county: Cattaraugus County, New York
+2025-04-06 10:01:00,856 - INFO - Skipping already processed county: Cavalier County, North Dakota
+2025-04-06 10:01:00,857 - INFO - Skipping already processed county: Cayuga County, New York
+2025-04-06 10:01:00,858 - INFO - Skipping already processed county: Centre County, Pennsylvania
+2025-04-06 10:01:00,859 - INFO - Skipping already processed county: Chambers County, Texas
+2025-04-06 10:01:00,860 - INFO - Skipping already processed county: Champaign County, Ohio
+2025-04-06 10:01:00,861 - INFO - Skipping already processed county: Charles City County, Virginia
+2025-04-06 10:01:00,863 - INFO - Skipping already processed county: Charlevoix County, Michigan
+2025-04-06 10:01:00,864 - INFO - Skipping already processed county: Charlotte County, Virginia
+2025-04-06 10:01:00,867 - INFO - Skipping already processed county: Charlton County, Georgia
+2025-04-06 10:01:00,869 - INFO - Skipping already processed county: Chase County, Kansas
+2025-04-06 10:01:00,870 - INFO - Skipping already processed county: Chatham County, Georgia
+2025-04-06 10:01:00,875 - INFO - Skipping already processed county: Chatham County, North Carolina
+2025-04-06 10:01:00,875 - INFO - Skipping already processed county: Chattahoochee County, Georgia
+2025-04-06 10:01:00,876 - INFO - Skipping already processed county: Chattooga County, Georgia
+2025-04-06 10:01:00,877 - INFO - Skipping already processed county: Chautauqua County, Kansas
+2025-04-06 10:01:00,878 - INFO - Skipping already processed county: Chautauqua County, New York
+2025-04-06 10:01:00,879 - INFO - Skipping already processed county: Chaves County, New Mexico
+2025-04-06 10:01:00,880 - INFO - Skipping already processed county: Cheatham County, Tennessee
+2025-04-06 10:01:00,881 - INFO - Skipping already processed county: Cheboygan County, Michigan
+2025-04-06 10:01:00,882 - INFO - Skipping already processed county: Chelan County, Washington
+2025-04-06 10:01:00,883 - INFO - Skipping already processed county: Chemung County, New York
+2025-04-06 10:01:00,884 - INFO - Skipping already processed county: Chenango County, New York
+2025-04-06 10:01:00,884 - INFO - Skipping already processed county: Cherokee County, Georgia
+2025-04-06 10:01:00,885 - INFO - Skipping already processed county: Cherokee County, Kansas
+2025-04-06 10:01:00,886 - INFO - Skipping already processed county: Cherokee County, North Carolina
+2025-04-06 10:01:00,887 - INFO - Skipping already processed county: Cherokee County, Texas
+2025-04-06 10:01:00,896 - INFO - Skipping already processed county: Cheshire County, New Hampshire
+2025-04-06 10:01:00,897 - INFO - Skipping already processed county: Chester County, Pennsylvania
+2025-04-06 10:01:00,899 - INFO - Skipping already processed county: Chester County, Tennessee
+2025-04-06 10:01:00,900 - INFO - Skipping already processed county: Chesterfield County, Virginia
+2025-04-06 10:01:00,900 - INFO - Skipping already processed county: Cheyenne County, Kansas
+2025-04-06 10:01:00,901 - INFO - Skipping already processed county: Chicot County, Arkansas
+2025-04-06 10:01:00,901 - INFO - Skipping already processed county: Childress County, Texas
+2025-04-06 10:01:00,902 - INFO - Skipping already processed county: Chippewa County, Michigan
+2025-04-06 10:01:00,902 - INFO - Skipping already processed county: Chippewa County, Minnesota
+2025-04-06 10:01:00,902 - INFO - Skipping already processed county: Chippewa County, Wisconsin
+2025-04-06 10:01:00,903 - INFO - Skipping already processed county: Chisago County, Minnesota
+2025-04-06 10:01:00,903 - INFO - Skipping already processed county: Chowan County, North Carolina
+2025-04-06 10:01:00,904 - INFO - Skipping already processed county: Chugach Census Area, Alaska
+2025-04-06 10:01:00,904 - INFO - Skipping already processed county: Churchill County, Nevada
+2025-04-06 10:01:00,905 - INFO - Skipping already processed county: Cibola County, New Mexico
+2025-04-06 10:01:00,906 - INFO - Skipping already processed county: Clackamas County, Oregon
+2025-04-06 10:01:00,907 - INFO - Skipping already processed county: Claiborne County, Tennessee
+2025-04-06 10:01:00,911 - INFO - Skipping already processed county: Clallam County, Washington
+2025-04-06 10:01:00,911 - INFO - Skipping already processed county: Clare County, Michigan
+2025-04-06 10:01:00,912 - INFO - Skipping already processed county: Clarion County, Pennsylvania
+2025-04-06 10:01:00,912 - INFO - Skipping already processed county: Clark County, Arkansas
+2025-04-06 10:01:00,913 - INFO - Skipping already processed county: Clark County, Idaho
+2025-04-06 10:01:00,913 - INFO - Skipping already processed county: Clark County, Indiana
+2025-04-06 10:01:00,914 - INFO - Skipping already processed county: Clark County, Kansas
+2025-04-06 10:01:00,915 - INFO - Skipping already processed county: Clark County, Nevada
+2025-04-06 10:01:00,915 - INFO - Skipping already processed county: Clark County, Ohio
+2025-04-06 10:01:00,916 - INFO - Skipping already processed county: Clark County, Washington
+2025-04-06 10:01:00,917 - INFO - Skipping already processed county: Clark County, Wisconsin
+2025-04-06 10:01:00,918 - INFO - Skipping already processed county: Clarke County, Georgia
+2025-04-06 10:01:00,918 - INFO - Skipping already processed county: Clarke County, Virginia
+2025-04-06 10:01:00,919 - INFO - Skipping already processed county: Clatsop County, Oregon
+2025-04-06 10:01:00,919 - INFO - Skipping already processed county: Clay County, Arkansas
+2025-04-06 10:01:00,920 - INFO - Skipping already processed county: Clay County, Georgia
+2025-04-06 10:01:00,920 - INFO - Skipping already processed county: Clay County, Indiana
+2025-04-06 10:01:00,920 - INFO - Skipping already processed county: Clay County, Kansas
+2025-04-06 10:01:00,923 - INFO - Skipping already processed county: Clay County, Minnesota
+2025-04-06 10:01:00,924 - INFO - Skipping already processed county: Clay County, North Carolina
+2025-04-06 10:01:00,926 - INFO - Skipping already processed county: Clay County, Tennessee
+2025-04-06 10:01:00,929 - INFO - Skipping already processed county: Clay County, Texas
+2025-04-06 10:01:00,932 - INFO - Skipping already processed county: Clay County, West Virginia
+2025-04-06 10:01:00,933 - INFO - Skipping already processed county: Clayton County, Georgia
+2025-04-06 10:01:00,933 - INFO - Skipping already processed county: Clearfield County, Pennsylvania
+2025-04-06 10:01:00,934 - INFO - Skipping already processed county: Clearwater County, Idaho
+2025-04-06 10:01:00,935 - INFO - Skipping already processed county: Clearwater County, Minnesota
+2025-04-06 10:01:00,936 - INFO - Skipping already processed county: Cleburne County, Arkansas
+2025-04-06 10:01:00,937 - INFO - Skipping already processed county: Clermont County, Ohio
+2025-04-06 10:01:00,940 - INFO - Skipping already processed county: Cleveland County, Arkansas
+2025-04-06 10:01:00,941 - INFO - Skipping already processed county: Cleveland County, North Carolina
+2025-04-06 10:01:00,941 - INFO - Skipping already processed county: Clinch County, Georgia
+2025-04-06 10:01:00,942 - INFO - Skipping already processed county: Clinton County, Indiana
+2025-04-06 10:01:00,943 - INFO - Skipping already processed county: Clinton County, Michigan
+2025-04-06 10:01:00,943 - INFO - Skipping already processed county: Clinton County, New York
+2025-04-06 10:01:00,944 - INFO - Skipping already processed county: Clinton County, Ohio
+2025-04-06 10:01:00,945 - INFO - Skipping already processed county: Clinton County, Pennsylvania
+2025-04-06 10:01:00,945 - INFO - Skipping already processed county: Cloud County, Kansas
+2025-04-06 10:01:00,946 - INFO - Skipping already processed county: Cobb County, Georgia
+2025-04-06 10:01:00,946 - INFO - Skipping already processed county: Cochran County, Texas
+2025-04-06 10:01:00,947 - INFO - Skipping already processed county: Cocke County, Tennessee
+2025-04-06 10:01:00,947 - INFO - Skipping already processed county: Coffee County, Georgia
+2025-04-06 10:01:00,947 - INFO - Skipping already processed county: Coffee County, Tennessee
+2025-04-06 10:01:00,948 - INFO - Skipping already processed county: Coffey County, Kansas
+2025-04-06 10:01:00,949 - INFO - Skipping already processed county: Coke County, Texas
+2025-04-06 10:01:00,949 - INFO - Skipping already processed county: Coleman County, Texas
+2025-04-06 10:01:00,950 - INFO - Skipping already processed county: Colfax County, New Mexico
+2025-04-06 10:01:00,950 - INFO - Skipping already processed county: Collin County, Texas
+2025-04-06 10:01:00,951 - INFO - Skipping already processed county: Collingsworth County, Texas
+2025-04-06 10:01:00,951 - INFO - Skipping already processed county: Colorado County, Texas
+2025-04-06 10:01:00,952 - INFO - Skipping already processed county: Colquitt County, Georgia
+2025-04-06 10:01:00,952 - INFO - Skipping already processed county: Columbia County, Arkansas
+2025-04-06 10:01:00,952 - INFO - Skipping already processed county: Columbia County, Georgia
+2025-04-06 10:01:00,953 - INFO - Skipping already processed county: Columbia County, New York
+2025-04-06 10:01:00,953 - INFO - Skipping already processed county: Columbia County, Oregon
+2025-04-06 10:01:00,955 - INFO - Skipping already processed county: Columbia County, Pennsylvania
+2025-04-06 10:01:00,957 - INFO - Skipping already processed county: Columbia County, Washington
+2025-04-06 10:01:00,958 - INFO - Skipping already processed county: Columbia County, Wisconsin
+2025-04-06 10:01:00,959 - INFO - Skipping already processed county: Columbiana County, Ohio
+2025-04-06 10:01:00,959 - INFO - Skipping already processed county: Columbus County, North Carolina
+2025-04-06 10:01:00,960 - INFO - Skipping already processed county: Colusa County, California
+2025-04-06 10:01:00,961 - INFO - Skipping already processed county: Comal County, Texas
+2025-04-06 10:01:00,961 - INFO - Skipping already processed county: Comanche County, Kansas
+2025-04-06 10:01:00,962 - INFO - Skipping already processed county: Comanche County, Texas
+2025-04-06 10:01:00,962 - INFO - Skipping already processed county: Concho County, Texas
+2025-04-06 10:01:00,963 - INFO - Skipping already processed county: Contra Costa County, California
+2025-04-06 10:01:00,964 - INFO - Skipping already processed county: Conway County, Arkansas
+2025-04-06 10:01:00,964 - INFO - Skipping already processed county: Cook County, Georgia
+2025-04-06 10:01:00,965 - INFO - Skipping already processed county: Cook County, Minnesota
+2025-04-06 10:01:00,965 - INFO - Skipping already processed county: Cooke County, Texas
+2025-04-06 10:01:00,966 - INFO - Skipping already processed county: Coos County, Oregon
+2025-04-06 10:01:00,967 - INFO - Skipping already processed county: Coös County, New Hampshire
+2025-04-06 10:01:00,967 - INFO - Skipping already processed county: Copper River Census Area, Alaska
+2025-04-06 10:01:00,968 - INFO - Skipping already processed county: Cortland County, New York
+2025-04-06 10:01:00,968 - INFO - Skipping already processed county: Coryell County, Texas
+2025-04-06 10:01:00,969 - INFO - Skipping already processed county: Coshocton County, Ohio
+2025-04-06 10:01:00,969 - INFO - Skipping already processed county: Cottle County, Texas
+2025-04-06 10:01:00,970 - INFO - Skipping already processed county: Cottonwood County, Minnesota
+2025-04-06 10:01:00,970 - INFO - Skipping already processed county: Coweta County, Georgia
+2025-04-06 10:01:00,971 - INFO - Skipping already processed county: Cowley County, Kansas
+2025-04-06 10:01:00,972 - INFO - Skipping already processed county: Cowlitz County, Washington
+2025-04-06 10:01:00,973 - INFO - Skipping already processed county: Craig County, Virginia
+2025-04-06 10:01:00,974 - INFO - Skipping already processed county: Craighead County, Arkansas
+2025-04-06 10:01:00,974 - INFO - Skipping already processed county: Crane County, Texas
+2025-04-06 10:01:00,975 - INFO - Skipping already processed county: Craven County, North Carolina
+2025-04-06 10:01:00,976 - INFO - Skipping already processed county: Crawford County, Arkansas
+2025-04-06 10:01:00,977 - INFO - Skipping already processed county: Crawford County, Georgia
+2025-04-06 10:01:00,978 - INFO - Skipping already processed county: Crawford County, Indiana
+2025-04-06 10:01:00,978 - INFO - Skipping already processed county: Crawford County, Kansas
+2025-04-06 10:01:00,979 - INFO - Skipping already processed county: Crawford County, Michigan
+2025-04-06 10:01:00,980 - INFO - Skipping already processed county: Crawford County, Ohio
+2025-04-06 10:01:00,980 - INFO - Skipping already processed county: Crawford County, Pennsylvania
+2025-04-06 10:01:00,981 - INFO - Skipping already processed county: Crawford County, Wisconsin
+2025-04-06 10:01:00,982 - INFO - Skipping already processed county: Crisp County, Georgia
+2025-04-06 10:01:00,982 - INFO - Skipping already processed county: Crittenden County, Arkansas
+2025-04-06 10:01:00,983 - INFO - Skipping already processed county: Crockett County, Tennessee
+2025-04-06 10:01:00,984 - INFO - Skipping already processed county: Crockett County, Texas
+2025-04-06 10:01:00,985 - INFO - Skipping already processed county: Crook County, Oregon
+2025-04-06 10:01:00,986 - INFO - Skipping already processed county: Crosby County, Texas
+2025-04-06 10:01:00,986 - INFO - Skipping already processed county: Cross County, Arkansas
+2025-04-06 10:01:00,987 - INFO - Skipping already processed county: Crow Wing County, Minnesota
+2025-04-06 10:01:00,989 - INFO - Skipping already processed county: Culberson County, Texas
+2025-04-06 10:01:00,990 - INFO - Skipping already processed county: Culpeper County, Virginia
+2025-04-06 10:01:00,990 - INFO - Skipping already processed county: Cumberland County, Maine
+2025-04-06 10:01:00,991 - INFO - Skipping already processed county: Cumberland County, North Carolina
+2025-04-06 10:01:00,991 - INFO - Skipping already processed county: Cumberland County, Pennsylvania
+2025-04-06 10:01:00,992 - INFO - Skipping already processed county: Cumberland County, Tennessee
+2025-04-06 10:01:00,992 - INFO - Skipping already processed county: Cumberland County, Virginia
+2025-04-06 10:01:00,993 - INFO - Skipping already processed county: Currituck County, North Carolina
+2025-04-06 10:01:00,994 - INFO - Skipping already processed county: Curry County, New Mexico
+2025-04-06 10:01:00,995 - INFO - Skipping already processed county: Curry County, Oregon
+2025-04-06 10:01:00,996 - INFO - Skipping already processed county: Custer County, Idaho
+2025-04-06 10:01:00,997 - INFO - Skipping already processed county: Cuyahoga County, Ohio
+2025-04-06 10:01:00,998 - INFO - Skipping already processed county: Dade County, Georgia
+2025-04-06 10:01:00,998 - INFO - Skipping already processed county: Daggett County, Utah
+2025-04-06 10:01:00,999 - INFO - Skipping already processed county: Dakota County, Minnesota
+2025-04-06 10:01:00,999 - INFO - Skipping already processed county: Dallam County, Texas
+2025-04-06 10:01:00,999 - INFO - Skipping already processed county: Dallas County, Arkansas
+2025-04-06 10:01:01,000 - INFO - Skipping already processed county: Dallas County, Texas
+2025-04-06 10:01:01,000 - INFO - Skipping already processed county: Dane County, Wisconsin
+2025-04-06 10:01:01,001 - INFO - Skipping already processed county: Dare County, North Carolina
+2025-04-06 10:01:01,002 - INFO - Skipping already processed county: Darke County, Ohio
+2025-04-06 10:01:01,002 - INFO - Skipping already processed county: Dauphin County, Pennsylvania
+2025-04-06 10:01:01,003 - INFO - Skipping already processed county: Davidson County, North Carolina
+2025-04-06 10:01:01,003 - INFO - Skipping already processed county: Davidson County, Tennessee
+2025-04-06 10:01:01,004 - INFO - Skipping already processed county: Davie County, North Carolina
+2025-04-06 10:01:01,005 - INFO - Skipping already processed county: Daviess County, Indiana
+2025-04-06 10:01:01,006 - INFO - Skipping already processed county: Davis County, Utah
+2025-04-06 10:01:01,007 - INFO - Skipping already processed county: Dawson County, Georgia
+2025-04-06 10:01:01,007 - INFO - Skipping already processed county: Dawson County, Texas
+2025-04-06 10:01:01,008 - INFO - Skipping already processed county: De Baca County, New Mexico
+2025-04-06 10:01:01,009 - INFO - Skipping already processed county: DeKalb County, Georgia
+2025-04-06 10:01:01,009 - INFO - Skipping already processed county: DeKalb County, Indiana
+2025-04-06 10:01:01,010 - INFO - Skipping already processed county: DeKalb County, Tennessee
+2025-04-06 10:01:01,011 - INFO - Skipping already processed county: DeWitt County, Texas
+2025-04-06 10:01:01,012 - INFO - Skipping already processed county: Deaf Smith County, Texas
+2025-04-06 10:01:01,012 - INFO - Skipping already processed county: Dearborn County, Indiana
+2025-04-06 10:01:01,013 - INFO - Skipping already processed county: Decatur County, Georgia
+2025-04-06 10:01:01,013 - INFO - Skipping already processed county: Decatur County, Indiana
+2025-04-06 10:01:01,014 - INFO - Skipping already processed county: Decatur County, Kansas
+2025-04-06 10:01:01,014 - INFO - Skipping already processed county: Decatur County, Tennessee
+2025-04-06 10:01:01,014 - INFO - Skipping already processed county: Defiance County, Ohio
+2025-04-06 10:01:01,015 - INFO - Skipping already processed county: Del Norte County, California
+2025-04-06 10:01:01,015 - INFO - Skipping already processed county: Delaware County, Indiana
+2025-04-06 10:01:01,016 - INFO - Skipping already processed county: Delaware County, Iowa
+2025-04-06 10:01:01,016 - INFO - Skipping already processed county: Delaware County, New York
+2025-04-06 10:01:01,017 - INFO - Skipping already processed county: Delaware County, Ohio
+2025-04-06 10:01:01,017 - INFO - Skipping already processed county: Delaware County, Oklahoma
+2025-04-06 10:01:01,018 - INFO - Skipping already processed county: Delaware County, Pennsylvania
+2025-04-06 10:01:01,018 - INFO - Skipping already processed county: Delta County, Michigan
+2025-04-06 10:01:01,019 - INFO - Skipping already processed county: Delta County, Texas
+2025-04-06 10:01:01,020 - INFO - Skipping already processed county: Denali Borough, Alaska
+2025-04-06 10:01:01,025 - INFO - Skipping already processed county: Denton County, Texas
+2025-04-06 10:01:01,028 - INFO - Skipping already processed county: Deschutes County, Oregon
+2025-04-06 10:01:01,030 - INFO - Skipping already processed county: Desha County, Arkansas
+2025-04-06 10:01:01,031 - INFO - Skipping already processed county: Dickens County, Texas
+2025-04-06 10:01:01,032 - INFO - Skipping already processed county: Dickenson County, Virginia
+2025-04-06 10:01:01,033 - INFO - Skipping already processed county: Dickey County, North Dakota
+2025-04-06 10:01:01,033 - INFO - Skipping already processed county: Dickinson County, Kansas
+2025-04-06 10:01:01,034 - INFO - Skipping already processed county: Dickinson County, Michigan
+2025-04-06 10:01:01,034 - INFO - Skipping already processed county: Dickson County, Tennessee
+2025-04-06 10:01:01,034 - INFO - Skipping already processed county: Dillingham Census Area, Alaska
+2025-04-06 10:01:01,035 - INFO - Skipping already processed county: Dimmit County, Texas
+2025-04-06 10:01:01,035 - INFO - Skipping already processed county: Dinwiddie County, Virginia
+2025-04-06 10:01:01,036 - INFO - Skipping already processed county: Divide County, North Dakota
+2025-04-06 10:01:01,036 - INFO - Skipping already processed county: Doddridge County, West Virginia
+2025-04-06 10:01:01,037 - INFO - Skipping already processed county: Dodge County, Georgia
+2025-04-06 10:01:01,040 - INFO - Skipping already processed county: Dodge County, Minnesota
+2025-04-06 10:01:01,041 - INFO - Skipping already processed county: Dodge County, Wisconsin
+2025-04-06 10:01:01,042 - INFO - Skipping already processed county: Doña Ana County, New Mexico
+2025-04-06 10:01:01,042 - INFO - Skipping already processed county: Doniphan County, Kansas
+2025-04-06 10:01:01,043 - INFO - Skipping already processed county: Donley County, Texas
+2025-04-06 10:01:01,044 - INFO - Skipping already processed county: Dooly County, Georgia
+2025-04-06 10:01:01,044 - INFO - Skipping already processed county: Door County, Wisconsin
+2025-04-06 10:01:01,045 - INFO - Skipping already processed county: Dougherty County, Georgia
+2025-04-06 10:01:01,045 - INFO - Skipping already processed county: Douglas County, Georgia
+2025-04-06 10:01:01,046 - INFO - Skipping already processed county: Douglas County, Kansas
+2025-04-06 10:01:01,046 - INFO - Skipping already processed county: Douglas County, Minnesota
+2025-04-06 10:01:01,047 - INFO - Skipping already processed county: Douglas County, Nevada
+2025-04-06 10:01:01,047 - INFO - Skipping already processed county: Douglas County, Oregon
+2025-04-06 10:01:01,048 - INFO - Skipping already processed county: Douglas County, Washington
+2025-04-06 10:01:01,048 - INFO - Skipping already processed county: Douglas County, Wisconsin
+2025-04-06 10:01:01,049 - INFO - Skipping already processed county: Drew County, Arkansas
+2025-04-06 10:01:01,049 - INFO - Skipping already processed county: Dubois County, Indiana
+2025-04-06 10:01:01,049 - INFO - Skipping already processed county: Duchesne County, Utah
+2025-04-06 10:01:01,050 - INFO - Skipping already processed county: Dukes County, Massachusetts
+2025-04-06 10:01:01,050 - INFO - Skipping already processed county: Dunn County, North Dakota
+2025-04-06 10:01:01,051 - INFO - Skipping already processed county: Dunn County, Wisconsin
+2025-04-06 10:01:01,051 - INFO - Skipping already processed county: Duplin County, North Carolina
+2025-04-06 10:01:01,052 - INFO - Skipping already processed county: Durham County, North Carolina
+2025-04-06 10:01:01,052 - INFO - Skipping already processed county: Dutchess County, New York
+2025-04-06 10:01:01,052 - INFO - Skipping already processed county: Duval County, Texas
+2025-04-06 10:01:01,053 - INFO - Skipping already processed county: Dyer County, Tennessee
+2025-04-06 10:01:01,053 - INFO - Skipping already processed county: Early County, Georgia
+2025-04-06 10:01:01,053 - INFO - Skipping already processed county: Eastland County, Texas
+2025-04-06 10:01:01,054 - INFO - Skipping already processed county: Eaton County, Michigan
+2025-04-06 10:01:01,055 - INFO - Skipping already processed county: Eau Claire County, Wisconsin
+2025-04-06 10:01:01,056 - INFO - Skipping already processed county: Echols County, Georgia
+2025-04-06 10:01:01,057 - INFO - Skipping already processed county: Ector County, Texas
+2025-04-06 10:01:01,058 - INFO - Skipping already processed county: Eddy County, New Mexico
+2025-04-06 10:01:01,058 - INFO - Skipping already processed county: Eddy County, North Dakota
+2025-04-06 10:01:01,059 - INFO - Skipping already processed county: Edgecombe County, North Carolina
+2025-04-06 10:01:01,059 - INFO - Skipping already processed county: Edwards County, Kansas
+2025-04-06 10:01:01,060 - INFO - Skipping already processed county: Edwards County, Texas
+2025-04-06 10:01:01,060 - INFO - Skipping already processed county: Effingham County, Georgia
+2025-04-06 10:01:01,061 - INFO - Skipping already processed county: El Dorado County, California
+2025-04-06 10:01:01,061 - INFO - Skipping already processed county: El Paso County, Texas
+2025-04-06 10:01:01,062 - INFO - Skipping already processed county: Elbert County, Georgia
+2025-04-06 10:01:01,062 - INFO - Skipping already processed county: Elk County, Kansas
+2025-04-06 10:01:01,063 - INFO - Skipping already processed county: Elk County, Pennsylvania
+2025-04-06 10:01:01,063 - INFO - Skipping already processed county: Elkhart County, Indiana
+2025-04-06 10:01:01,064 - INFO - Skipping already processed county: Elko County, Nevada
+2025-04-06 10:01:01,064 - INFO - Skipping already processed county: Ellis County, Kansas
+2025-04-06 10:01:01,065 - INFO - Skipping already processed county: Ellis County, Texas
+2025-04-06 10:01:01,065 - INFO - Skipping already processed county: Ellsworth County, Kansas
+2025-04-06 10:01:01,065 - INFO - Skipping already processed county: Elmore County, Idaho
+2025-04-06 10:01:01,066 - INFO - Skipping already processed county: Emanuel County, Georgia
+2025-04-06 10:01:01,066 - INFO - Skipping already processed county: Emery County, Utah
+2025-04-06 10:01:01,066 - INFO - Skipping already processed county: Emmet County, Michigan
+2025-04-06 10:01:01,067 - INFO - Skipping already processed county: Emmons County, North Dakota
+2025-04-06 10:01:01,067 - INFO - Skipping already processed county: Erath County, Texas
+2025-04-06 10:01:01,068 - INFO - Skipping already processed county: Erie County, New York
+2025-04-06 10:01:01,069 - INFO - Skipping already processed county: Erie County, Ohio
+2025-04-06 10:01:01,070 - INFO - Skipping already processed county: Erie County, Pennsylvania
+2025-04-06 10:01:01,070 - INFO - Skipping already processed county: Esmeralda County, Nevada
+2025-04-06 10:01:01,073 - INFO - Skipping already processed county: Essex County, Massachusetts
+2025-04-06 10:01:01,074 - INFO - Skipping already processed county: Essex County, New York
+2025-04-06 10:01:01,075 - INFO - Skipping already processed county: Essex County, Virginia
+2025-04-06 10:01:01,075 - INFO - Skipping already processed county: Eureka County, Nevada
+2025-04-06 10:01:01,076 - INFO - Skipping already processed county: Evans County, Georgia
+2025-04-06 10:01:01,076 - INFO - Skipping already processed county: Fairbanks North Star Borough, Alaska
+2025-04-06 10:01:01,077 - INFO - Skipping already processed county: Fairfax County, Virginia
+2025-04-06 10:01:01,077 - INFO - Skipping already processed county: Fairfield County, Connecticut
+2025-04-06 10:01:01,078 - INFO - Skipping already processed county: Fairfield County, Ohio
+2025-04-06 10:01:01,078 - INFO - Skipping already processed county: Falls County, Texas
+2025-04-06 10:01:01,079 - INFO - Skipping already processed county: Fannin County, Georgia
+2025-04-06 10:01:01,079 - INFO - Skipping already processed county: Fannin County, Texas
+2025-04-06 10:01:01,080 - INFO - Skipping already processed county: Faribault County, Minnesota
+2025-04-06 10:01:01,080 - INFO - Skipping already processed county: Faulkner County, Arkansas
+2025-04-06 10:01:01,081 - INFO - Skipping already processed county: Fauquier County, Virginia
+2025-04-06 10:01:01,081 - INFO - Skipping already processed county: Fayette County, Georgia
+2025-04-06 10:01:01,081 - INFO - Skipping already processed county: Fayette County, Indiana
+2025-04-06 10:01:01,082 - INFO - Skipping already processed county: Fayette County, Ohio
+2025-04-06 10:01:01,082 - INFO - Skipping already processed county: Fayette County, Pennsylvania
+2025-04-06 10:01:01,083 - INFO - Skipping already processed county: Fayette County, Tennessee
+2025-04-06 10:01:01,083 - INFO - Skipping already processed county: Fayette County, Texas
+2025-04-06 10:01:01,083 - INFO - Skipping already processed county: Fayette County, West Virginia
+2025-04-06 10:01:01,084 - INFO - Skipping already processed county: Fentress County, Tennessee
+2025-04-06 10:01:01,084 - INFO - Skipping already processed county: Ferry County, Washington
+2025-04-06 10:01:01,084 - INFO - Skipping already processed county: Fillmore County, Minnesota
+2025-04-06 10:01:01,085 - INFO - Skipping already processed county: Finney County, Kansas
+2025-04-06 10:01:01,085 - INFO - Skipping already processed county: Fisher County, Texas
+2025-04-06 10:01:01,086 - INFO - Skipping already processed county: Florence County, Wisconsin
+2025-04-06 10:01:01,086 - INFO - Skipping already processed county: Floyd County, Georgia
+2025-04-06 10:01:01,087 - INFO - Skipping already processed county: Floyd County, Indiana
+2025-04-06 10:01:01,087 - INFO - Skipping already processed county: Floyd County, Texas
+2025-04-06 10:01:01,089 - INFO - Skipping already processed county: Floyd County, Virginia
+2025-04-06 10:01:01,090 - INFO - Skipping already processed county: Fluvanna County, Virginia
+2025-04-06 10:01:01,091 - INFO - Skipping already processed county: Foard County, Texas
+2025-04-06 10:01:01,091 - INFO - Skipping already processed county: Fond du Lac County, Wisconsin
+2025-04-06 10:01:01,091 - INFO - Skipping already processed county: Ford County, Kansas
+2025-04-06 10:01:01,092 - INFO - Skipping already processed county: Forest County, Pennsylvania
+2025-04-06 10:01:01,092 - INFO - Skipping already processed county: Forest County, Wisconsin
+2025-04-06 10:01:01,093 - INFO - Skipping already processed county: Forsyth County, Georgia
+2025-04-06 10:01:01,093 - INFO - Skipping already processed county: Forsyth County, North Carolina
+2025-04-06 10:01:01,093 - INFO - Skipping already processed county: Fort Bend County, Texas
+2025-04-06 10:01:01,094 - INFO - Skipping already processed county: Foster County, North Dakota
+2025-04-06 10:01:01,094 - INFO - Skipping already processed county: Fountain County, Indiana
+2025-04-06 10:01:01,094 - INFO - Skipping already processed county: Franklin County, Arkansas
+2025-04-06 10:01:01,095 - INFO - Skipping already processed county: Franklin County, Georgia
+2025-04-06 10:01:01,095 - INFO - Skipping already processed county: Franklin County, Idaho
+2025-04-06 10:01:01,095 - INFO - Skipping already processed county: Franklin County, Indiana
+2025-04-06 10:01:01,096 - INFO - Skipping already processed county: Franklin County, Kansas
+2025-04-06 10:01:01,096 - INFO - Skipping already processed county: Franklin County, Maine
+2025-04-06 10:01:01,097 - INFO - Skipping already processed county: Franklin County, Massachusetts
+2025-04-06 10:01:01,097 - INFO - Skipping already processed county: Franklin County, New York
+2025-04-06 10:01:01,097 - INFO - Skipping already processed county: Franklin County, North Carolina
+2025-04-06 10:01:01,098 - INFO - Skipping already processed county: Franklin County, Ohio
+2025-04-06 10:01:01,098 - INFO - Skipping already processed county: Franklin County, Pennsylvania
+2025-04-06 10:01:01,098 - INFO - Skipping already processed county: Franklin County, Tennessee
+2025-04-06 10:01:01,099 - INFO - Skipping already processed county: Franklin County, Texas
+2025-04-06 10:01:01,099 - INFO - Skipping already processed county: Franklin County, Virginia
+2025-04-06 10:01:01,099 - INFO - Skipping already processed county: Franklin County, Washington
+2025-04-06 10:01:01,100 - INFO - Skipping already processed county: Frederick County, Virginia
+2025-04-06 10:01:01,100 - INFO - Skipping already processed county: Freeborn County, Minnesota
+2025-04-06 10:01:01,100 - INFO - Skipping already processed county: Freestone County, Texas
+2025-04-06 10:01:01,101 - INFO - Skipping already processed county: Fremont County, Idaho
+2025-04-06 10:01:01,101 - INFO - Skipping already processed county: Fresno County, California
+2025-04-06 10:01:01,101 - INFO - Skipping already processed county: Frio County, Texas
+2025-04-06 10:01:01,102 - INFO - Skipping already processed county: Fulton County, Arkansas
+2025-04-06 10:01:01,102 - INFO - Skipping already processed county: Fulton County, Georgia
+2025-04-06 10:01:01,103 - INFO - Skipping already processed county: Fulton County, Indiana
+2025-04-06 10:01:01,103 - INFO - Skipping already processed county: Fulton County, New York
+2025-04-06 10:01:01,103 - INFO - Skipping already processed county: Fulton County, Ohio
+2025-04-06 10:01:01,104 - INFO - Skipping already processed county: Fulton County, Pennsylvania
+2025-04-06 10:01:01,104 - INFO - Skipping already processed county: Gaines County, Texas
+2025-04-06 10:01:01,105 - INFO - Skipping already processed county: Gallia County, Ohio
+2025-04-06 10:01:01,106 - INFO - Skipping already processed county: Galveston County, Texas
+2025-04-06 10:01:01,107 - INFO - Skipping already processed county: Garfield County, Utah
+2025-04-06 10:01:01,107 - INFO - Skipping already processed county: Garfield County, Washington
+2025-04-06 10:01:01,108 - INFO - Skipping already processed county: Garland County, Arkansas
+2025-04-06 10:01:01,108 - INFO - Skipping already processed county: Garza County, Texas
+2025-04-06 10:01:01,108 - INFO - Skipping already processed county: Gaston County, North Carolina
+2025-04-06 10:01:01,109 - INFO - Skipping already processed county: Gates County, North Carolina
+2025-04-06 10:01:01,109 - INFO - Skipping already processed county: Geary County, Kansas
+2025-04-06 10:01:01,110 - INFO - Skipping already processed county: Geauga County, Ohio
+2025-04-06 10:01:01,110 - INFO - Skipping already processed county: Gem County, Idaho
+2025-04-06 10:01:01,110 - INFO - Skipping already processed county: Genesee County, Michigan
+2025-04-06 10:01:01,111 - INFO - Skipping already processed county: Genesee County, New York
+2025-04-06 10:01:01,111 - INFO - Skipping already processed county: Gibson County, Indiana
+2025-04-06 10:01:01,112 - INFO - Skipping already processed county: Gibson County, Tennessee
+2025-04-06 10:01:01,112 - INFO - Skipping already processed county: Giles County, Tennessee
+2025-04-06 10:01:01,112 - INFO - Skipping already processed county: Giles County, Virginia
+2025-04-06 10:01:01,113 - INFO - Skipping already processed county: Gillespie County, Texas
+2025-04-06 10:01:01,113 - INFO - Skipping already processed county: Gilliam County, Oregon
+2025-04-06 10:01:01,113 - INFO - Skipping already processed county: Gilmer County, Georgia
+2025-04-06 10:01:01,114 - INFO - Skipping already processed county: Gilmer County, West Virginia
+2025-04-06 10:01:01,114 - INFO - Skipping already processed county: Gladwin County, Michigan
+2025-04-06 10:01:01,114 - INFO - Skipping already processed county: Glascock County, Georgia
+2025-04-06 10:01:01,115 - INFO - Skipping already processed county: Glasscock County, Texas
+2025-04-06 10:01:01,115 - INFO - Skipping already processed county: Glenn County, California
+2025-04-06 10:01:01,115 - INFO - Skipping already processed county: Gloucester County, Virginia
+2025-04-06 10:01:01,116 - INFO - Skipping already processed county: Glynn County, Georgia
+2025-04-06 10:01:01,116 - INFO - Skipping already processed county: Gogebic County, Michigan
+2025-04-06 10:01:01,116 - INFO - Skipping already processed county: Golden Valley County, North Dakota
+2025-04-06 10:01:01,117 - INFO - Skipping already processed county: Goliad County, Texas
+2025-04-06 10:01:01,117 - INFO - Skipping already processed county: Gonzales County, Texas
+2025-04-06 10:01:01,118 - INFO - Skipping already processed county: Goochland County, Virginia
+2025-04-06 10:01:01,119 - INFO - Skipping already processed county: Goodhue County, Minnesota
+2025-04-06 10:01:01,119 - INFO - Skipping already processed county: Gooding County, Idaho
+2025-04-06 10:01:01,119 - INFO - Skipping already processed county: Gordon County, Georgia
+2025-04-06 10:01:01,120 - INFO - Skipping already processed county: Gove County, Kansas
+2025-04-06 10:01:01,120 - INFO - Skipping already processed county: Grady County, Georgia
+2025-04-06 10:01:01,120 - INFO - Skipping already processed county: Grafton County, New Hampshire
+2025-04-06 10:01:01,122 - INFO - Skipping already processed county: Graham County, Kansas
+2025-04-06 10:01:01,123 - INFO - Skipping already processed county: Graham County, North Carolina
+2025-04-06 10:01:01,123 - INFO - Skipping already processed county: Grainger County, Tennessee
+2025-04-06 10:01:01,124 - INFO - Skipping already processed county: Grand County, Utah
+2025-04-06 10:01:01,124 - INFO - Skipping already processed county: Grand Forks County, North Dakota
+2025-04-06 10:01:01,125 - INFO - Skipping already processed county: Grand Traverse County, Michigan
+2025-04-06 10:01:01,125 - INFO - Skipping already processed county: Grant County, Arkansas
+2025-04-06 10:01:01,125 - INFO - Skipping already processed county: Grant County, Indiana
+2025-04-06 10:01:01,126 - INFO - Skipping already processed county: Grant County, Kansas
+2025-04-06 10:01:01,126 - INFO - Skipping already processed county: Grant County, Minnesota
+2025-04-06 10:01:01,127 - INFO - Skipping already processed county: Grant County, New Mexico
+2025-04-06 10:01:01,127 - INFO - Skipping already processed county: Grant County, North Dakota
+2025-04-06 10:01:01,127 - INFO - Skipping already processed county: Grant County, Oregon
+2025-04-06 10:01:01,128 - INFO - Skipping already processed county: Grant County, Washington
+2025-04-06 10:01:01,128 - INFO - Skipping already processed county: Grant County, West Virginia
+2025-04-06 10:01:01,128 - INFO - Skipping already processed county: Grant County, Wisconsin
+2025-04-06 10:01:01,129 - INFO - Skipping already processed county: Granville County, North Carolina
+2025-04-06 10:01:01,129 - INFO - Skipping already processed county: Gratiot County, Michigan
+2025-04-06 10:01:01,129 - INFO - Skipping already processed county: Gray County, Kansas
+2025-04-06 10:01:01,130 - INFO - Skipping already processed county: Gray County, Texas
+2025-04-06 10:01:01,130 - INFO - Skipping already processed county: Grays Harbor County, Washington
+2025-04-06 10:01:01,131 - INFO - Skipping already processed county: Grayson County, Texas
+2025-04-06 10:01:01,131 - INFO - Skipping already processed county: Grayson County, Virginia
+2025-04-06 10:01:01,131 - INFO - Skipping already processed county: Greeley County, Kansas
+2025-04-06 10:01:01,132 - INFO - Skipping already processed county: Green County, Wisconsin
+2025-04-06 10:01:01,132 - INFO - Skipping already processed county: Green Lake County, Wisconsin
+2025-04-06 10:01:01,132 - INFO - Skipping already processed county: Greenbrier County, West Virginia
+2025-04-06 10:01:01,133 - INFO - Skipping already processed county: Greene County, Arkansas
+2025-04-06 10:01:01,133 - INFO - Skipping already processed county: Greene County, Georgia
+2025-04-06 10:01:01,134 - INFO - Skipping already processed county: Greene County, Indiana
+2025-04-06 10:01:01,134 - INFO - Skipping already processed county: Greene County, New York
+2025-04-06 10:01:01,135 - INFO - Skipping already processed county: Greene County, North Carolina
+2025-04-06 10:01:01,135 - INFO - Skipping already processed county: Greene County, Ohio
+2025-04-06 10:01:01,136 - INFO - Skipping already processed county: Greene County, Pennsylvania
+2025-04-06 10:01:01,136 - INFO - Skipping already processed county: Greene County, Tennessee
+2025-04-06 10:01:01,137 - INFO - Skipping already processed county: Greene County, Virginia
+2025-04-06 10:01:01,137 - INFO - Skipping already processed county: Greensville County, Virginia
+2025-04-06 10:01:01,138 - INFO - Skipping already processed county: Greenwood County, Kansas
+2025-04-06 10:01:01,139 - INFO - Skipping already processed county: Gregg County, Texas
+2025-04-06 10:01:01,140 - INFO - Skipping already processed county: Griggs County, North Dakota
+2025-04-06 10:01:01,141 - INFO - Skipping already processed county: Grimes County, Texas
+2025-04-06 10:01:01,141 - INFO - Skipping already processed county: Grundy County, Tennessee
+2025-04-06 10:01:01,142 - INFO - Skipping already processed county: Guadalupe County, New Mexico
+2025-04-06 10:01:01,143 - INFO - Skipping already processed county: Guadalupe County, Texas
+2025-04-06 10:01:01,143 - INFO - Skipping already processed county: Guernsey County, Ohio
+2025-04-06 10:01:01,144 - INFO - Skipping already processed county: Guilford County, North Carolina
+2025-04-06 10:01:01,144 - INFO - Skipping already processed county: Gwinnett County, Georgia
+2025-04-06 10:01:01,145 - INFO - Skipping already processed county: Habersham County, Georgia
+2025-04-06 10:01:01,145 - INFO - Skipping already processed county: Haines Borough, Alaska
+2025-04-06 10:01:01,145 - INFO - Skipping already processed county: Hale County, Texas
+2025-04-06 10:01:01,146 - INFO - Skipping already processed county: Halifax County, North Carolina
+2025-04-06 10:01:01,146 - INFO - Skipping already processed county: Halifax County, Virginia
+2025-04-06 10:01:01,147 - INFO - Skipping already processed county: Hall County, Georgia
+2025-04-06 10:01:01,147 - INFO - Skipping already processed county: Hall County, Texas
+2025-04-06 10:01:01,147 - INFO - Skipping already processed county: Hamblen County, Tennessee
+2025-04-06 10:01:01,147 - INFO - Skipping already processed county: Hamilton County, Indiana
+2025-04-06 10:01:01,148 - INFO - Skipping already processed county: Hamilton County, Kansas
+2025-04-06 10:01:01,148 - INFO - Skipping already processed county: Hamilton County, New York
+2025-04-06 10:01:01,148 - INFO - Skipping already processed county: Hamilton County, Ohio
+2025-04-06 10:01:01,149 - INFO - Skipping already processed county: Hamilton County, Tennessee
+2025-04-06 10:01:01,149 - INFO - Skipping already processed county: Hamilton County, Texas
+2025-04-06 10:01:01,149 - INFO - Skipping already processed county: Hampden County, Massachusetts
+2025-04-06 10:01:01,149 - INFO - Skipping already processed county: Hampshire County, Massachusetts
+2025-04-06 10:01:01,150 - INFO - Skipping already processed county: Hampshire County, West Virginia
+2025-04-06 10:01:01,150 - INFO - Skipping already processed county: Hancock County, Georgia
+2025-04-06 10:01:01,150 - INFO - Skipping already processed county: Hancock County, Indiana
+2025-04-06 10:01:01,151 - INFO - Skipping already processed county: Hancock County, Maine
+2025-04-06 10:01:01,151 - INFO - Skipping already processed county: Hancock County, Ohio
+2025-04-06 10:01:01,152 - INFO - Skipping already processed county: Hancock County, Tennessee
+2025-04-06 10:01:01,152 - INFO - Skipping already processed county: Hancock County, West Virginia
+2025-04-06 10:01:01,153 - INFO - Skipping already processed county: Hanover County, Virginia
+2025-04-06 10:01:01,153 - INFO - Skipping already processed county: Hansford County, Texas
+2025-04-06 10:01:01,153 - INFO - Skipping already processed county: Haralson County, Georgia
+2025-04-06 10:01:01,153 - INFO - Skipping already processed county: Hardeman County, Tennessee
+2025-04-06 10:01:01,154 - INFO - Skipping already processed county: Hardeman County, Texas
+2025-04-06 10:01:01,155 - INFO - Skipping already processed county: Hardin County, Ohio
+2025-04-06 10:01:01,156 - INFO - Skipping already processed county: Hardin County, Tennessee
+2025-04-06 10:01:01,156 - INFO - Skipping already processed county: Hardin County, Texas
+2025-04-06 10:01:01,157 - INFO - Skipping already processed county: Harding County, New Mexico
+2025-04-06 10:01:01,157 - INFO - Skipping already processed county: Hardy County, West Virginia
+2025-04-06 10:01:01,157 - INFO - Skipping already processed county: Harnett County, North Carolina
+2025-04-06 10:01:01,158 - INFO - Skipping already processed county: Harney County, Oregon
+2025-04-06 10:01:01,158 - INFO - Skipping already processed county: Harper County, Kansas
+2025-04-06 10:01:01,158 - INFO - Skipping already processed county: Harris County, Georgia
+2025-04-06 10:01:01,159 - INFO - Skipping already processed county: Harris County, Texas
+2025-04-06 10:01:01,159 - INFO - Skipping already processed county: Harrison County, Indiana
+2025-04-06 10:01:01,160 - INFO - Skipping already processed county: Harrison County, Ohio
+2025-04-06 10:01:01,160 - INFO - Skipping already processed county: Harrison County, Texas
+2025-04-06 10:01:01,161 - INFO - Skipping already processed county: Harrison County, West Virginia
+2025-04-06 10:01:01,161 - INFO - Skipping already processed county: Hart County, Georgia
+2025-04-06 10:01:01,161 - INFO - Skipping already processed county: Hartford County, Connecticut
+2025-04-06 10:01:01,162 - INFO - Skipping already processed county: Hartley County, Texas
+2025-04-06 10:01:01,162 - INFO - Skipping already processed county: Harvey County, Kansas
+2025-04-06 10:01:01,162 - INFO - Skipping already processed county: Haskell County, Kansas
+2025-04-06 10:01:01,163 - INFO - Skipping already processed county: Haskell County, Texas
+2025-04-06 10:01:01,163 - INFO - Skipping already processed county: Hawai\u02bbi County, Hawaii
+2025-04-06 10:01:01,165 - INFO - Skipping already processed county: Hawkins County, Tennessee
+2025-04-06 10:01:01,165 - INFO - Skipping already processed county: Hays County, Texas
+2025-04-06 10:01:01,165 - INFO - Skipping already processed county: Haywood County, North Carolina
+2025-04-06 10:01:01,166 - INFO - Skipping already processed county: Haywood County, Tennessee
+2025-04-06 10:01:01,166 - INFO - Skipping already processed county: Heard County, Georgia
+2025-04-06 10:01:01,167 - INFO - Skipping already processed county: Hemphill County, Texas
+2025-04-06 10:01:01,167 - INFO - Skipping already processed county: Hempstead County, Arkansas
+2025-04-06 10:01:01,167 - INFO - Skipping already processed county: Henderson County, North Carolina
+2025-04-06 10:01:01,168 - INFO - Skipping already processed county: Henderson County, Tennessee
+2025-04-06 10:01:01,168 - INFO - Skipping already processed county: Henderson County, Texas
+2025-04-06 10:01:01,168 - INFO - Skipping already processed county: Hendricks County, Indiana
+2025-04-06 10:01:01,169 - INFO - Skipping already processed county: Hennepin County, Minnesota
+2025-04-06 10:01:01,169 - INFO - Skipping already processed county: Henrico County, Virginia
+2025-04-06 10:01:01,169 - INFO - Skipping already processed county: Henry County, Georgia
+2025-04-06 10:01:01,170 - INFO - Skipping already processed county: Henry County, Indiana
+2025-04-06 10:01:01,170 - INFO - Skipping already processed county: Henry County, Ohio
+2025-04-06 10:01:01,170 - INFO - Skipping already processed county: Henry County, Tennessee
+2025-04-06 10:01:01,170 - INFO - Skipping already processed county: Henry County, Virginia
+2025-04-06 10:01:01,172 - INFO - Skipping already processed county: Herkimer County, New York
+2025-04-06 10:01:01,173 - INFO - Skipping already processed county: Hertford County, North Carolina
+2025-04-06 10:01:01,173 - INFO - Skipping already processed county: Hettinger County, North Dakota
+2025-04-06 10:01:01,174 - INFO - Skipping already processed county: Hickman County, Tennessee
+2025-04-06 10:01:01,174 - INFO - Skipping already processed county: Hidalgo County, New Mexico
+2025-04-06 10:01:01,174 - INFO - Skipping already processed county: Hidalgo County, Texas
+2025-04-06 10:01:01,175 - INFO - Skipping already processed county: Highland County, Ohio
+2025-04-06 10:01:01,175 - INFO - Skipping already processed county: Highland County, Virginia
+2025-04-06 10:01:01,175 - INFO - Skipping already processed county: Hill County, Texas
+2025-04-06 10:01:01,176 - INFO - Skipping already processed county: Hillsborough County, New Hampshire
+2025-04-06 10:01:01,176 - INFO - Skipping already processed county: Hillsdale County, Michigan
+2025-04-06 10:01:01,176 - INFO - Skipping already processed county: Hocking County, Ohio
+2025-04-06 10:01:01,177 - INFO - Skipping already processed county: Hockley County, Texas
+2025-04-06 10:01:01,177 - INFO - Skipping already processed county: Hodgeman County, Kansas
+2025-04-06 10:01:01,178 - INFO - Skipping already processed county: Hoke County, North Carolina
+2025-04-06 10:01:01,178 - INFO - Skipping already processed county: Holmes County, Ohio
+2025-04-06 10:01:01,179 - INFO - Skipping already processed county: Honolulu County, Hawaii
+2025-04-06 10:01:01,179 - INFO - Skipping already processed county: Hood County, Texas
+2025-04-06 10:01:01,179 - INFO - Skipping already processed county: Hood River County, Oregon
+2025-04-06 10:01:01,180 - INFO - Skipping already processed county: Hopkins County, Texas
+2025-04-06 10:01:01,180 - INFO - Skipping already processed county: Hot Spring County, Arkansas
+2025-04-06 10:01:01,180 - INFO - Skipping already processed county: Houghton County, Michigan
+2025-04-06 10:01:01,181 - INFO - Skipping already processed county: Houston County, Georgia
+2025-04-06 10:01:01,181 - INFO - Skipping already processed county: Houston County, Minnesota
+2025-04-06 10:01:01,181 - INFO - Skipping already processed county: Houston County, Tennessee
+2025-04-06 10:01:01,182 - INFO - Skipping already processed county: Houston County, Texas
+2025-04-06 10:01:01,182 - INFO - Skipping already processed county: Howard County, Arkansas
+2025-04-06 10:01:01,182 - INFO - Skipping already processed county: Howard County, Indiana
+2025-04-06 10:01:01,183 - INFO - Skipping already processed county: Howard County, Texas
+2025-04-06 10:01:01,183 - INFO - Skipping already processed county: Hubbard County, Minnesota
+2025-04-06 10:01:01,184 - INFO - Skipping already processed county: Hudspeth County, Texas
+2025-04-06 10:01:01,184 - INFO - Skipping already processed county: Humboldt County, California
+2025-04-06 10:01:01,184 - INFO - Skipping already processed county: Humboldt County, Nevada
+2025-04-06 10:01:01,185 - INFO - Skipping already processed county: Humphreys County, Tennessee
+2025-04-06 10:01:01,185 - INFO - Skipping already processed county: Hunt County, Texas
+2025-04-06 10:01:01,185 - INFO - Skipping already processed county: Huntingdon County, Pennsylvania
+2025-04-06 10:01:01,186 - INFO - Skipping already processed county: Huntington County, Indiana
+2025-04-06 10:01:01,186 - INFO - Skipping already processed county: Huron County, Michigan
+2025-04-06 10:01:01,186 - INFO - Skipping already processed county: Huron County, Ohio
+2025-04-06 10:01:01,186 - INFO - Skipping already processed county: Hutchinson County, Texas
+2025-04-06 10:01:01,187 - INFO - Processing county: Hyde County, state: North Carolina
+2025-04-06 10:01:04,402 - INFO - Navigating to: https://data.census.gov/all?q=Hyde+County%2C+North+Carolina (Attempt 1/3)
+2025-04-06 10:01:17,467 - INFO - Scraping demographics for Hyde County, North Carolina...
+2025-04-06 10:01:32,978 - INFO - Population: Total Population:4,589
+2025-04-06 10:01:33,018 - INFO - Income: Median Household Income:$47,338
+2025-04-06 10:01:33,042 - INFO - Employment Rate: Employment Rate:40.0%
+2025-04-06 10:01:37,647 - ERROR - Error scraping population growth rate for Hyde County, North Carolina: Mouse.move: Target page, context or browser has been closed
+2025-04-06 10:01:37,728 - INFO - --------------------------------------------------------------------------------
+2025-04-06 10:01:37,729 - INFO - Processing county: Idaho County, state: Idaho

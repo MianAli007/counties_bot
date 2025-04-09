@@ -1,0 +1,812 @@
+2025-04-01 15:16:56,031 - INFO - Script started
+2025-04-01 15:16:56,032 - INFO - Starting the main function
+2025-04-01 15:16:56,589 - INFO - Launching the browser
+2025-04-01 15:16:57,104 - INFO - Browser launched and new page created
+2025-04-01 15:16:57,111 - INFO - Output directory created at D:\code\cj_carter_all\demographics_data
+2025-04-01 15:16:57,112 - INFO - CSV file path set to D:\code\cj_carter_all\demographics_data\data.csv
+2025-04-01 15:16:57,130 - INFO - Loaded 1904 counties from file
+2025-04-01 15:16:57,131 - INFO - Loaded 4 already processed counties
+2025-04-01 15:16:57,132 - INFO - Skipping already processed county: Accomack County, Virginia
+2025-04-01 15:16:57,134 - INFO - Skipping already processed county: Ada County, Idaho
+2025-04-01 15:16:57,139 - INFO - Skipping already processed county: Adams County, Idaho
+2025-04-01 15:16:57,142 - INFO - Processing county: Adams County, state: Indiana
+2025-04-01 15:17:03,750 - INFO - Navigating to: https://data.census.gov/all?q=Adams+County%2C+Indiana (Attempt 1/3)
+2025-04-01 15:17:12,592 - INFO - Scraping demographics for Adams County, Indiana...
+2025-04-01 15:17:12,867 - INFO - Population: Total Population:35,809
+2025-04-01 15:17:12,897 - INFO - Income: Median Household Income:$63,128
+2025-04-01 15:17:12,933 - INFO - Employment Rate: Employment Rate:59.6%
+2025-04-01 15:17:12,945 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:17:12,946 - INFO - Processing county: Adams County, state: North Dakota
+2025-04-01 15:17:17,509 - INFO - Navigating to: https://data.census.gov/all?q=Adams+County%2C+North+Dakota (Attempt 1/3)
+2025-04-01 15:17:18,617 - INFO - Scraping demographics for Adams County, North Dakota...
+2025-04-01 15:17:34,991 - INFO - Population: Total Population:2,200
+2025-04-01 15:17:35,007 - INFO - Income: Median Household Income:$55,417
+2025-04-01 15:17:35,027 - INFO - Employment Rate: Employment Rate:55.7%
+2025-04-01 15:17:35,031 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:17:35,031 - INFO - Processing county: Adams County, state: Ohio
+2025-04-01 15:17:39,455 - INFO - Navigating to: https://data.census.gov/all?q=Adams+County%2C+Ohio (Attempt 1/3)
+2025-04-01 15:17:44,858 - INFO - Scraping demographics for Adams County, Ohio...
+2025-04-01 15:17:53,170 - INFO - Population: Total Population:27,477
+2025-04-01 15:17:53,182 - INFO - Income: Median Household Income:$49,521
+2025-04-01 15:17:53,199 - INFO - Employment Rate: Employment Rate:47.7%
+2025-04-01 15:17:53,201 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:17:53,202 - INFO - Processing county: Adams County, state: Pennsylvania
+2025-04-01 15:18:00,080 - INFO - Navigating to: https://data.census.gov/all?q=Adams+County%2C+Pennsylvania (Attempt 1/3)
+2025-04-01 15:18:01,091 - INFO - Scraping demographics for Adams County, Pennsylvania...
+2025-04-01 15:18:35,191 - INFO - Population: Total Population:103,852
+2025-04-01 15:18:35,203 - INFO - Income: Median Household Income:$76,725
+2025-04-01 15:18:35,226 - INFO - Employment Rate: Employment Rate:62.0%
+2025-04-01 15:18:35,227 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:18:35,228 - INFO - Processing county: Adams County, state: Washington
+2025-04-01 15:18:41,233 - INFO - Navigating to: https://data.census.gov/all?q=Adams+County%2C+Washington (Attempt 1/3)
+2025-04-01 15:18:42,186 - INFO - Scraping demographics for Adams County, Washington...
+2025-04-01 15:18:49,025 - INFO - Population: Total Population:20,613
+2025-04-01 15:18:49,057 - INFO - Income: Median Household Income:$65,042
+2025-04-01 15:18:49,079 - INFO - Employment Rate: Employment Rate:59.0%
+2025-04-01 15:18:49,084 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:18:49,085 - INFO - Processing county: Adams County, state: Wisconsin
+2025-04-01 15:18:55,953 - INFO - Navigating to: https://data.census.gov/all?q=Adams+County%2C+Wisconsin (Attempt 1/3)
+2025-04-01 15:18:57,355 - INFO - Scraping demographics for Adams County, Wisconsin...
+2025-04-01 15:19:01,689 - INFO - Population: Total Population:20,654
+2025-04-01 15:19:01,707 - INFO - Income: Median Household Income:$59,153
+2025-04-01 15:19:01,736 - INFO - Employment Rate: Employment Rate:45.6%
+2025-04-01 15:19:01,738 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:19:01,739 - INFO - Processing county: Aitkin County, state: Minnesota
+2025-04-01 15:19:04,990 - INFO - Navigating to: https://data.census.gov/all?q=Aitkin+County%2C+Minnesota (Attempt 1/3)
+2025-04-01 15:19:05,962 - INFO - Scraping demographics for Aitkin County, Minnesota...
+2025-04-01 15:19:11,193 - INFO - Population: Total Population:15,697
+2025-04-01 15:19:11,212 - INFO - Income: Median Household Income:$59,498
+2025-04-01 15:19:11,247 - INFO - Employment Rate: Employment Rate:45.4%
+2025-04-01 15:19:11,249 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:19:11,250 - INFO - Processing county: Alamance County, state: North Carolina
+2025-04-01 15:19:15,974 - INFO - Navigating to: https://data.census.gov/all?q=Alamance+County%2C+North+Carolina (Attempt 1/3)
+2025-04-01 15:19:16,871 - INFO - Scraping demographics for Alamance County, North Carolina...
+2025-04-01 15:19:55,331 - INFO - Population: Total Population:171,415
+2025-04-01 15:19:55,345 - INFO - Income: Median Household Income:$65,633
+2025-04-01 15:19:55,362 - INFO - Employment Rate: Employment Rate:62.5%
+2025-04-01 15:19:55,363 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:19:55,364 - INFO - Processing county: Alameda County, state: California
+2025-04-01 15:19:59,291 - INFO - Navigating to: https://data.census.gov/all?q=Alameda+County%2C+California (Attempt 1/3)
+2025-04-01 15:20:02,716 - INFO - Scraping demographics for Alameda County, California...
+2025-04-01 15:20:18,237 - INFO - Population: Total Population:1,682,353
+2025-04-01 15:20:18,253 - INFO - Income: Median Household Income:$119,931
+2025-04-01 15:20:18,271 - INFO - Employment Rate: Employment Rate:63.3%
+2025-04-01 15:20:18,273 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:20:18,276 - INFO - Processing county: Albany County, state: New York
+2025-04-01 15:20:23,340 - INFO - Navigating to: https://data.census.gov/all?q=Albany+County%2C+New+York (Attempt 1/3)
+2025-04-01 15:20:26,162 - INFO - Scraping demographics for Albany County, New York...
+2025-04-01 15:20:36,226 - INFO - Population: Total Population:314,848
+2025-04-01 15:20:36,273 - INFO - Income: Median Household Income:$81,335
+2025-04-01 15:20:36,333 - INFO - Employment Rate: Employment Rate:61.1%
+2025-04-01 15:20:36,337 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:20:36,338 - INFO - Processing county: Albemarle County, state: Virginia
+2025-04-01 15:20:40,131 - INFO - Navigating to: https://data.census.gov/all?q=Albemarle+County%2C+Virginia (Attempt 1/3)
+2025-04-01 15:20:41,457 - INFO - Scraping demographics for Albemarle County, Virginia...
+2025-04-01 15:21:16,846 - INFO - Population: Total Population:112,395
+2025-04-01 15:21:16,873 - INFO - Income: Median Household Income:$103,413
+2025-04-01 15:21:16,907 - INFO - Employment Rate: Employment Rate:60.7%
+2025-04-01 15:21:16,911 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:21:16,912 - INFO - Processing county: Alcona County, state: Michigan
+2025-04-01 15:21:23,914 - INFO - Navigating to: https://data.census.gov/all?q=Alcona+County%2C+Michigan (Attempt 1/3)
+2025-04-01 15:21:25,946 - INFO - Scraping demographics for Alcona County, Michigan...
+2025-04-01 15:21:40,421 - INFO - Population: Total Population:10,167
+2025-04-01 15:21:40,457 - INFO - Income: Median Household Income:$53,568
+2025-04-01 15:21:40,500 - INFO - Employment Rate: Employment Rate:39.7%
+2025-04-01 15:21:40,505 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:21:40,506 - INFO - Processing county: Aleutians East Borough, state: Alaska
+2025-04-01 15:21:46,107 - INFO - Navigating to: https://data.census.gov/all?q=Aleutians+East+Borough%2C+Alaska (Attempt 1/3)
+2025-04-01 15:21:47,538 - INFO - Scraping demographics for Aleutians East Borough, Alaska...
+2025-04-01 15:22:00,345 - INFO - Population: Total Population:3,420
+2025-04-01 15:22:00,421 - INFO - Income: Median Household Income:$72,692
+2025-04-01 15:22:00,507 - INFO - Employment Rate: Employment Rate:75.5%
+2025-04-01 15:22:00,515 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:22:00,516 - INFO - Processing county: Aleutians West Census Area, state: Alaska
+2025-04-01 15:22:04,742 - INFO - Navigating to: https://data.census.gov/all?q=Aleutians+West+Census+Area%2C+Alaska (Attempt 1/3)
+2025-04-01 15:22:06,242 - INFO - Scraping demographics for Aleutians West Census Area, Alaska...
+2025-04-01 15:22:19,207 - INFO - Population: Total Population:5,232
+2025-04-01 15:22:19,257 - INFO - Income: Median Household Income:$107,344
+2025-04-01 15:22:19,328 - INFO - Employment Rate: Employment Rate:79.6%
+2025-04-01 15:22:19,333 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:22:19,334 - INFO - Processing county: Alexander County, state: North Carolina
+2025-04-01 15:22:26,068 - INFO - Navigating to: https://data.census.gov/all?q=Alexander+County%2C+North+Carolina (Attempt 1/3)
+2025-04-01 15:22:27,846 - INFO - Scraping demographics for Alexander County, North Carolina...
+2025-04-01 15:22:40,692 - INFO - Population: Total Population:36,444
+2025-04-01 15:22:40,720 - INFO - Income: Median Household Income:$65,268
+2025-04-01 15:22:40,749 - INFO - Employment Rate: Employment Rate:53.0%
+2025-04-01 15:22:40,753 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:22:40,755 - INFO - Processing county: Alger County, state: Michigan
+2025-04-01 15:22:44,012 - INFO - Navigating to: https://data.census.gov/all?q=Alger+County%2C+Michigan (Attempt 1/3)
+2025-04-01 15:22:46,290 - INFO - Scraping demographics for Alger County, Michigan...
+2025-04-01 15:23:06,620 - INFO - Population: Total Population:8,842
+2025-04-01 15:23:06,648 - INFO - Income: Median Household Income:$59,406
+2025-04-01 15:23:06,682 - INFO - Employment Rate: Employment Rate:38.1%
+2025-04-01 15:23:06,687 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:23:06,688 - INFO - Processing county: Allegan County, state: Michigan
+2025-04-01 15:23:12,650 - INFO - Navigating to: https://data.census.gov/all?q=Allegan+County%2C+Michigan (Attempt 1/3)
+2025-04-01 15:23:14,201 - INFO - Scraping demographics for Allegan County, Michigan...
+2025-04-01 15:23:23,473 - INFO - Population: Total Population:120,502
+2025-04-01 15:23:23,514 - INFO - Income: Median Household Income:$78,779
+2025-04-01 15:23:23,558 - INFO - Employment Rate: Employment Rate:61.7%
+2025-04-01 15:23:23,562 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:23:23,563 - INFO - Processing county: Allegany County, state: New York
+2025-04-01 15:23:30,202 - INFO - Navigating to: https://data.census.gov/all?q=Allegany+County%2C+New+York (Attempt 1/3)
+2025-04-01 15:23:31,752 - INFO - Scraping demographics for Allegany County, New York...
+2025-04-01 15:23:45,938 - INFO - Population: Total Population:46,456
+2025-04-01 15:23:45,959 - INFO - Income: Median Household Income:$61,233
+2025-04-01 15:23:45,982 - INFO - Employment Rate: Employment Rate:50.1%
+2025-04-01 15:23:45,985 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:23:45,986 - INFO - Processing county: Alleghany County, state: North Carolina
+2025-04-01 15:23:50,553 - INFO - Navigating to: https://data.census.gov/all?q=Alleghany+County%2C+North+Carolina (Attempt 1/3)
+2025-04-01 15:23:52,571 - INFO - Scraping demographics for Alleghany County, North Carolina...
+2025-04-01 15:24:07,328 - INFO - Population: Total Population:10,888
+2025-04-01 15:24:07,352 - INFO - Income: Median Household Income:$44,272
+2025-04-01 15:24:07,379 - INFO - Employment Rate: Employment Rate:45.2%
+2025-04-01 15:24:07,383 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:24:07,384 - INFO - Processing county: Alleghany County, state: Virginia
+2025-04-01 15:24:11,040 - INFO - Navigating to: https://data.census.gov/all?q=Alleghany+County%2C+Virginia (Attempt 1/3)
+2025-04-01 15:24:12,656 - INFO - Scraping demographics for Alleghany County, Virginia...
+2025-04-01 15:24:34,298 - INFO - Population: Total Population:15,223
+2025-04-01 15:24:34,323 - INFO - Income: Median Household Income:$55,160
+2025-04-01 15:24:34,350 - INFO - Employment Rate: Employment Rate:48.3%
+2025-04-01 15:24:34,353 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:24:34,354 - INFO - Processing county: Allegheny County, state: Pennsylvania
+2025-04-01 15:24:39,099 - INFO - Navigating to: https://data.census.gov/all?q=Allegheny+County%2C+Pennsylvania (Attempt 1/3)
+2025-04-01 15:24:40,602 - INFO - Scraping demographics for Allegheny County, Pennsylvania...
+2025-04-01 15:24:55,271 - INFO - Population: Total Population:1,250,578
+2025-04-01 15:24:55,288 - INFO - Income: Median Household Income:$76,615
+2025-04-01 15:24:55,309 - INFO - Employment Rate: Employment Rate:62.5%
+2025-04-01 15:24:55,311 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:24:55,312 - INFO - Processing county: Allen County, state: Indiana
+2025-04-01 15:24:59,189 - INFO - Navigating to: https://data.census.gov/all?q=Allen+County%2C+Indiana (Attempt 1/3)
+2025-04-01 15:25:00,938 - INFO - Scraping demographics for Allen County, Indiana...
+2025-04-01 15:25:46,057 - INFO - Population: Total Population:385,410
+2025-04-01 15:25:46,080 - INFO - Income: Median Household Income:$65,704
+2025-04-01 15:25:46,101 - INFO - Employment Rate: Employment Rate:63.6%
+2025-04-01 15:25:46,105 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:25:46,105 - INFO - Processing county: Allen County, state: Kansas
+2025-04-01 15:25:50,375 - INFO - Navigating to: https://data.census.gov/all?q=Allen+County%2C+Kansas (Attempt 1/3)
+2025-04-01 15:25:52,004 - INFO - Scraping demographics for Allen County, Kansas...
+2025-04-01 15:26:05,926 - INFO - Population: Total Population:12,526
+2025-04-01 15:26:05,952 - INFO - Income: Median Household Income:$57,618
+2025-04-01 15:26:05,976 - INFO - Employment Rate: Employment Rate:56.0%
+2025-04-01 15:26:05,980 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:26:05,981 - INFO - Processing county: Allen County, state: Ohio
+2025-04-01 15:26:11,537 - INFO - Navigating to: https://data.census.gov/all?q=Allen+County%2C+Ohio (Attempt 1/3)
+2025-04-01 15:26:13,185 - INFO - Scraping demographics for Allen County, Ohio...
+2025-04-01 15:26:22,681 - INFO - Population: Total Population:102,206
+2025-04-01 15:26:22,707 - INFO - Income: Median Household Income:$66,891
+2025-04-01 15:26:22,739 - INFO - Employment Rate: Employment Rate:59.9%
+2025-04-01 15:26:22,744 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:26:22,746 - INFO - Processing county: Alpena County, state: Michigan
+2025-04-01 15:26:28,573 - INFO - Navigating to: https://data.census.gov/all?q=Alpena+County%2C+Michigan (Attempt 1/3)
+2025-04-01 15:26:30,565 - INFO - Scraping demographics for Alpena County, Michigan...
+2025-04-01 15:26:41,937 - INFO - Population: Total Population:28,907
+2025-04-01 15:26:41,964 - INFO - Income: Median Household Income:$51,909
+2025-04-01 15:26:41,995 - INFO - Employment Rate: Employment Rate:49.6%
+2025-04-01 15:26:42,009 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:26:42,010 - INFO - Processing county: Alpine County, state: California
+2025-04-01 15:26:46,558 - INFO - Navigating to: https://data.census.gov/all?q=Alpine+County%2C+California (Attempt 1/3)
+2025-04-01 15:26:49,209 - INFO - Scraping demographics for Alpine County, California...
+2025-04-01 15:26:55,685 - INFO - Population: Total Population:1,204
+2025-04-01 15:26:55,704 - INFO - Income: Median Household Income:$110,781
+2025-04-01 15:26:55,736 - INFO - Employment Rate: Employment Rate:56.9%
+2025-04-01 15:26:55,740 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:26:55,741 - INFO - Processing county: Amador County, state: California
+2025-04-01 15:27:00,856 - INFO - Navigating to: https://data.census.gov/all?q=Amador+County%2C+California (Attempt 1/3)
+2025-04-01 15:27:02,040 - INFO - Scraping demographics for Amador County, California...
+2025-04-01 15:27:16,009 - INFO - Population: Total Population:40,474
+2025-04-01 15:27:16,036 - INFO - Income: Median Household Income:$81,526
+2025-04-01 15:27:16,062 - INFO - Employment Rate: Employment Rate:45.1%
+2025-04-01 15:27:16,064 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:27:16,065 - INFO - Processing county: Amelia County, state: Virginia
+2025-04-01 15:27:19,295 - INFO - Navigating to: https://data.census.gov/all?q=Amelia+County%2C+Virginia (Attempt 1/3)
+2025-04-01 15:27:21,228 - INFO - Scraping demographics for Amelia County, Virginia...
+2025-04-01 15:27:25,913 - INFO - Population: Total Population:13,265
+2025-04-01 15:27:25,943 - INFO - Income: Median Household Income:$66,339
+2025-04-01 15:27:25,974 - INFO - Employment Rate: Employment Rate:56.1%
+2025-04-01 15:27:25,977 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:27:25,978 - INFO - Processing county: Amherst County, state: Virginia
+2025-04-01 15:27:32,016 - INFO - Navigating to: https://data.census.gov/all?q=Amherst+County%2C+Virginia (Attempt 1/3)
+2025-04-01 15:27:33,587 - INFO - Scraping demographics for Amherst County, Virginia...
+2025-04-01 15:27:46,579 - INFO - Population: Total Population:31,307
+2025-04-01 15:27:46,608 - INFO - Income: Median Household Income:$67,298
+2025-04-01 15:27:46,644 - INFO - Employment Rate: Employment Rate:57.8%
+2025-04-01 15:27:46,646 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:27:46,647 - INFO - Processing county: Municipality of Anchorage, state: Alaska (a consolidated city-borough under Alaska law)
+2025-04-01 15:27:52,228 - INFO - Navigating to: https://data.census.gov/all?q=Municipality+of+Anchorage%2C+Alaska+%28a+consolidated+city-borough+under+Alaska+law%29 (Attempt 1/3)
+2025-04-01 15:27:53,918 - INFO - Scraping demographics for Municipality of Anchorage, Alaska (a consolidated city-borough under Alaska law)...
+2025-04-01 15:28:17,289 - INFO - Population: Total Population:733,391
+2025-04-01 15:28:17,333 - INFO - Income: Median Household Income:$86,631
+2025-04-01 15:28:17,377 - INFO - Employment Rate: Employment Rate:59.8%
+2025-04-01 15:28:17,384 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:28:17,387 - INFO - Processing county: Anderson County, state: Kansas
+2025-04-01 15:28:23,863 - INFO - Navigating to: https://data.census.gov/all?q=Anderson+County%2C+Kansas (Attempt 1/3)
+2025-04-01 15:28:26,041 - INFO - Scraping demographics for Anderson County, Kansas...
+2025-04-01 15:28:30,777 - INFO - Population: Total Population:7,836
+2025-04-01 15:28:30,832 - INFO - Income: Median Household Income:$64,925
+2025-04-01 15:28:30,939 - INFO - Employment Rate: Employment Rate:58.1%
+2025-04-01 15:28:30,944 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:28:30,945 - INFO - Processing county: Anderson County, state: Tennessee
+2025-04-01 15:28:35,552 - INFO - Navigating to: https://data.census.gov/all?q=Anderson+County%2C+Tennessee (Attempt 1/3)
+2025-04-01 15:28:37,582 - INFO - Scraping demographics for Anderson County, Tennessee...
+2025-04-01 15:29:06,311 - INFO - Population: Total Population:77,123
+2025-04-01 15:29:06,339 - INFO - Income: Median Household Income:$57,652
+2025-04-01 15:29:06,369 - INFO - Employment Rate: Employment Rate:55.8%
+2025-04-01 15:29:06,372 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:29:06,373 - INFO - Processing county: Anderson County, state: Texas
+2025-04-01 15:29:12,109 - INFO - Navigating to: https://data.census.gov/all?q=Anderson+County%2C+Texas (Attempt 1/3)
+2025-04-01 15:29:14,061 - INFO - Scraping demographics for Anderson County, Texas...
+2025-04-01 15:29:27,560 - INFO - Population: Total Population:57,922
+2025-04-01 15:29:27,590 - INFO - Income: Median Household Income:$58,846
+2025-04-01 15:29:27,622 - INFO - Employment Rate: Employment Rate:42.7%
+2025-04-01 15:29:27,626 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:29:27,627 - INFO - Processing county: Andrews County, state: Texas
+2025-04-01 15:29:32,760 - INFO - Navigating to: https://data.census.gov/all?q=Andrews+County%2C+Texas (Attempt 1/3)
+2025-04-01 15:29:34,476 - INFO - Scraping demographics for Andrews County, Texas...
+2025-04-01 15:29:45,153 - INFO - Population: Total Population:18,610
+2025-04-01 15:29:45,184 - INFO - Income: Median Household Income:$76,902
+2025-04-01 15:29:45,209 - INFO - Employment Rate: Employment Rate:66.2%
+2025-04-01 15:29:45,214 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:29:45,215 - INFO - Processing county: Androscoggin County, state: Maine
+2025-04-01 15:29:52,033 - INFO - Navigating to: https://data.census.gov/all?q=Androscoggin+County%2C+Maine (Attempt 1/3)
+2025-04-01 15:29:53,385 - INFO - Scraping demographics for Androscoggin County, Maine...
+2025-04-01 15:30:33,897 - INFO - Population: Total Population:111,139
+2025-04-01 15:30:33,921 - INFO - Income: Median Household Income:$63,404
+2025-04-01 15:30:33,950 - INFO - Employment Rate: Employment Rate:60.5%
+2025-04-01 15:30:33,953 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:30:33,953 - INFO - Processing county: Angelina County, state: Texas
+2025-04-01 15:30:37,585 - INFO - Navigating to: https://data.census.gov/all?q=Angelina+County%2C+Texas (Attempt 1/3)
+2025-04-01 15:30:42,263 - INFO - Scraping demographics for Angelina County, Texas...
+2025-04-01 15:30:49,952 - INFO - Population: Total Population:86,395
+2025-04-01 15:30:49,984 - INFO - Income: Median Household Income:$56,864
+2025-04-01 15:30:50,041 - INFO - Employment Rate: Employment Rate:56.4%
+2025-04-01 15:30:50,045 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:30:50,046 - INFO - Processing county: Anoka County, state: Minnesota
+2025-04-01 15:30:55,412 - INFO - Navigating to: https://data.census.gov/all?q=Anoka+County%2C+Minnesota (Attempt 1/3)
+2025-04-01 15:30:56,996 - INFO - Scraping demographics for Anoka County, Minnesota...
+2025-04-01 15:31:08,271 - INFO - Population: Total Population:363,887
+2025-04-01 15:31:08,294 - INFO - Income: Median Household Income:$96,812
+2025-04-01 15:31:08,319 - INFO - Employment Rate: Employment Rate:68.3%
+2025-04-01 15:31:08,322 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:31:08,323 - INFO - Processing county: Anson County, state: North Carolina
+2025-04-01 15:31:12,523 - INFO - Navigating to: https://data.census.gov/all?q=Anson+County%2C+North+Carolina (Attempt 1/3)
+2025-04-01 15:31:14,203 - INFO - Scraping demographics for Anson County, North Carolina...
+2025-04-01 15:31:19,537 - INFO - Population: Total Population:22,055
+2025-04-01 15:31:19,563 - INFO - Income: Median Household Income:$44,245
+2025-04-01 15:31:19,591 - INFO - Employment Rate: Employment Rate:46.7%
+2025-04-01 15:31:19,595 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:31:19,595 - INFO - Processing county: Antrim County, state: Michigan
+2025-04-01 15:31:24,084 - INFO - Navigating to: https://data.census.gov/all?q=Antrim+County%2C+Michigan (Attempt 1/3)
+2025-04-01 15:31:25,709 - INFO - Scraping demographics for Antrim County, Michigan...
+2025-04-01 15:31:30,305 - INFO - Population: Total Population:23,431
+2025-04-01 15:31:30,364 - INFO - Income: Median Household Income:$71,421
+2025-04-01 15:31:30,401 - INFO - Employment Rate: Employment Rate:53.2%
+2025-04-01 15:31:30,407 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:31:30,408 - INFO - Processing county: Appling County, state: Georgia
+2025-04-01 15:31:36,525 - INFO - Navigating to: https://data.census.gov/all?q=Appling+County%2C+Georgia (Attempt 1/3)
+2025-04-01 15:31:37,958 - INFO - Scraping demographics for Appling County, Georgia...
+2025-04-01 15:31:40,921 - INFO - Population: Total Population:18,444
+2025-04-01 15:31:41,024 - INFO - Income: Median Household Income:$43,728
+2025-04-01 15:31:41,067 - INFO - Employment Rate: Employment Rate:50.5%
+2025-04-01 15:31:41,075 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:31:41,077 - INFO - Processing county: Appomattox County, state: Virginia
+2025-04-01 15:31:44,438 - INFO - Navigating to: https://data.census.gov/all?q=Appomattox+County%2C+Virginia (Attempt 1/3)
+2025-04-01 15:31:46,079 - INFO - Scraping demographics for Appomattox County, Virginia...
+2025-04-01 15:32:03,636 - INFO - Population: Total Population:16,119
+2025-04-01 15:32:03,661 - INFO - Income: Median Household Income:$62,337
+2025-04-01 15:32:03,686 - INFO - Employment Rate: Employment Rate:57.6%
+2025-04-01 15:32:03,688 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:32:03,689 - INFO - Processing county: Aransas County, state: Texas
+2025-04-01 15:32:08,304 - INFO - Navigating to: https://data.census.gov/all?q=Aransas+County%2C+Texas (Attempt 1/3)
+2025-04-01 15:32:09,981 - INFO - Scraping demographics for Aransas County, Texas...
+2025-04-01 15:32:15,308 - INFO - Population: Total Population:23,830
+2025-04-01 15:32:15,362 - INFO - Income: Median Household Income:$61,754
+2025-04-01 15:32:15,396 - INFO - Employment Rate: Employment Rate:44.2%
+2025-04-01 15:32:15,398 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:32:15,399 - INFO - Processing county: Archer County, state: Texas
+2025-04-01 15:32:19,458 - INFO - Navigating to: https://data.census.gov/all?q=Archer+County%2C+Texas (Attempt 1/3)
+2025-04-01 15:32:21,064 - INFO - Scraping demographics for Archer County, Texas...
+2025-04-01 15:32:33,491 - INFO - Population: Total Population:8,560
+2025-04-01 15:32:33,515 - INFO - Income: Median Household Income:$71,958
+2025-04-01 15:32:33,540 - INFO - Employment Rate: Employment Rate:57.9%
+2025-04-01 15:32:33,543 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:32:33,544 - INFO - Processing county: Arenac County, state: Michigan
+2025-04-01 15:32:39,560 - INFO - Navigating to: https://data.census.gov/all?q=Arenac+County%2C+Michigan (Attempt 1/3)
+2025-04-01 15:32:41,228 - INFO - Scraping demographics for Arenac County, Michigan...
+2025-04-01 15:33:08,004 - INFO - Population: Total Population:15,002
+2025-04-01 15:33:08,033 - INFO - Income: Median Household Income:$56,989
+2025-04-01 15:33:08,058 - INFO - Employment Rate: Employment Rate:49.7%
+2025-04-01 15:33:08,061 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:33:08,062 - INFO - Processing county: Arkansas County, state: Arkansas
+2025-04-01 15:33:13,083 - INFO - Navigating to: https://data.census.gov/all?q=Arkansas+County%2C+Arkansas (Attempt 1/3)
+2025-04-01 15:33:14,900 - INFO - Scraping demographics for Arkansas County, Arkansas...
+2025-04-01 15:33:29,474 - INFO - Population: Total Population:17,149
+2025-04-01 15:33:29,495 - INFO - Income: Median Household Income:$60,831
+2025-04-01 15:33:29,519 - INFO - Employment Rate: Employment Rate:56.4%
+2025-04-01 15:33:29,521 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:33:29,522 - INFO - Processing county: Arlington County, state: Virginia
+2025-04-01 15:33:35,944 - INFO - Navigating to: https://data.census.gov/all?q=Arlington+County%2C+Virginia (Attempt 1/3)
+2025-04-01 15:33:37,622 - INFO - Scraping demographics for Arlington County, Virginia...
+2025-04-01 15:33:49,109 - INFO - Population: Total Population:238,643
+2025-04-01 15:33:49,138 - INFO - Income: Median Household Income:$140,219
+2025-04-01 15:33:49,164 - INFO - Employment Rate: Employment Rate:73.9%
+2025-04-01 15:33:49,166 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:33:49,167 - INFO - Processing county: Armstrong County, state: Pennsylvania
+2025-04-01 15:33:55,519 - INFO - Navigating to: https://data.census.gov/all?q=Armstrong+County%2C+Pennsylvania (Attempt 1/3)
+2025-04-01 15:33:57,460 - INFO - Scraping demographics for Armstrong County, Pennsylvania...
+2025-04-01 15:34:28,251 - INFO - Population: Total Population:65,558
+2025-04-01 15:34:28,274 - INFO - Income: Median Household Income:$61,836
+2025-04-01 15:34:28,299 - INFO - Employment Rate: Employment Rate:55.0%
+2025-04-01 15:34:28,302 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:34:28,303 - INFO - Processing county: Armstrong County, state: Texas
+2025-04-01 15:34:32,027 - INFO - Navigating to: https://data.census.gov/all?q=Armstrong+County%2C+Texas (Attempt 1/3)
+2025-04-01 15:34:34,031 - INFO - Scraping demographics for Armstrong County, Texas...
+2025-04-01 15:34:45,785 - INFO - Population: Total Population:1,848
+2025-04-01 15:34:45,806 - INFO - Income: Median Household Income:$68,462
+2025-04-01 15:34:45,831 - INFO - Employment Rate: Employment Rate:56.9%
+2025-04-01 15:34:45,834 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:34:45,835 - INFO - Processing county: Aroostook County, state: Maine
+2025-04-01 15:34:49,928 - INFO - Navigating to: https://data.census.gov/all?q=Aroostook+County%2C+Maine (Attempt 1/3)
+2025-04-01 15:34:51,392 - INFO - Scraping demographics for Aroostook County, Maine...
+2025-04-01 15:35:25,254 - INFO - Population: Total Population:67,105
+2025-04-01 15:35:25,285 - INFO - Income: Median Household Income:$57,030
+2025-04-01 15:35:25,316 - INFO - Employment Rate: Employment Rate:54.6%
+2025-04-01 15:35:25,321 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:35:25,322 - INFO - Processing county: Ashe County, state: North Carolina
+2025-04-01 15:35:31,027 - INFO - Navigating to: https://data.census.gov/all?q=Ashe+County%2C+North+Carolina (Attempt 1/3)
+2025-04-01 15:35:32,239 - INFO - Scraping demographics for Ashe County, North Carolina...
+2025-04-01 15:35:44,388 - INFO - Population: Total Population:26,577
+2025-04-01 15:35:44,424 - INFO - Income: Median Household Income:$50,827
+2025-04-01 15:35:44,456 - INFO - Employment Rate: Employment Rate:48.7%
+2025-04-01 15:35:44,460 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:35:44,460 - INFO - Processing county: Ashland County, state: Ohio
+2025-04-01 15:35:48,769 - INFO - Navigating to: https://data.census.gov/all?q=Ashland+County%2C+Ohio (Attempt 1/3)
+2025-04-01 15:35:49,897 - INFO - Scraping demographics for Ashland County, Ohio...
+2025-04-01 15:35:55,881 - INFO - Population: Total Population:52,447
+2025-04-01 15:35:55,990 - INFO - Income: Median Household Income:$64,991
+2025-04-01 15:35:56,026 - INFO - Employment Rate: Employment Rate:58.6%
+2025-04-01 15:35:56,029 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:35:56,029 - INFO - Processing county: Ashland County, state: Wisconsin
+2025-04-01 15:36:02,042 - INFO - Navigating to: https://data.census.gov/all?q=Ashland+County%2C+Wisconsin (Attempt 1/3)
+2025-04-01 15:36:03,325 - INFO - Scraping demographics for Ashland County, Wisconsin...
+2025-04-01 15:36:15,747 - INFO - Population: Total Population:16,027
+2025-04-01 15:36:15,774 - INFO - Income: Median Household Income:$57,645
+2025-04-01 15:36:15,809 - INFO - Employment Rate: Employment Rate:57.5%
+2025-04-01 15:36:15,813 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:36:15,814 - INFO - Processing county: Ashley County, state: Arkansas
+2025-04-01 15:36:22,166 - INFO - Navigating to: https://data.census.gov/all?q=Ashley+County%2C+Arkansas (Attempt 1/3)
+2025-04-01 15:36:23,375 - INFO - Scraping demographics for Ashley County, Arkansas...
+2025-04-01 15:36:35,618 - INFO - Population: Total Population:19,062
+2025-04-01 15:36:35,651 - INFO - Income: Median Household Income:$44,481
+2025-04-01 15:36:35,670 - INFO - Employment Rate: Employment Rate:43.6%
+2025-04-01 15:36:35,674 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:36:35,674 - INFO - Processing county: Ashtabula County, state: Ohio
+2025-04-01 15:36:39,750 - INFO - Navigating to: https://data.census.gov/all?q=Ashtabula+County%2C+Ohio (Attempt 1/3)
+2025-04-01 15:36:41,728 - INFO - Scraping demographics for Ashtabula County, Ohio...
+2025-04-01 15:37:14,712 - INFO - Population: Total Population:97,574
+2025-04-01 15:37:14,742 - INFO - Income: Median Household Income:$57,577
+2025-04-01 15:37:14,765 - INFO - Employment Rate: Employment Rate:55.3%
+2025-04-01 15:37:14,768 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:37:14,768 - INFO - Processing county: Asotin County, state: Washington
+2025-04-01 15:37:21,151 - INFO - Navigating to: https://data.census.gov/all?q=Asotin+County%2C+Washington (Attempt 1/3)
+2025-04-01 15:37:22,766 - INFO - Scraping demographics for Asotin County, Washington...
+2025-04-01 15:37:35,406 - INFO - Population: Total Population:22,285
+2025-04-01 15:37:35,434 - INFO - Income: Median Household Income:$69,107
+2025-04-01 15:37:35,465 - INFO - Employment Rate: Employment Rate:52.6%
+2025-04-01 15:37:35,470 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:37:35,471 - INFO - Processing county: Atascosa County, state: Texas
+2025-04-01 15:37:39,970 - INFO - Navigating to: https://data.census.gov/all?q=Atascosa+County%2C+Texas (Attempt 1/3)
+2025-04-01 15:37:41,646 - INFO - Scraping demographics for Atascosa County, Texas...
+2025-04-01 15:37:54,605 - INFO - Population: Total Population:48,981
+2025-04-01 15:37:54,632 - INFO - Income: Median Household Income:$69,413
+2025-04-01 15:37:54,660 - INFO - Employment Rate: Employment Rate:54.8%
+2025-04-01 15:37:54,663 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:37:54,664 - INFO - Processing county: Atchison County, state: Kansas
+2025-04-01 15:38:00,776 - INFO - Navigating to: https://data.census.gov/all?q=Atchison+County%2C+Kansas (Attempt 1/3)
+2025-04-01 15:38:02,475 - INFO - Scraping demographics for Atchison County, Kansas...
+2025-04-01 15:38:13,657 - INFO - Population: Total Population:16,348
+2025-04-01 15:38:13,683 - INFO - Income: Median Household Income:$62,164
+2025-04-01 15:38:13,708 - INFO - Employment Rate: Employment Rate:60.2%
+2025-04-01 15:38:13,710 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:38:13,711 - INFO - Processing county: Athens County, state: Ohio
+2025-04-01 15:38:17,702 - INFO - Navigating to: https://data.census.gov/all?q=Athens+County%2C+Ohio (Attempt 1/3)
+2025-04-01 15:38:19,454 - INFO - Scraping demographics for Athens County, Ohio...
+2025-04-01 15:38:38,685 - INFO - Population: Total Population:62,431
+2025-04-01 15:38:38,708 - INFO - Income: Median Household Income:$53,837
+2025-04-01 15:38:38,729 - INFO - Employment Rate: Employment Rate:53.6%
+2025-04-01 15:38:38,731 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:38:38,732 - INFO - Processing county: Atkinson County, state: Georgia
+2025-04-01 15:38:43,438 - INFO - Navigating to: https://data.census.gov/all?q=Atkinson+County%2C+Georgia (Attempt 1/3)
+2025-04-01 15:38:44,957 - INFO - Scraping demographics for Atkinson County, Georgia...
+2025-04-01 15:38:57,607 - INFO - Population: Total Population:8,286
+2025-04-01 15:38:57,628 - INFO - Income: Median Household Income:$38,438
+2025-04-01 15:38:57,659 - INFO - Employment Rate: Employment Rate:56.3%
+2025-04-01 15:38:57,662 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:38:57,662 - INFO - Processing county: Auglaize County, state: Ohio
+2025-04-01 15:39:03,296 - INFO - Navigating to: https://data.census.gov/all?q=Auglaize+County%2C+Ohio (Attempt 1/3)
+2025-04-01 15:39:04,860 - INFO - Scraping demographics for Auglaize County, Ohio...
+2025-04-01 15:39:19,021 - INFO - Population: Total Population:46,422
+2025-04-01 15:39:19,045 - INFO - Income: Median Household Income:$76,454
+2025-04-01 15:39:19,072 - INFO - Employment Rate: Employment Rate:65.0%
+2025-04-01 15:39:19,074 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:39:19,075 - INFO - Processing county: Augusta County, state: Virginia
+2025-04-01 15:39:26,055 - INFO - Navigating to: https://data.census.gov/all?q=Augusta+County%2C+Virginia (Attempt 1/3)
+2025-04-01 15:39:27,811 - INFO - Scraping demographics for Augusta County, Virginia...
+2025-04-01 15:39:43,746 - INFO - Population: Total Population:77,487
+2025-04-01 15:39:43,786 - INFO - Income: Median Household Income:$71,346
+2025-04-01 15:39:43,834 - INFO - Employment Rate: Employment Rate:58.5%
+2025-04-01 15:39:43,839 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:39:43,840 - INFO - Processing county: Austin County, state: Texas
+2025-04-01 15:39:47,254 - INFO - Navigating to: https://data.census.gov/all?q=Austin+County%2C+Texas (Attempt 1/3)
+2025-04-01 15:39:48,776 - INFO - Scraping demographics for Austin County, Texas...
+2025-04-01 15:39:54,183 - INFO - Population: Total Population:30,167
+2025-04-01 15:39:54,249 - INFO - Income: Median Household Income:$75,994
+2025-04-01 15:39:54,291 - INFO - Employment Rate: Employment Rate:57.8%
+2025-04-01 15:39:54,295 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:39:54,296 - INFO - Processing county: Avery County, state: North Carolina
+2025-04-01 15:39:57,964 - INFO - Navigating to: https://data.census.gov/all?q=Avery+County%2C+North+Carolina (Attempt 1/3)
+2025-04-01 15:39:59,518 - INFO - Scraping demographics for Avery County, North Carolina...
+2025-04-01 15:40:11,417 - INFO - Population: Total Population:17,806
+2025-04-01 15:40:11,446 - INFO - Income: Median Household Income:$57,657
+2025-04-01 15:40:11,468 - INFO - Employment Rate: Employment Rate:44.0%
+2025-04-01 15:40:11,470 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:40:11,471 - INFO - Processing county: Bacon County, state: Georgia
+2025-04-01 15:40:17,972 - INFO - Navigating to: https://data.census.gov/all?q=Bacon+County%2C+Georgia (Attempt 1/3)
+2025-04-01 15:40:19,621 - INFO - Scraping demographics for Bacon County, Georgia...
+2025-04-01 15:40:31,254 - INFO - Population: Total Population:11,140
+2025-04-01 15:40:31,287 - INFO - Income: Median Household Income:$50,310
+2025-04-01 15:40:31,325 - INFO - Employment Rate: Employment Rate:50.2%
+2025-04-01 15:40:31,331 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:40:31,331 - INFO - Processing county: Bailey County, state: Texas
+2025-04-01 15:40:36,745 - INFO - Navigating to: https://data.census.gov/all?q=Bailey+County%2C+Texas (Attempt 1/3)
+2025-04-01 15:40:37,893 - INFO - Scraping demographics for Bailey County, Texas...
+2025-04-01 15:40:49,311 - INFO - Population: Total Population:6,904
+2025-04-01 15:40:49,338 - INFO - Income: Median Household Income:$70,625
+2025-04-01 15:40:49,365 - INFO - Employment Rate: Employment Rate:48.6%
+2025-04-01 15:40:49,369 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:40:49,370 - INFO - Processing county: Baker County, state: Georgia
+2025-04-01 15:40:53,035 - INFO - Navigating to: https://data.census.gov/all?q=Baker+County%2C+Georgia (Attempt 1/3)
+2025-04-01 15:40:54,806 - INFO - Scraping demographics for Baker County, Georgia...
+2025-04-01 15:41:06,477 - INFO - Population: Total Population:2,876
+2025-04-01 15:41:06,504 - INFO - Income: Median Household Income:$44,405
+2025-04-01 15:41:06,526 - INFO - Employment Rate: Employment Rate:38.8%
+2025-04-01 15:41:06,529 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:41:06,530 - INFO - Processing county: Baker County, state: Oregon
+2025-04-01 15:41:11,385 - INFO - Navigating to: https://data.census.gov/all?q=Baker+County%2C+Oregon (Attempt 1/3)
+2025-04-01 15:41:13,008 - INFO - Scraping demographics for Baker County, Oregon...
+2025-04-01 15:41:27,345 - INFO - Population: Total Population:16,668
+2025-04-01 15:41:27,370 - INFO - Income: Median Household Income:$57,844
+2025-04-01 15:41:27,398 - INFO - Employment Rate: Employment Rate:46.7%
+2025-04-01 15:41:27,402 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:41:27,403 - INFO - Processing county: Baldwin County, state: Georgia
+2025-04-01 15:41:32,044 - INFO - Navigating to: https://data.census.gov/all?q=Baldwin+County%2C+Georgia (Attempt 1/3)
+2025-04-01 15:41:33,685 - INFO - Scraping demographics for Baldwin County, Georgia...
+2025-04-01 15:41:46,101 - INFO - Population: Total Population:43,799
+2025-04-01 15:41:46,130 - INFO - Income: Median Household Income:$55,413
+2025-04-01 15:41:46,157 - INFO - Employment Rate: Employment Rate:44.6%
+2025-04-01 15:41:46,160 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:41:46,161 - INFO - Processing county: Bandera County, state: Texas
+2025-04-01 15:41:50,271 - INFO - Navigating to: https://data.census.gov/all?q=Bandera+County%2C+Texas (Attempt 1/3)
+2025-04-01 15:41:51,852 - INFO - Scraping demographics for Bandera County, Texas...
+2025-04-01 15:41:56,712 - INFO - Population: Total Population:20,851
+2025-04-01 15:41:56,864 - INFO - Income: Median Household Income:$69,703
+2025-04-01 15:41:56,918 - INFO - Employment Rate: Employment Rate:47.9%
+2025-04-01 15:41:56,922 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:41:56,923 - INFO - Processing county: Banks County, state: Georgia
+2025-04-01 15:42:02,994 - INFO - Navigating to: https://data.census.gov/all?q=Banks+County%2C+Georgia (Attempt 1/3)
+2025-04-01 15:42:04,828 - INFO - Scraping demographics for Banks County, Georgia...
+2025-04-01 15:42:16,692 - INFO - Population: Total Population:18,035
+2025-04-01 15:42:16,713 - INFO - Income: Median Household Income:$68,830
+2025-04-01 15:42:16,740 - INFO - Employment Rate: Employment Rate:57.0%
+2025-04-01 15:42:16,744 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:42:16,745 - INFO - Processing county: Bannock County, state: Idaho
+2025-04-01 15:42:20,640 - INFO - Navigating to: https://data.census.gov/all?q=Bannock+County%2C+Idaho (Attempt 1/3)
+2025-04-01 15:42:22,397 - INFO - Scraping demographics for Bannock County, Idaho...
+2025-04-01 15:42:39,857 - INFO - Population: Total Population:87,018
+2025-04-01 15:42:39,898 - INFO - Income: Median Household Income:$68,495
+2025-04-01 15:42:39,940 - INFO - Employment Rate: Employment Rate:60.0%
+2025-04-01 15:42:39,949 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:42:39,950 - INFO - Processing county: Baraga County, state: Michigan
+2025-04-01 15:42:45,387 - INFO - Navigating to: https://data.census.gov/all?q=Baraga+County%2C+Michigan (Attempt 1/3)
+2025-04-01 15:42:46,815 - INFO - Scraping demographics for Baraga County, Michigan...
+2025-04-01 15:43:07,496 - INFO - Population: Total Population:8,158
+2025-04-01 15:43:07,522 - INFO - Income: Median Household Income:$55,117
+2025-04-01 15:43:07,557 - INFO - Employment Rate: Employment Rate:41.5%
+2025-04-01 15:43:07,560 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:43:07,560 - INFO - Processing county: Barber County, state: Kansas
+2025-04-01 15:43:14,491 - INFO - Navigating to: https://data.census.gov/all?q=Barber+County%2C+Kansas (Attempt 1/3)
+2025-04-01 15:43:16,336 - INFO - Scraping demographics for Barber County, Kansas...
+2025-04-01 15:43:41,948 - INFO - Population: Total Population:4,228
+2025-04-01 15:43:41,973 - INFO - Income: Median Household Income:$57,615
+2025-04-01 15:43:42,001 - INFO - Employment Rate: Employment Rate:64.8%
+2025-04-01 15:43:42,006 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:43:42,007 - INFO - Processing county: Barbour County, state: West Virginia
+2025-04-01 15:43:48,389 - INFO - Navigating to: https://data.census.gov/all?q=Barbour+County%2C+West+Virginia (Attempt 1/3)
+2025-04-01 15:43:50,042 - INFO - Scraping demographics for Barbour County, West Virginia...
+2025-04-01 15:44:05,188 - INFO - Population: Total Population:15,465
+2025-04-01 15:44:05,215 - INFO - Income: Median Household Income:$48,347
+2025-04-01 15:44:05,242 - INFO - Employment Rate: Employment Rate:44.7%
+2025-04-01 15:44:05,244 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:44:05,244 - INFO - Processing county: Barnes County, state: North Dakota
+2025-04-01 15:44:10,917 - INFO - Navigating to: https://data.census.gov/all?q=Barnes+County%2C+North+Dakota (Attempt 1/3)
+2025-04-01 15:44:13,078 - INFO - Scraping demographics for Barnes County, North Dakota...
+2025-04-01 15:44:20,106 - INFO - Population: Total Population:10,853
+2025-04-01 15:44:20,148 - INFO - Income: Median Household Income:$70,230
+2025-04-01 15:44:20,207 - INFO - Employment Rate: Employment Rate:60.5%
+2025-04-01 15:44:20,218 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:44:20,219 - INFO - Processing county: Barnstable County, state: Massachusetts
+2025-04-01 15:44:26,181 - INFO - Navigating to: https://data.census.gov/all?q=Barnstable+County%2C+Massachusetts (Attempt 1/3)
+2025-04-01 15:44:27,980 - INFO - Scraping demographics for Barnstable County, Massachusetts...
+2025-04-01 15:44:38,253 - INFO - Population: Total Population:228,996
+2025-04-01 15:44:38,276 - INFO - Income: Median Household Income:$89,893
+2025-04-01 15:44:38,343 - INFO - Employment Rate: Employment Rate:55.5%
+2025-04-01 15:44:38,347 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:44:38,348 - INFO - Processing county: Barron County, state: Wisconsin
+2025-04-01 15:44:45,133 - INFO - Navigating to: https://data.census.gov/all?q=Barron+County%2C+Wisconsin (Attempt 1/3)
+2025-04-01 15:44:46,784 - INFO - Scraping demographics for Barron County, Wisconsin...
+2025-04-01 15:45:00,547 - INFO - Population: Total Population:46,711
+2025-04-01 15:45:00,574 - INFO - Income: Median Household Income:$64,619
+2025-04-01 15:45:00,595 - INFO - Employment Rate: Employment Rate:60.1%
+2025-04-01 15:45:00,598 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:45:00,598 - INFO - Processing county: Barrow County, state: Georgia
+2025-04-01 15:45:04,345 - INFO - Navigating to: https://data.census.gov/all?q=Barrow+County%2C+Georgia (Attempt 1/3)
+2025-04-01 15:45:07,994 - INFO - Scraping demographics for Barrow County, Georgia...
+2025-04-01 15:45:41,086 - INFO - Population: Total Population:83,505
+2025-04-01 15:45:41,121 - INFO - Income: Median Household Income:$65,914
+2025-04-01 15:45:41,156 - INFO - Employment Rate: Employment Rate:65.9%
+2025-04-01 15:45:41,162 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:45:41,162 - INFO - Processing county: Barry County, state: Michigan
+2025-04-01 15:45:46,112 - INFO - Navigating to: https://data.census.gov/all?q=Barry+County%2C+Michigan (Attempt 1/3)
+2025-04-01 15:45:47,676 - INFO - Scraping demographics for Barry County, Michigan...
+2025-04-01 15:46:00,564 - INFO - Population: Total Population:62,423
+2025-04-01 15:46:00,596 - INFO - Income: Median Household Income:$77,873
+2025-04-01 15:46:00,622 - INFO - Employment Rate: Employment Rate:57.2%
+2025-04-01 15:46:00,625 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:46:00,632 - INFO - Processing county: Bartholomew County, state: Indiana
+2025-04-01 15:46:07,043 - INFO - Navigating to: https://data.census.gov/all?q=Bartholomew+County%2C+Indiana (Attempt 1/3)
+2025-04-01 15:46:08,378 - INFO - Scraping demographics for Bartholomew County, Indiana...
+2025-04-01 15:46:38,987 - INFO - Population: Total Population:82,208
+2025-04-01 15:46:39,007 - INFO - Income: Median Household Income:$81,832
+2025-04-01 15:46:39,039 - INFO - Employment Rate: Employment Rate:64.8%
+2025-04-01 15:46:39,043 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:46:39,044 - INFO - Processing county: Barton County, state: Kansas
+2025-04-01 15:46:42,376 - INFO - Navigating to: https://data.census.gov/all?q=Barton+County%2C+Kansas (Attempt 1/3)
+2025-04-01 15:46:43,989 - INFO - Scraping demographics for Barton County, Kansas...
+2025-04-01 15:46:56,791 - INFO - Population: Total Population:25,493
+2025-04-01 15:46:56,816 - INFO - Income: Median Household Income:$56,733
+2025-04-01 15:46:56,849 - INFO - Employment Rate: Employment Rate:61.0%
+2025-04-01 15:46:56,852 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:46:56,853 - INFO - Processing county: Bartow County, state: Georgia
+2025-04-01 15:47:02,023 - INFO - Navigating to: https://data.census.gov/all?q=Bartow+County%2C+Georgia (Attempt 1/3)
+2025-04-01 15:47:03,917 - INFO - Scraping demographics for Bartow County, Georgia...
+2025-04-01 15:47:12,606 - INFO - Population: Total Population:108,901
+2025-04-01 15:47:12,645 - INFO - Income: Median Household Income:$80,511
+2025-04-01 15:47:12,668 - INFO - Employment Rate: Employment Rate:62.1%
+2025-04-01 15:47:12,673 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:47:12,673 - INFO - Processing county: Bastrop County, state: Texas
+2025-04-01 15:47:19,262 - INFO - Navigating to: https://data.census.gov/all?q=Bastrop+County%2C+Texas (Attempt 1/3)
+2025-04-01 15:47:20,540 - INFO - Scraping demographics for Bastrop County, Texas...
+2025-04-01 15:47:49,508 - INFO - Population: Total Population:97,216
+2025-04-01 15:47:49,535 - INFO - Income: Median Household Income:$76,522
+2025-04-01 15:47:49,563 - INFO - Employment Rate: Employment Rate:57.1%
+2025-04-01 15:47:49,568 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:47:49,569 - INFO - Processing county: Bath County, state: Virginia
+2025-04-01 15:47:55,207 - INFO - Navigating to: https://data.census.gov/all?q=Bath+County%2C+Virginia (Attempt 1/3)
+2025-04-01 15:47:57,061 - INFO - Scraping demographics for Bath County, Virginia...
+2025-04-01 15:48:09,108 - INFO - Population: Total Population:4,209
+2025-04-01 15:48:09,133 - INFO - Income: Median Household Income:$61,709
+2025-04-01 15:48:09,160 - INFO - Employment Rate: Employment Rate:49.2%
+2025-04-01 15:48:09,163 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:48:09,164 - INFO - Processing county: Baxter County, state: Arkansas
+2025-04-01 15:48:14,305 - INFO - Navigating to: https://data.census.gov/all?q=Baxter+County%2C+Arkansas (Attempt 1/3)
+2025-04-01 15:48:15,524 - INFO - Scraping demographics for Baxter County, Arkansas...
+2025-04-01 15:48:29,045 - INFO - Population: Total Population:41,627
+2025-04-01 15:48:29,073 - INFO - Income: Median Household Income:$48,427
+2025-04-01 15:48:29,103 - INFO - Employment Rate: Employment Rate:41.7%
+2025-04-01 15:48:29,106 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:48:29,107 - INFO - Processing county: Bay County, state: Michigan
+2025-04-01 15:48:33,047 - INFO - Navigating to: https://data.census.gov/all?q=Bay+County%2C+Michigan (Attempt 1/3)
+2025-04-01 15:48:34,661 - INFO - Scraping demographics for Bay County, Michigan...
+2025-04-01 15:49:09,215 - INFO - Population: Total Population:103,856
+2025-04-01 15:49:09,242 - INFO - Income: Median Household Income:$58,675
+2025-04-01 15:49:09,272 - INFO - Employment Rate: Employment Rate:54.8%
+2025-04-01 15:49:09,277 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:49:09,278 - INFO - Processing county: Bayfield County, state: Wisconsin
+2025-04-01 15:49:14,341 - INFO - Navigating to: https://data.census.gov/all?q=Bayfield+County%2C+Wisconsin (Attempt 1/3)
+2025-04-01 15:49:16,636 - INFO - Scraping demographics for Bayfield County, Wisconsin...
+2025-04-01 15:49:23,602 - INFO - Population: Total Population:16,220
+2025-04-01 15:49:23,668 - INFO - Income: Median Household Income:$69,609
+2025-04-01 15:49:23,713 - INFO - Employment Rate: Employment Rate:52.1%
+2025-04-01 15:49:23,718 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:49:23,719 - INFO - Processing county: Baylor County, state: Texas
+2025-04-01 15:49:30,740 - INFO - Navigating to: https://data.census.gov/all?q=Baylor+County%2C+Texas (Attempt 1/3)
+2025-04-01 15:49:31,794 - INFO - Scraping demographics for Baylor County, Texas...
+2025-04-01 15:49:42,884 - INFO - Population: Total Population:3,465
+2025-04-01 15:49:42,913 - INFO - Income: Median Household Income:$42,313
+2025-04-01 15:49:42,944 - INFO - Employment Rate: Employment Rate:50.7%
+2025-04-01 15:49:42,950 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:49:42,951 - INFO - Processing county: Bear Lake County, state: Idaho
+2025-04-01 15:49:46,728 - INFO - Navigating to: https://data.census.gov/all?q=Bear+Lake+County%2C+Idaho (Attempt 1/3)
+2025-04-01 15:49:48,924 - INFO - Scraping demographics for Bear Lake County, Idaho...
+2025-04-01 15:50:06,371 - INFO - Population: Total Population:6,372
+2025-04-01 15:50:06,395 - INFO - Income: Median Household Income:$67,304
+2025-04-01 15:50:06,416 - INFO - Employment Rate: Employment Rate:55.7%
+2025-04-01 15:50:06,418 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:50:06,419 - INFO - Processing county: Beaufort County, state: North Carolina
+2025-04-01 15:50:10,232 - INFO - Navigating to: https://data.census.gov/all?q=Beaufort+County%2C+North+Carolina (Attempt 1/3)
+2025-04-01 15:50:11,968 - INFO - Scraping demographics for Beaufort County, North Carolina...
+2025-04-01 15:50:27,697 - INFO - Population: Total Population:44,652
+2025-04-01 15:50:27,727 - INFO - Income: Median Household Income:$57,997
+2025-04-01 15:50:27,754 - INFO - Employment Rate: Employment Rate:52.2%
+2025-04-01 15:50:27,759 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:50:27,760 - INFO - Processing county: Beaver County, state: Pennsylvania
+2025-04-01 15:50:32,024 - INFO - Navigating to: https://data.census.gov/all?q=Beaver+County%2C+Pennsylvania (Attempt 1/3)
+2025-04-01 15:50:33,556 - INFO - Scraping demographics for Beaver County, Pennsylvania...
+2025-04-01 15:50:45,993 - INFO - Population: Total Population:168,215
+2025-04-01 15:50:46,026 - INFO - Income: Median Household Income:$66,768
+2025-04-01 15:50:46,053 - INFO - Employment Rate: Employment Rate:60.6%
+2025-04-01 15:50:46,055 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:50:46,056 - INFO - Processing county: Beaver County, state: Utah
+2025-04-01 15:50:49,651 - INFO - Navigating to: https://data.census.gov/all?q=Beaver+County%2C+Utah (Attempt 1/3)
+2025-04-01 15:50:51,251 - INFO - Scraping demographics for Beaver County, Utah...
+2025-04-01 15:51:03,504 - INFO - Population: Total Population:7,072
+2025-04-01 15:51:03,526 - INFO - Income: Median Household Income:$85,603
+2025-04-01 15:51:03,551 - INFO - Employment Rate: Employment Rate:57.8%
+2025-04-01 15:51:03,554 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:51:03,554 - INFO - Processing county: Becker County, state: Minnesota
+2025-04-01 15:51:09,068 - INFO - Navigating to: https://data.census.gov/all?q=Becker+County%2C+Minnesota (Attempt 1/3)
+2025-04-01 15:51:10,309 - INFO - Scraping demographics for Becker County, Minnesota...
+2025-04-01 15:51:23,790 - INFO - Population: Total Population:35,183
+2025-04-01 15:51:23,819 - INFO - Income: Median Household Income:$71,117
+2025-04-01 15:51:23,847 - INFO - Employment Rate: Employment Rate:58.6%
+2025-04-01 15:51:23,850 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:51:23,851 - INFO - Processing county: Bedford County, state: Pennsylvania
+2025-04-01 15:51:30,769 - INFO - Navigating to: https://data.census.gov/all?q=Bedford+County%2C+Pennsylvania (Attempt 1/3)
+2025-04-01 15:51:31,941 - INFO - Scraping demographics for Bedford County, Pennsylvania...
+2025-04-01 15:51:47,575 - INFO - Population: Total Population:47,577
+2025-04-01 15:51:47,603 - INFO - Income: Median Household Income:$60,302
+2025-04-01 15:51:47,633 - INFO - Employment Rate: Employment Rate:56.3%
+2025-04-01 15:51:47,637 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:51:47,638 - INFO - Processing county: Bedford County, state: Tennessee
+2025-04-01 15:51:53,754 - INFO - Navigating to: https://data.census.gov/all?q=Bedford+County%2C+Tennessee (Attempt 1/3)
+2025-04-01 15:51:55,387 - INFO - Scraping demographics for Bedford County, Tennessee...
+2025-04-01 15:52:09,673 - INFO - Population: Total Population:50,237
+2025-04-01 15:52:09,695 - INFO - Income: Median Household Income:$62,197
+2025-04-01 15:52:09,722 - INFO - Employment Rate: Employment Rate:60.4%
+2025-04-01 15:52:09,726 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:52:09,727 - INFO - Processing county: Bedford County, state: Virginia
+2025-04-01 15:52:16,108 - INFO - Navigating to: https://data.census.gov/all?q=Bedford+County%2C+Virginia (Attempt 1/3)
+2025-04-01 15:52:17,644 - INFO - Scraping demographics for Bedford County, Virginia...
+2025-04-01 15:52:46,682 - INFO - Population: Total Population:79,462
+2025-04-01 15:52:46,704 - INFO - Income: Median Household Income:$73,456
+2025-04-01 15:52:46,726 - INFO - Employment Rate: Employment Rate:55.6%
+2025-04-01 15:52:46,729 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:52:46,729 - INFO - Processing county: Bee County, state: Texas
+2025-04-01 15:52:53,351 - INFO - Navigating to: https://data.census.gov/all?q=Bee+County%2C+Texas (Attempt 1/3)
+2025-04-01 15:52:56,865 - INFO - Scraping demographics for Bee County, Texas...
+2025-04-01 15:53:11,466 - INFO - Population: Total Population:31,047
+2025-04-01 15:53:11,488 - INFO - Income: Median Household Income:$56,075
+2025-04-01 15:53:11,514 - INFO - Employment Rate: Employment Rate:43.0%
+2025-04-01 15:53:11,516 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:53:11,517 - INFO - Processing county: Belknap County, state: New Hampshire
+2025-04-01 15:53:17,213 - INFO - Navigating to: https://data.census.gov/all?q=Belknap+County%2C+New+Hampshire (Attempt 1/3)
+2025-04-01 15:53:18,668 - INFO - Scraping demographics for Belknap County, New Hampshire...
+2025-04-01 15:53:25,744 - INFO - Population: Total Population:63,705
+2025-04-01 15:53:25,786 - INFO - Income: Median Household Income:$97,692
+2025-04-01 15:53:25,854 - INFO - Employment Rate: Employment Rate:60.5%
+2025-04-01 15:53:25,862 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:53:25,864 - INFO - Processing county: Bell County, state: Texas
+2025-04-01 15:53:32,665 - INFO - Navigating to: https://data.census.gov/all?q=Bell+County%2C+Texas (Attempt 1/3)
+2025-04-01 15:53:34,355 - INFO - Scraping demographics for Bell County, Texas...
+2025-04-01 15:54:19,255 - INFO - Population: Total Population:370,647
+2025-04-01 15:54:19,277 - INFO - Income: Median Household Income:$69,890
+2025-04-01 15:54:19,300 - INFO - Employment Rate: Employment Rate:56.0%
+2025-04-01 15:54:19,303 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:54:19,304 - INFO - Processing county: Belmont County, state: Ohio
+2025-04-01 15:54:23,476 - INFO - Navigating to: https://data.census.gov/all?q=Belmont+County%2C+Ohio (Attempt 1/3)
+2025-04-01 15:54:25,128 - INFO - Scraping demographics for Belmont County, Ohio...
+2025-04-01 15:54:53,107 - INFO - Population: Total Population:66,497
+2025-04-01 15:54:53,134 - INFO - Income: Median Household Income:$56,361
+2025-04-01 15:54:53,161 - INFO - Employment Rate: Employment Rate:54.0%
+2025-04-01 15:54:53,164 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:54:53,165 - INFO - Processing county: Beltrami County, state: Minnesota
+2025-04-01 15:54:57,320 - INFO - Navigating to: https://data.census.gov/all?q=Beltrami+County%2C+Minnesota (Attempt 1/3)
+2025-04-01 15:54:59,974 - INFO - Scraping demographics for Beltrami County, Minnesota...
+2025-04-01 15:55:17,849 - INFO - Population: Total Population:46,228
+2025-04-01 15:55:17,906 - INFO - Income: Median Household Income:$67,257
+2025-04-01 15:55:17,929 - INFO - Employment Rate: Employment Rate:60.2%
+2025-04-01 15:55:17,932 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:55:17,932 - INFO - Processing county: Ben Hill County, state: Georgia
+2025-04-01 15:55:21,186 - INFO - Navigating to: https://data.census.gov/all?q=Ben+Hill+County%2C+Georgia (Attempt 1/3)
+2025-04-01 15:55:23,144 - INFO - Scraping demographics for Ben Hill County, Georgia...
+2025-04-01 15:55:36,621 - INFO - Population: Total Population:17,194
+2025-04-01 15:55:36,658 - INFO - Income: Median Household Income:$39,081
+2025-04-01 15:55:36,688 - INFO - Employment Rate: Employment Rate:50.9%
+2025-04-01 15:55:36,691 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:55:36,693 - INFO - Processing county: Benewah County, state: Idaho
+2025-04-01 15:55:43,250 - INFO - Navigating to: https://data.census.gov/all?q=Benewah+County%2C+Idaho (Attempt 1/3)
+2025-04-01 15:55:45,139 - INFO - Scraping demographics for Benewah County, Idaho...
+2025-04-01 15:56:01,614 - INFO - Population: Total Population:9,530
+2025-04-01 15:56:01,644 - INFO - Income: Median Household Income:$56,553
+2025-04-01 15:56:01,681 - INFO - Employment Rate: Employment Rate:50.4%
+2025-04-01 15:56:01,684 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:56:01,686 - INFO - Processing county: Benson County, state: North Dakota
+2025-04-01 15:56:05,225 - INFO - Navigating to: https://data.census.gov/all?q=Benson+County%2C+North+Dakota (Attempt 1/3)
+2025-04-01 15:56:06,614 - INFO - Scraping demographics for Benson County, North Dakota...
+2025-04-01 15:56:24,272 - INFO - Population: Total Population:5,964
+2025-04-01 15:56:24,294 - INFO - Income: Median Household Income:$68,049
+2025-04-01 15:56:24,326 - INFO - Employment Rate: Employment Rate:51.2%
+2025-04-01 15:56:24,329 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:56:24,330 - INFO - Processing county: Benton County, state: Arkansas
+2025-04-01 15:56:27,773 - INFO - Navigating to: https://data.census.gov/all?q=Benton+County%2C+Arkansas (Attempt 1/3)
+2025-04-01 15:56:29,402 - INFO - Scraping demographics for Benton County, Arkansas...
+2025-04-01 15:57:15,795 - INFO - Population: Total Population:284,333
+2025-04-01 15:57:15,822 - INFO - Income: Median Household Income:$92,759
+2025-04-01 15:57:15,846 - INFO - Employment Rate: Employment Rate:65.9%
+2025-04-01 15:57:15,848 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:57:15,849 - INFO - Processing county: Benton County, state: Indiana
+2025-04-01 15:57:19,967 - INFO - Navigating to: https://data.census.gov/all?q=Benton+County%2C+Indiana (Attempt 1/3)
+2025-04-01 15:57:21,764 - INFO - Scraping demographics for Benton County, Indiana...
+2025-04-01 15:57:46,212 - INFO - Population: Total Population:8,719
+2025-04-01 15:57:46,236 - INFO - Income: Median Household Income:$61,811
+2025-04-01 15:57:46,266 - INFO - Employment Rate: Employment Rate:59.5%
+2025-04-01 15:57:46,269 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:57:46,270 - INFO - Processing county: Benton County, state: Minnesota
+2025-04-01 15:57:52,288 - INFO - Navigating to: https://data.census.gov/all?q=Benton+County%2C+Minnesota (Attempt 1/3)
+2025-04-01 15:57:57,407 - INFO - Scraping demographics for Benton County, Minnesota...
+2025-04-01 15:58:17,592 - INFO - Population: Total Population:41,379
+2025-04-01 15:58:17,617 - INFO - Income: Median Household Income:$71,480
+2025-04-01 15:58:17,645 - INFO - Employment Rate: Employment Rate:68.7%
+2025-04-01 15:58:17,648 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:58:17,648 - INFO - Processing county: Benton County, state: Oregon
+2025-04-01 15:58:24,039 - INFO - Navigating to: https://data.census.gov/all?q=Benton+County%2C+Oregon (Attempt 1/3)
+2025-04-01 15:58:25,984 - INFO - Scraping demographics for Benton County, Oregon...
+2025-04-01 15:59:06,267 - INFO - Population: Total Population:95,184
+2025-04-01 15:59:06,292 - INFO - Income: Median Household Income:$73,047
+2025-04-01 15:59:06,320 - INFO - Employment Rate: Employment Rate:58.4%
+2025-04-01 15:59:06,324 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:59:06,325 - INFO - Processing county: Benton County, state: Tennessee
+2025-04-01 15:59:10,805 - INFO - Navigating to: https://data.census.gov/all?q=Benton+County%2C+Tennessee (Attempt 1/3)
+2025-04-01 15:59:12,620 - INFO - Scraping demographics for Benton County, Tennessee...
+2025-04-01 15:59:33,164 - INFO - Population: Total Population:15,864
+2025-04-01 15:59:33,188 - INFO - Income: Median Household Income:$50,435
+2025-04-01 15:59:33,217 - INFO - Employment Rate: Employment Rate:46.9%
+2025-04-01 15:59:33,221 - INFO - --------------------------------------------------------------------------------
+2025-04-01 15:59:33,222 - INFO - Processing county: Benton County, state: Washington
+2025-04-01 15:59:36,687 - INFO - Navigating to: https://data.census.gov/all?q=Benton+County%2C+Washington (Attempt 1/3)
+2025-04-01 15:59:38,260 - INFO - Scraping demographics for Benton County, Washington...
+2025-04-01 16:00:21,879 - INFO - Population: Total Population:206,873
+2025-04-01 16:00:21,901 - INFO - Income: Median Household Income:$82,304
+2025-04-01 16:00:21,927 - INFO - Employment Rate: Employment Rate:59.1%
+2025-04-01 16:00:21,930 - INFO - --------------------------------------------------------------------------------
+2025-04-01 16:00:21,930 - INFO - Processing county: Benzie County, state: Michigan
+2025-04-01 16:00:26,787 - INFO - Navigating to: https://data.census.gov/all?q=Benzie+County%2C+Michigan (Attempt 1/3)
+2025-04-01 16:00:28,558 - INFO - Scraping demographics for Benzie County, Michigan...
+2025-04-01 16:00:41,831 - INFO - Population: Total Population:17,970
+2025-04-01 16:00:41,861 - INFO - Income: Median Household Income:$72,603
+2025-04-01 16:00:41,887 - INFO - Employment Rate: Employment Rate:52.4%
+2025-04-01 16:00:41,890 - INFO - --------------------------------------------------------------------------------
+2025-04-01 16:00:41,891 - INFO - Processing county: Berkeley County, state: West Virginia
+2025-04-01 16:00:48,495 - INFO - Navigating to: https://data.census.gov/all?q=Berkeley+County%2C+West+Virginia (Attempt 1/3)
+2025-04-01 16:00:50,168 - INFO - Scraping demographics for Berkeley County, West Virginia...
+2025-04-01 16:01:02,159 - INFO - Population: Total Population:122,076
+2025-04-01 16:01:02,185 - INFO - Income: Median Household Income:$79,625
+2025-04-01 16:01:02,218 - INFO - Employment Rate: Employment Rate:62.2%
+2025-04-01 16:01:02,222 - INFO - --------------------------------------------------------------------------------
+2025-04-01 16:01:02,222 - INFO - Processing county: Berks County, state: Pennsylvania
+2025-04-01 16:01:05,961 - INFO - Navigating to: https://data.census.gov/all?q=Berks+County%2C+Pennsylvania (Attempt 1/3)
+2025-04-01 16:01:07,912 - INFO - Scraping demographics for Berks County, Pennsylvania...
+2025-04-01 16:01:21,095 - INFO - Population: Total Population:428,849
+2025-04-01 16:01:21,121 - INFO - Income: Median Household Income:$75,675
+2025-04-01 16:01:21,148 - INFO - Employment Rate: Employment Rate:60.7%
+2025-04-01 16:01:21,153 - INFO - --------------------------------------------------------------------------------
+2025-04-01 16:01:21,154 - INFO - Processing county: Berkshire County, state: Massachusetts
+2025-04-01 16:01:25,775 - INFO - Navigating to: https://data.census.gov/all?q=Berkshire+County%2C+Massachusetts (Attempt 1/3)
+2025-04-01 16:01:27,262 - INFO - Scraping demographics for Berkshire County, Massachusetts...
+2025-04-01 16:02:03,412 - ERROR - Error scraping demographics for Berkshire County, Massachusetts: Page.wait_for_selector: Target page, context or browser has been closed
+Call log:
+  - waiting for locator(".highlight-description") to be visible
+  -     - locator resolved to 9 elements. Proceeding with the first one: <div data-v-b45629ac="" class="highlight-description">…</div>
+
+2025-04-01 16:02:03,418 - INFO - --------------------------------------------------------------------------------
+2025-04-01 16:02:03,419 - INFO - Processing county: Bernalillo County, state: New Mexico

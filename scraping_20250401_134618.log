@@ -1,0 +1,56 @@
+2025-04-01 13:46:18,170 - INFO - Script started
+2025-04-01 13:46:18,171 - INFO - Starting the main function
+2025-04-01 13:46:18,736 - INFO - Launching the browser
+2025-04-01 13:46:19,625 - INFO - Browser launched and new page created
+2025-04-01 13:46:19,639 - INFO - Output directory created at D:\code\cj_carter_all\demographics_data
+2025-04-01 13:46:19,639 - INFO - CSV file path set to D:\code\cj_carter_all\demographics_data\data_20250401_134619.csv
+2025-04-01 13:46:19,664 - INFO - CSV file initialized with headers
+2025-04-01 13:46:19,682 - INFO - Loaded 1904 counties from file
+2025-04-01 13:46:19,683 - INFO - Loaded 38 already processed counties
+2025-04-01 13:46:19,683 - INFO - Skipping already processed county: Accomack County, Virginia
+2025-04-01 13:46:19,684 - INFO - Skipping already processed county: Ada County, Idaho
+2025-04-01 13:46:19,685 - INFO - Skipping already processed county: Adams County, Idaho
+2025-04-01 13:46:19,686 - INFO - Skipping already processed county: Adams County, Indiana
+2025-04-01 13:46:19,686 - INFO - Skipping already processed county: Adams County, North Dakota
+2025-04-01 13:46:19,687 - INFO - Skipping already processed county: Adams County, Ohio
+2025-04-01 13:46:19,688 - INFO - Skipping already processed county: Adams County, Pennsylvania
+2025-04-01 13:46:19,688 - INFO - Skipping already processed county: Adams County, Washington
+2025-04-01 13:46:19,689 - INFO - Skipping already processed county: Adams County, Wisconsin
+2025-04-01 13:46:19,689 - INFO - Skipping already processed county: Aitkin County, Minnesota
+2025-04-01 13:46:19,690 - INFO - Skipping already processed county: Alamance County, North Carolina
+2025-04-01 13:46:19,693 - INFO - Skipping already processed county: Alameda County, California
+2025-04-01 13:46:19,694 - INFO - Skipping already processed county: Albany County, New York
+2025-04-01 13:46:19,695 - INFO - Skipping already processed county: Albemarle County, Virginia
+2025-04-01 13:46:19,696 - INFO - Skipping already processed county: Alcona County, Michigan
+2025-04-01 13:46:19,697 - INFO - Skipping already processed county: Aleutians East Borough, Alaska
+2025-04-01 13:46:19,697 - INFO - Skipping already processed county: Aleutians West Census Area, Alaska
+2025-04-01 13:46:19,698 - INFO - Skipping already processed county: Alexander County, North Carolina
+2025-04-01 13:46:19,698 - INFO - Skipping already processed county: Alger County, Michigan
+2025-04-01 13:46:19,699 - INFO - Skipping already processed county: Allegan County, Michigan
+2025-04-01 13:46:19,699 - INFO - Skipping already processed county: Allegany County, New York
+2025-04-01 13:46:19,699 - INFO - Skipping already processed county: Alleghany County, North Carolina
+2025-04-01 13:46:19,700 - INFO - Skipping already processed county: Alleghany County, Virginia
+2025-04-01 13:46:19,700 - INFO - Skipping already processed county: Allegheny County, Pennsylvania
+2025-04-01 13:46:19,701 - INFO - Skipping already processed county: Allen County, Indiana
+2025-04-01 13:46:19,702 - INFO - Skipping already processed county: Allen County, Kansas
+2025-04-01 13:46:19,703 - INFO - Skipping already processed county: Allen County, Ohio
+2025-04-01 13:46:19,704 - INFO - Skipping already processed county: Alpena County, Michigan
+2025-04-01 13:46:19,704 - INFO - Skipping already processed county: Alpine County, California
+2025-04-01 13:46:19,705 - INFO - Skipping already processed county: Amador County, California
+2025-04-01 13:46:19,705 - INFO - Skipping already processed county: Amelia County, Virginia
+2025-04-01 13:46:19,706 - INFO - Skipping already processed county: Amherst County, Virginia
+2025-04-01 13:46:19,708 - INFO - Skipping already processed county: Municipality of Anchorage, Alaska (a consolidated city-borough under Alaska law)
+2025-04-01 13:46:19,711 - INFO - Skipping already processed county: Anderson County, Kansas
+2025-04-01 13:46:19,711 - INFO - Skipping already processed county: Anderson County, Tennessee
+2025-04-01 13:46:19,712 - INFO - Skipping already processed county: Anderson County, Texas
+2025-04-01 13:46:19,712 - INFO - Skipping already processed county: Andrews County, Texas
+2025-04-01 13:46:19,713 - INFO - Skipping already processed county: Androscoggin County, Maine
+2025-04-01 13:46:19,713 - INFO - Processing county: Angelina County, state: Texas
+2025-04-01 13:46:23,887 - INFO - Navigating to: https://data.census.gov/all?q=Angelina+County%2C+Texas (Attempt 1/3)
+2025-04-01 13:46:31,292 - INFO - Scraping demographics for Angelina County, Texas...
+2025-04-01 13:47:00,234 - ERROR - Error scraping demographics for Angelina County, Texas: Page.wait_for_selector: Target page, context or browser has been closed
+Call log:
+  - waiting for locator(".highlight-description") to be visible
+
+2025-04-01 13:47:00,241 - INFO - --------------------------------------------------------------------------------
+2025-04-01 13:47:00,242 - INFO - Processing county: Anoka County, state: Minnesota
